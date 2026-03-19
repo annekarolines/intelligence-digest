@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Intelligence Digest</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- Header -->
+  <header class="header">
+    <div class="header-inner">
+      <div class="header-brand">
+        <span class="header-mark"></span>
+        <div>
+          <h1 class="header-title">Intelligence Digest</h1>
+          <p class="header-sub">Social Media Today — Curado por IA</p>
+        </div>
+      </div>
+      <div class="header-meta" id="lastUpdated">—</div>
+    </div>
+  </header>
+
+  <!-- Controls -->
+  <div class="controls-bar">
+    <div class="controls-inner">
+
+      <!-- Search -->
+      <div class="search-wrap">
+        <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+        </svg>
+        <input
+          type="search"
+          id="searchInput"
+          class="search-input"
+          placeholder="Buscar artigos..."
+          autocomplete="off"
+        >
+      </div>
+
+      <!-- Filters -->
+      <div class="filters" id="filterBar">
+        <button class="filter-pill active" data-cat="all">Todos</button>
+        <button class="filter-pill" data-cat="IA">IA</button>
+        <button class="filter-pill" data-cat="Redes Sociais">Redes Sociais</button>
+        <button class="filter-pill" data-cat="Comportamento">Comportamento</button>
+        <button class="filter-pill" data-cat="Estratégia">Estratégia</button>
+        <button class="filter-pill" data-cat="Dados & Métricas">Dados</button>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- Main -->
+  <main class="main">
+
+    <!-- Stats bar -->
+    <div class="stats-bar" id="statsBar"></div>
+
+    <!-- Empty state -->
+    <div class="empty-state" id="emptyState" style="display:none">
+      <div class="empty-icon">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+          <path d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+        </svg>
+      </div>
+      <h3>Nenhum artigo encontrado</h3>
+      <p>Execute <code>python fetch_digest.py</code> para buscar os artigos mais recentes.</p>
+    </div>
+
+    <!-- Cards grid -->
+    <div class="grid" id="articlesGrid"></div>
+
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <p>Intelligence Digest · Dados dos últimos 3 meses · <a href="https://www.socialmediatoday.com" target="_blank" rel="noopener">Social Media Today</a></p>
+  </footer>
+
+  <!-- Article card template -->
+  <template id="cardTemplate">
+    <article class="card">
+      <div class="card-top">
+        <span class="card-badge"></span>
+        <span class="card-date"></span>
+        <span class="card-score"></span>
+      </div>
+      <h2 class="card-title"></h2>
+      <p class="card-summary"></p>
+
+      <div class="card-insights">
+        <button class="insights-toggle" aria-expanded="false">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <polyline points="6 9 12 15 18 9"/>
+          </svg>
+          <span>Insights & Ações</span>
+        </button>
+        <div class="insights-body" hidden>
+          <div class="insights-section">
+            <p class="insights-label">Insights-chave</p>
+            <ul class="insights-list key-insights-list"></ul>
+          </div>
+          <div class="insights-section">
+            <p class="insights-label accent">Pontos acionáveis</p>
+            <ul class="insights-list actionable-list"></ul>
+          </div>
+        </div>
+      </div>
+
+      <a class="card-link" href="#" target="_blank" rel="noopener">
+        Ler artigo completo
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/>
+        </svg>
+      </a>
+    </article>
+  </template>
+
+  <script src="app.js"></script>
+</body>
+</html>
