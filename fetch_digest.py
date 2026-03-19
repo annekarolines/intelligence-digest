@@ -52,9 +52,9 @@ Estrutura exata do JSON:
   "relevante": true,
   "categoria": "IA",
   "titulo_pt": "título traduzido em português",
-  "resumo": "2 a 3 frases estratégicas sobre o que esse tema significa para agências",
-  "insights_chave": ["insight 1", "insight 2", "insight 3"],
-  "pontos_acionaveis": ["ação concreta 1", "ação concreta 2"],
+  "resumo": "1 frase direta sobre o que esse tema significa para agências",
+  "insights_chave": ["insight curto 1", "insight curto 2"],
+  "pontos_acionaveis": ["ação prática 1"],
   "score_relevancia": 8
 }}
 
@@ -62,9 +62,9 @@ Regras:
 - "relevante": true se o tema for redes sociais, IA em marketing, comportamento digital, dados/métricas, tendências para agências. false caso contrário.
 - "categoria": exatamente uma de: "IA" | "Redes Sociais" | "Comportamento" | "Estratégia" | "Dados & Métricas"
 - "titulo_pt": tradução natural do título (não literal se não soar bem em português)
-- "resumo": direto ao ponto, focado nas implicações para o trabalho de agência
-- "insights_chave": 3 pontos concretos e específicos ao tema do artigo
-- "pontos_acionaveis": 2 ações práticas que a agência pode adotar a partir dessa informação
+- "resumo": máximo 1 frase curta, focada na implicação prática para agências
+- "insights_chave": exatamente 2 bullets curtos (até 15 palavras cada)
+- "pontos_acionaveis": exatamente 1 ação prática e direta (até 15 palavras)
 - "score_relevancia": 1-10 (10 = crítico para o trabalho da agência)
 
 Título do artigo: {title}
@@ -231,8 +231,8 @@ def run():
                 "date": date_str,
                 "category": analysis.get("categoria", "Estratégia"),
                 "summary": analysis.get("resumo", ""),
-                "key_insights": analysis.get("insights_chave", [])[:3],
-                "actionable_points": analysis.get("pontos_acionaveis", [])[:2],
+                "key_insights": analysis.get("insights_chave", [])[:2],
+                "actionable_points": analysis.get("pontos_acionaveis", [])[:1],
                 "relevance_score": score,
             }
             new_articles.append(article)

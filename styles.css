@@ -199,7 +199,7 @@ body {
 .main {
   max-width: var(--max-w);
   margin: 0 auto;
-  padding: 28px 24px 48px;
+  padding: 20px 24px 40px;
 }
 
 .stats-bar {
@@ -223,10 +223,10 @@ body {
   background: var(--white);
   border: 1px solid var(--border);
   border-radius: var(--radius);
-  padding: 22px;
+  padding: 16px;
   display: flex;
   flex-direction: column;
-  gap: 14px;
+  gap: 10px;
   box-shadow: var(--shadow-sm);
   transition: box-shadow var(--transition), transform var(--transition), border-color var(--transition);
   position: relative;
@@ -313,10 +313,9 @@ body {
 
 /* Card summary */
 .card-summary {
-  font-size: .875rem;
+  font-size: .8125rem;
   color: var(--text-secondary);
-  line-height: 1.65;
-  flex: 1;
+  line-height: 1.5;
 }
 
 /* Insights accordion */
@@ -353,8 +352,8 @@ body {
 .insights-body {
   display: flex;
   flex-direction: column;
-  gap: 14px;
-  padding-top: 12px;
+  gap: 8px;
+  padding-top: 8px;
   animation: slideDown .2s ease;
 }
 
@@ -383,11 +382,11 @@ body {
 }
 
 .insights-list li {
-  font-size: .8125rem;
+  font-size: .8rem;
   color: var(--text-secondary);
-  padding-left: 16px;
+  padding-left: 14px;
   position: relative;
-  line-height: 1.5;
+  line-height: 1.4;
 }
 
 .insights-list li::before {
