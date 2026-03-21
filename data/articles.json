@@ -1,6 +1,74 @@
 {
-  "last_updated": "2026-03-20T10:33:28.831889+00:00",
+  "last_updated": "2026-03-21T10:20:09.074225+00:00",
   "articles": [
+    {
+      "id": "45a6253caa1c3caba2870bfc6fbbc40e",
+      "title": "Edits adds more effects and enhanced editing controls",
+      "title_pt": "Edits adiciona mais efeitos e controles de edição aprimorados",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOVp0WklLYXlwTEJ0YjIzZmtmOU0yNUNNTmlWa3RncVNSRm1DQmFDY1hJZVRsTldmUW5PR1FtSURVSkZLVi1abEhURTYtUHkzUGFGY2NZaEJEeEJwOU00SGJ2S3Y3elJqZUg3dHZVZ3BFa25Ja1hLMVkwTWx5OXdXMWFyR1pNZkJSak8zT0JXQm5idmhZSFRwQmFLTmZBMDR5?oc=5",
+      "date": "2026-03-19",
+      "category": "Redes Sociais",
+      "summary": "Agências devem explorar novas funcionalidades de edição para produzir conteúdo mais criativo e engajador nas plataformas.",
+      "key_insights": [
+        "Atualizações de plataformas exigem adaptação contínua na criação de conteúdo.",
+        "Ferramentas de edição aprimoradas permitem storytelling mais rico e valor de produção."
+      ],
+      "actionable_points": [
+        "Capacitar equipes para dominar novas ferramentas de edição e explorar potencial criativo."
+      ],
+      "relevance_score": 8
+    },
+    {
+      "id": "4f7c83c2798244b89f7d02a850adc2a5",
+      "title": "Meta replaces moderation staff with AI, expands access to AI support bot",
+      "title_pt": "Meta substitui equipe de moderação por IA e expande acesso a bot de suporte com IA",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNjd3VGR6M3M5QURXdHpPck40eUNYMGRuNU5SSE11R2syekFwdkQwTEpfUGNlT2pVX1lSWmVSWG83WkRLVllsNk1RTXZhSlVDaUV3RDN6VE9RenBDenRxTGFhWGpqVk9FV3N1a2J4S0RmQUNoYzU2dGY4UnQ0blhWUDZZLXA0bng4Vk82SDQ1NlBHbmIyYnZycHZDbDZZWXk0SUFZZlFpdnZIcmdEUGxueGxLR29WUTdr?oc=5",
+      "date": "2026-03-19",
+      "category": "IA",
+      "summary": "Agências precisam entender como a IA da Meta impacta moderação de conteúdo e suporte ao cliente, adaptando estratégias.",
+      "key_insights": [
+        "A IA da Meta redefine moderação e suporte, exigindo novas abordagens para brand safety.",
+        "Impacto direto na visibilidade do conteúdo e na gestão de crises em plataformas Meta."
+      ],
+      "actionable_points": [
+        "Revisar estratégias de conteúdo e brand safety para ambientes de moderação por IA."
+      ],
+      "relevance_score": 8
+    },
+    {
+      "id": "403525247d0f1503a91d4c3932d9f58a",
+      "title": "X adds comment downvotes to improve algorithmic ranking",
+      "title_pt": "X adiciona votos negativos em comentários para melhorar o ranqueamento algorítmico",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSHdOd2lvdHEwdm1GVFM3M2dlZy00TlZwZTZEWXdSS2pEbjY3SUt2RVlHZVkwTWNUSWoyNk80THp0MU5DandwdG1WUHJZYkdObVRDUFZMNmJkdmhENDNOSTlLQmw1am5vRWtpTWZDMVdnY3E1R2V1Q0tkVUhBWXk2YVpKdEctTkxNXzVwdEk0SXR0bkJTZmFUNjdEOXM0aXhzRmdkaDlwS2FWdmF2RUx6Tg?oc=5",
+      "date": "2026-03-19",
+      "category": "Redes Sociais",
+      "summary": "Agências devem adaptar estratégias de conteúdo para o novo ranqueamento algorítmico de X, impactado por votos negativos.",
+      "key_insights": [
+        "A visibilidade do conteúdo em X será diretamente impactada pela recepção negativa dos usuários.",
+        "Estratégias de engajamento devem focar em conteúdo de alta qualidade para evitar downvotes."
+      ],
+      "actionable_points": [
+        "Monitorar a taxa de downvotes em X e ajustar a estratégia de conteúdo para evitar impactos negativos."
+      ],
+      "relevance_score": 8
+    },
+    {
+      "id": "186748457f9bdcf189c2d5d53f3f4918",
+      "title": "YouTube launches AI-powered Reimagine option for Shorts",
+      "title_pt": "YouTube lança opção Reimagine com IA para Shorts",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPY29YaWxDR2F1TmhYQXpQU0lmbnpoelFHVGViVXFGRVFXZVhlbVVocHlZeXZITV9xbDFubDVyNzR3ak54SV9HdnhWNjVYekFRemhXYzNzRHpEaFZmSnh0bVl0UjdPT1J2LWF1WGd6UFBtNG9uSXRtcnk1WmNCdDdManNKaTdTQVd1bFZyTUVoWEZmWFZQd2d2M1hxTkhvaFRvcmtn?oc=5",
+      "date": "2026-03-18",
+      "category": "IA",
+      "summary": "Agências podem explorar novas ferramentas de IA para otimizar a criação e engajamento de conteúdo em Shorts.",
+      "key_insights": [
+        "IA generativa no YouTube Shorts otimiza a produção de vídeos curtos.",
+        "Agências que dominam essa IA ganham vantagem na criação de conteúdo viral."
+      ],
+      "actionable_points": [
+        "Capacitar equipes na utilização da ferramenta Reimagine para campanhas de Shorts."
+      ],
+      "relevance_score": 8
+    },
     {
       "id": "d5633b9a5f38336d7a8b26379c971806",
       "title": "Facebook looks to lure high-profile creators with new program",
@@ -165,6 +233,23 @@
         "Monitorar as métricas de uso e engajamento de Bitmojis no Snapchat após a mudança, buscando insights para otimizar a criatividade e a performance das campanhas dos clientes."
       ],
       "relevance_score": 7
+    },
+    {
+      "id": "45f230ecdae322ad53126bf76f686e95",
+      "title": "Meta switches to Comscore Markets data for auto ads",
+      "title_pt": "Meta adota dados da Comscore Markets para anúncios automotivos",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS2ZEVFdxakwyZnVwOUNUSDZER29LMVd2YXBCNkFwbjZ4bGVFRExWYy1kZWF4UGU1LTJRcU9NRl83ZzAxU1NJNS1NU0ItX1FvNXJVWVQ2VjFaLWZSRWpVV0xOOG9XQ0xVLXJJbnMteER0cTBpSlpSVmwwYlk5ZzhwOUNrWEVmVXd6cFdjQWRSMGVPQ1hrUExCWmhsRjMwdw?oc=5",
+      "date": "2026-03-16",
+      "category": "Dados & Métricas",
+      "summary": "Agências devem ajustar estratégias de segmentação e mensuração para campanhas automotivas na Meta, dada a nova fonte de dados.",
+      "key_insights": [
+        "A mudança afeta diretamente a segmentação e mensuração de campanhas automotivas na Meta.",
+        "Agências precisam compreender as métricas e demografia dos dados Comscore Markets."
+      ],
+      "actionable_points": [
+        "Estudar a metodologia Comscore para otimizar campanhas automotivas e relatórios de performance."
+      ],
+      "relevance_score": 8
     },
     {
       "id": "da3508975e046572ff75cc0b3bc06cd3",
@@ -639,6 +724,23 @@
       "actionable_points": [
         "Educar clientes sobre os riscos e as novas diretrizes do LinkedIn, enfatizando a importância do engajamento genuíno e ético.",
         "Auditar e otimizar as estratégias de conteúdo e distribuição no LinkedIn para garantir que promovam interações autênticas e de alto valor, alinhadas às políticas da plataforma."
+      ],
+      "relevance_score": 8
+    },
+    {
+      "id": "3a746599612e8638c06c3b4f751496b7",
+      "title": "YouTube Expands Auto-Dubbing to All Creators",
+      "title_pt": "YouTube Expande Dublagem Automática para Todos os Criadores",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOay1WcjhCY2twcjJCenFnclpvMkNOV3M1WGpnM2lxRmFJOG5VcUtKbkY1RG1mTl9LNWd2Y0c4ZTczc2tEOWhkZWQ0WjZXMXNjS1pvRXBYQlROYTBER0pBZHBvN3dBa1J3c05MRm8xMEFDUFA2UlVacm9GbUt6czRoZXMzbXdja2FDMDBXSFpveWtJOWtr?oc=5",
+      "date": "2026-02-04",
+      "category": "IA",
+      "summary": "Agências podem expandir o alcance de campanhas e conteúdos de clientes globalmente, otimizando a produção para múltiplos idiomas.",
+      "key_insights": [
+        "Abre portas para campanhas globais sem barreiras de idioma, ampliando o público-alvo.",
+        "Requer revisão de estratégias de conteúdo e localização para aproveitar a funcionalidade."
+      ],
+      "actionable_points": [
+        "Avaliar o potencial da dublagem automática para conteúdos de clientes, visando expansão internacional."
       ],
       "relevance_score": 8
     },
