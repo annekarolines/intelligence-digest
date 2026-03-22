@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T10:20:09.074225+00:00",
+  "last_updated": "2026-03-22T10:20:38.575102+00:00",
   "articles": [
     {
       "id": "45a6253caa1c3caba2870bfc6fbbc40e",
@@ -142,6 +142,23 @@
       "relevance_score": 8
     },
     {
+      "id": "271a5e61498aca6259873e3f55316ef1",
+      "title": "X experiments with pre-share alerts for AI content",
+      "title_pt": "X experimenta alertas pré-compartilhamento para conteúdo de IA",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOb0ZRYjFuUEtkMVRUbHRjSk81MWotSVlrSmh3Mmlhc1BjSXZ0MEtKOXRBZTd1Y2dfS0xHMHlEV0dUMzhROEJEZWRfUHpFZWY1THRCRDBZWTBaZG9Gc1NWd0NNUGZPcTlDb3UyTXV2c0I0M2xlOEgtemkwcUJfYTVnOUg5SE5hMDBHNTlONTNJVjZOd05UTnJBNTFCRGg3VHM?oc=5",
+      "date": "2026-03-17",
+      "category": "IA",
+      "summary": "Agências devem se preparar para a sinalização de conteúdo de IA nas plataformas, impactando estratégias de criação e distribuição.",
+      "key_insights": [
+        "Plataformas como X estão se adaptando à proliferação de conteúdo gerado por IA.",
+        "A transparência sobre o uso de IA será um fator crítico na confiança e engajamento do público."
+      ],
+      "actionable_points": [
+        "Desenvolver diretrizes internas para uso e divulgação de conteúdo de IA, garantindo conformidade e transparência."
+      ],
+      "relevance_score": 8
+    },
+    {
       "id": "11d3a7668523b2a3cdc3cbe4a3313185",
       "title": "Reddit shares insight into the growth of sports fandoms",
       "title_pt": "Reddit compartilha insights sobre o crescimento de comunidades de fãs de esportes",
@@ -233,6 +250,23 @@
         "Monitorar as métricas de uso e engajamento de Bitmojis no Snapchat após a mudança, buscando insights para otimizar a criatividade e a performance das campanhas dos clientes."
       ],
       "relevance_score": 7
+    },
+    {
+      "id": "89837ba05e536024bdf057b7abcbdde2",
+      "title": "X commits to altering its verification program in EU",
+      "title_pt": "X se compromete a alterar seu programa de verificação na UE",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNmQ4YWUtakQ5QWkxRWg3WFFvZGRZVmhXeVJIclQyNXdaQi1BZzR5M3dJSDBKSHZOdFJMRUZoWlpjc21GY0FKZUl4TnJSY0J3NFg1eUNGV0lrMXQ4aXRxOWc4b0xaemdRdWZ3cWRjOUJiQ3RjUzU5WVlXYUZnNHg3anlHcERwYzdKUjYzUmVRYjkyRDRJUEZvbF9TQjNUTENlYTd6WU1GR2ctTklF?oc=5",
+      "date": "2026-03-16",
+      "category": "Redes Sociais",
+      "summary": "Agências precisarão adaptar estratégias de credibilidade e gestão de perfis verificados de clientes na plataforma X, especialmente na UE.",
+      "key_insights": [
+        "Mudanças em programas de verificação afetam a percepção de autenticidade e autoridade de marcas.",
+        "Regulamentações regionais (UE) exigem adaptação específica das estratégias de presença digital."
+      ],
+      "actionable_points": [
+        "Monitorar atualizações do programa de verificação do X para clientes com atuação na UE."
+      ],
+      "relevance_score": 8
     },
     {
       "id": "45f230ecdae322ad53126bf76f686e95",
@@ -605,6 +639,23 @@
         "Começar a testar ferramentas de IA para criação de conteúdo e análise de audiência em redes sociais."
       ],
       "relevance_score": 9
+    },
+    {
+      "id": "54b99ac8351d83cf8c7193e7a1a56c1e",
+      "title": "Meta outlines improved scam protection in Messenger app",
+      "title_pt": "Meta detalha melhorias na proteção contra golpes no aplicativo Messenger",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVkFlTlpBWWd1TXR1YUdqbFlNdlNLLXAwOEo1Z1JyczRxQUw5VWVSQmFrN3YtQ0FlbW9QU1FjQU1yMnhzQkMzWHl4emFlSFloYUJSNU93R2RiRTZOQktGaFptSUVkNWhPLWE3VDJSZkI3T1ZMaVdCeGk0aGQzMEFsU08tQmxDOHU2TmlqdVJwam1FeFZNdUtaVm04RVdCTUxIcHQ4?oc=5",
+      "date": "2026-03-09",
+      "category": "Redes Sociais",
+      "summary": "Agências devem considerar a segurança aprimorada do Messenger para fortalecer a confiança do consumidor e a integridade da marca.",
+      "key_insights": [
+        "Maior segurança pode elevar a confiança do usuário e a credibilidade das marcas no Messenger.",
+        "Redução de golpes minimiza riscos de associação negativa para campanhas e perfis de clientes."
+      ],
+      "actionable_points": [
+        "Revisar estratégias de engajamento no Messenger, destacando a segurança da plataforma aos clientes."
+      ],
+      "relevance_score": 8
     },
     {
       "id": "a29543c9603785a0e54d95142803feb6",
