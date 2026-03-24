@@ -13,6 +13,8 @@ const CATEGORY_LABELS = {
 let allArticles = [];
 let activeFilter = "all";
 let searchQuery = "";
+let currentPage = 1;
+const PAGE_SIZE = 10;
 
 // --- Data loading ---
 
@@ -102,6 +104,7 @@ function renderAll() {
   if (!allArticles.length) {
     emptyState.style.display = "flex";
     statsBar.textContent = "";
+    renderPagination(0, 0);
     return;
   }
 
@@ -110,6 +113,8 @@ function renderAll() {
   const total = allArticles.length;
   const showing = filtered.length;
   const catLabel = activeFilter === "all" ? "todas as categorias" : activeFilter;
+  const totalPages = Math.ceil(showing / PAGE_SIZE);
+  if (currentPage > totalPages) currentPage = 1;
 
   statsBar.textContent = showing === total
     ? `${total} artigos dos últimos 3 meses`
@@ -121,14 +126,41 @@ function renderAll() {
     msg.style.cssText = "display:flex;padding:40px 0";
     msg.innerHTML = `<p style="color:var(--text-muted);font-size:.875rem">Nenhum artigo encontrado para "<strong>${escapeHtml(searchQuery)}</strong>"</p>`;
     grid.appendChild(msg);
+    renderPagination(0, 0);
     return;
   }
 
+  const start = (currentPage - 1) * PAGE_SIZE;
+  const paginated = filtered.slice(start, start + PAGE_SIZE);
   const template = document.getElementById("cardTemplate");
-  filtered.forEach(article => {
-    const card = buildCard(template, article);
-    grid.appendChild(card);
-  });
+  paginated.forEach(article => grid.appendChild(buildCard(template, article)));
+  renderPagination(currentPage, totalPages);
+}
+
+function renderPagination(page, total) {
+  const bar = document.getElementById("paginationBar");
+  bar.innerHTML = "";
+  if (total <= 1) return;
+
+  const prev = document.createElement("button");
+  prev.className = "page-btn" + (page <= 1 ? " disabled" : "");
+  prev.disabled = page <= 1;
+  prev.innerHTML = "← anterior";
+  prev.addEventListener("click", () => { currentPage--; renderAll(); window.scrollTo({top: document.getElementById("tdsSection").offsetTop - 120, behavior:"smooth"}); });
+
+  const info = document.createElement("span");
+  info.className = "page-info";
+  info.textContent = `${page} / ${total}`;
+
+  const next = document.createElement("button");
+  next.className = "page-btn" + (page >= total ? " disabled" : "");
+  next.disabled = page >= total;
+  next.innerHTML = "próximo →";
+  next.addEventListener("click", () => { currentPage++; renderAll(); window.scrollTo({top: document.getElementById("tdsSection").offsetTop - 120, behavior:"smooth"}); });
+
+  bar.appendChild(prev);
+  bar.appendChild(info);
+  bar.appendChild(next);
 }
 
 function buildCard(template, article) {
@@ -189,10 +221,10 @@ function buildCard(template, article) {
 document.getElementById("filterBar").addEventListener("click", e => {
   const pill = e.target.closest(".filter-pill");
   if (!pill) return;
-
   document.querySelectorAll(".filter-pill").forEach(p => p.classList.remove("active"));
   pill.classList.add("active");
   activeFilter = pill.dataset.cat;
+  currentPage = 1;
   renderAll();
 });
 
@@ -201,6 +233,7 @@ document.getElementById("searchInput").addEventListener("input", e => {
   clearTimeout(searchTimeout);
   searchTimeout = setTimeout(() => {
     searchQuery = e.target.value.trim();
+    currentPage = 1;
     renderAll();
   }, 250);
 });

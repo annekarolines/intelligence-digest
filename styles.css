@@ -252,13 +252,6 @@ body {
   padding: 20px 24px 40px;
 }
 
-.stats-bar {
-  font-size: .8125rem;
-  color: var(--text-muted);
-  margin-bottom: 20px;
-  min-height: 20px;
-}
-
 .grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -472,6 +465,76 @@ body {
 .card-link:hover {
   color: var(--magenta);
   gap: 10px;
+}
+
+/* ===================================================
+   tds news — título da seção principal
+   =================================================== */
+
+.tds-header {
+  display: flex;
+  align-items: baseline;
+  gap: 16px;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+}
+
+.tds-title {
+  font-size: 2rem;
+  font-weight: 800;
+  letter-spacing: -.05em;
+  color: var(--text-primary);
+  line-height: 1;
+  flex-shrink: 0;
+}
+
+.stats-bar {
+  font-size: .8125rem;
+  color: var(--text-muted);
+  min-height: 20px;
+}
+
+/* ===================================================
+   Paginação
+   =================================================== */
+
+.pagination-bar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  padding: 32px 0 8px;
+}
+
+.page-btn {
+  height: 36px;
+  padding: 0 18px;
+  border-radius: var(--radius-pill);
+  border: 1.5px solid var(--border);
+  background: var(--white);
+  font-size: .8125rem;
+  font-weight: 500;
+  font-family: inherit;
+  color: var(--text-secondary);
+  cursor: pointer;
+  transition: all var(--transition);
+}
+
+.page-btn:hover:not(.disabled) {
+  border-color: var(--blue);
+  color: var(--blue);
+}
+
+.page-btn.disabled {
+  opacity: .35;
+  cursor: default;
+}
+
+.page-info {
+  font-size: .8125rem;
+  color: var(--text-muted);
+  min-width: 48px;
+  text-align: center;
 }
 
 /* ===================================================

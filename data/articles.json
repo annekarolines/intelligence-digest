@@ -1,6 +1,240 @@
 {
-  "last_updated": "2026-03-20T10:08:31.636591+00:00",
+  "last_updated": "2026-03-24T17:32:10.675740+00:00",
   "articles": [
+    {
+      "id": "907ec84307f59cac0042da204e547fce",
+      "title": "Mark Zuckerberg is creating an AI clone of himself",
+      "title_pt": "Mark Zuckerberg está criando um clone de IA de si mesmo",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc0tLZ0x6ekVJaWplbXBBQTJjR3hQUmtNbVZ2aFhRbUxiZ3RCSjdMYVJ5UGxWVVktNVBLVFI4R1FTaDBHdzIxay1ocjZZSFlfcS1QdUh6Y3NnZWxtbXVFSmtFNGkyeUFhYWtYOVYzeXVOb2o0aEFxSW9nX0lBMldkREdsbGY1RGM0NkpaYmFid0lma2wwb05KcXBPbjg?oc=5",
+      "date": "2026-03-23",
+      "category": "IA",
+      "summary": "Agências devem se preparar para a era dos clones de IA, que transformarão a interação digital e a gestão de imagem de marcas e personalidades.",
+      "key_insights": [
+        "Clones de IA podem revolucionar a criação de conteúdo e o engajamento em redes sociais.",
+        "Marcas e influenciadores podem adotar essa tecnologia para escalar sua presença digital."
+      ],
+      "actionable_points": [
+        "Monitorar o desenvolvimento de IA generativa para criação de personas digitais e avatares."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "dccd65c8bf91cfd556e733503fb74ece",
+      "title": "Instagram adds AI transition option for still image-based Stories",
+      "title_pt": "Instagram adiciona opção de transição com IA para Stories baseados em imagens estáticas",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVUJVVmJBRUJRcFdfUi00TTlvUF9UX2dHOGF1QlVuejNxQmVnMERkU3IzeHRBbGRlSVAzSXBLSE95VHQ4aTFTeGZTMUt2SEVlQTM1N3ItUjNtXzlTUDFzLW5kcTd5bFpYOUpvbFBYQ1p0aGlJSzQ2a2F1MUdVbHpBRERVTnA0QlRSRmwyLVBleTlrOHZ3RFpQTEl0VVZJQ0E2R3FUT2Z5a3lqbFYwVlFwdw?oc=5",
+      "date": "2026-03-23",
+      "category": "IA",
+      "summary": "Agências podem usar IA para criar Stories mais dinâmicos e engajadores a partir de imagens estáticas, otimizando a produção de conteúdo.",
+      "key_insights": [
+        "A IA simplifica a criação de conteúdo visual dinâmico em Stories, aumentando a qualidade.",
+        "Potencializa o engajamento e a narrativa visual com menos esforço de produção."
+      ],
+      "actionable_points": [
+        "Testar e integrar transições de IA em estratégias de Stories para clientes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "f608aaf81dad093b08662a17e8da0822",
+      "title": "YouTube adds updated tools to its creator partnership program",
+      "title_pt": "YouTube atualiza ferramentas para seu programa de parceria com criadores",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVWtKU09CalhObnMwTDRnODQyM2gyT0FqTEUtSG1uU01MU3l5WFYyM1FuUlRaSlpuR25NdWVGemg2dlVxaURYVlo0Nmpwc19wZXlRRHVvUnFuOS1BVjFzN2E0d1hYdUh1QW13c20yT0NaMU5nXzVRR0plcW9yT2VTUVROc2psZkZCYV93UlNpZzRQQkd0UGNkMlpXSzBaRGNnWTVBZXpDVExOTHM?oc=5",
+      "date": "2026-03-23",
+      "category": "Redes Sociais",
+      "summary": "Agências devem monitorar estas atualizações para otimizar estratégias de conteúdo e parcerias com criadores no YouTube.",
+      "key_insights": [
+        "Novas ferramentas podem otimizar monetização e formatos de conteúdo para criadores.",
+        "Impacta estratégias de marketing de influência e performance de campanhas no YouTube."
+      ],
+      "actionable_points": [
+        "Analisar as novas ferramentas do YouTube para integrar em estratégias de conteúdo e influência de clientes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "1a500a5a7eeae4ac9e4029c094a384ee",
+      "title": "Why social media marketers are switching to cloud phones in 2026",
+      "title_pt": "Por que profissionais de marketing de redes sociais estão migrando para telefones em nuvem em 2026",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWl9Md3JkV21leS1UeUV2dS00cUg0VDFwY1RlTTVncHpxbl9faTJuSWx1aGpQUDBlOHl5Vm1oUEw2S05XS1l2RjMwTlJ3TldHWTJyRWw5OWlVVlB3TzZ6UVlHN2stb09sUFBEb19VVk12WWY0ZHBLR0lqZEp6Um9qbU0wcWZTajJ3T2Vub2Z2RDVVUmltTmtrLUdaU0tBSEZlVHZQY19FRERFNno1eEcxOA?oc=5",
+      "date": "2026-03-23",
+      "category": "Redes Sociais",
+      "summary": "Agências devem considerar a adoção de telefones em nuvem para otimizar a comunicação e operação de suas equipes de social media.",
+      "key_insights": [
+        "Modernização das ferramentas de comunicação para equipes de social media.",
+        "Potencial para integrar atendimento ao cliente e gestão de leads via social."
+      ],
+      "actionable_points": [
+        "Investigar e testar plataformas de telefonia em nuvem para otimizar operações internas."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "37b6b9017fb2acbcec53dbc7bdae5d38",
+      "title": "Instagram allows users to rearrange carousel posts",
+      "title_pt": "Instagram permite que usuários reordenem posts de carrossel",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdzFhSTRPQTNOUHBIcTFPX21OU25XS3VLX2hkSjZkWnMzMmgySllQTDlfampzZVlzNkZDT2ptXzZVS1h3WlVEZkVuWFlPc3BnLS0xQmozbS1BX0VCVmMtLWVGMnZtZjk4bzkwZC03ZEtzNGlidnBxM0RFZmVkTHZBWXlXdzViVmxZcHBEam5BTGdBdy11M3lBVkJHVVc?oc=5",
+      "date": "2026-03-23",
+      "category": "Redes Sociais",
+      "summary": "Agências podem otimizar a narrativa e o impacto de posts carrossel, melhorando a performance do conteúdo.",
+      "key_insights": [
+        "Maior flexibilidade na edição pós-publicação de carrosséis.",
+        "Otimização da sequência visual para melhor engajamento e storytelling."
+      ],
+      "actionable_points": [
+        "Revisar e ajustar a ordem de carrosséis para maximizar a performance e o impacto."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "dfdb8833eec86c91000e164698ddd451",
+      "title": "LinkedIn’s latest promotional campaign targets marketing professionals",
+      "title_pt": "Nova campanha promocional do LinkedIn mira profissionais de marketing",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM3ZadWlsNmFBWHVJTTNqbWJLY054QVhJZE84LWFJLW9OSlQyZE44bTNvbUtjZEN6ZDY3ODlwSkhnbVhPaWZyT244QVhfb01Cbm1OcHNNMnYtTS1sRDVfbjdUSllHUXBZWThfVG5LMlp5SXpGRVF3QUc3OHJoMWlCTUc0VFc4bW9WRlBQcFZhQWJrUldGNEpUc3NRLUowQ1lsNUZ0MTBRRnN0SnF1RjBSZWdxbkFJUQ?oc=5",
+      "date": "2026-03-23",
+      "category": "Redes Sociais",
+      "summary": "Agências devem observar como o LinkedIn se posiciona para atrair profissionais de marketing, influenciando estratégias de conteúdo e aquisição de talentos.",
+      "key_insights": [
+        "LinkedIn está investindo para ser o hub principal para profissionais de marketing.",
+        "A campanha pode revelar novas funcionalidades ou abordagens de engajamento na plataforma."
+      ],
+      "actionable_points": [
+        "Analisar a campanha do LinkedIn para otimizar estratégias de conteúdo e prospecção na plataforma."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "996b0d98ecc75e074ab9db1be820fce7",
+      "title": "YouTube tests video highlights preview feature",
+      "title_pt": "YouTube testa recurso de prévia de destaques de vídeo",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONzVIVWVieUtkNXVmVnhXSHlIclNFMjhvWGxRdWdtVHFQMzNkamZocEl2Wk5IVW1OQ2JXYktjOVBOWTV3amlJenNiV04taU1JR29pTnRvNjNsenNJUWRzdmx2X2FNQlBTdlgxeG9rbDJpZ2VLaEZsLXZIUTJZeFhXVUxESEhqaGNHVWdGeWRnSlVfV2d6Z0t3?oc=5",
+      "date": "2026-03-22",
+      "category": "Redes Sociais",
+      "summary": "Agências devem otimizar a criação de conteúdo para aproveitar prévias de vídeo, aumentando engajamento e alcance no YouTube.",
+      "key_insights": [
+        "Melhora a descoberta e retenção, exigindo destaques de vídeo mais impactantes.",
+        "Permite capturar a atenção do público rapidamente, otimizando o tempo de visualização."
+      ],
+      "actionable_points": [
+        "Desenvolver estratégias para criar trechos de vídeo curtos e envolventes que gerem curiosidade."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "588197992638fac4d40c5a341d51004c",
+      "title": "Human speech and presence help drive Reels engagement",
+      "title_pt": "Fala e presença humana impulsionam o engajamento nos Reels",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYWNRc3FjSVNIWWVEeUZnOUxjQlJvX01aOUpUaGVLNDdvZ2pJanA5TFY1SjJUck9HUkQtSExoNzlNWXZpNFB5Tkp6RVNSOHVQZWRkWWY3dlA2WjFqRS05ME1IenN4Rl9xV3hYeDBjS1FzbjdSYTAzU01iZ1NKT0tjWXFHRFR6UmJYTTZITnBoMUR3eXZMR0h1dFhZYjFWcHZF?oc=5",
+      "date": "2026-03-22",
+      "category": "Redes Sociais",
+      "summary": "Agências devem priorizar a autenticidade e a presença humana em estratégias de conteúdo para Reels, visando maior conexão e performance.",
+      "key_insights": [
+        "Conteúdo com voz e rosto humano gera maior conexão e confiança com a audiência.",
+        "Algoritmos de Reels valorizam interações mais orgânicas e pessoais, aumentando o alcance."
+      ],
+      "actionable_points": [
+        "Orientar clientes a usar criadores internos ou influenciadores com fala natural e espontânea."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "efa59708234d982683915c0c5943b3e8",
+      "title": "Elon Musk held liable for misleading investors ahead of Twitter acquisition",
+      "title_pt": "Elon Musk responsabilizado por enganar investidores antes da aquisição do Twitter",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbk5ZN0dXOGt4Q1ZmVmZJS09lMW5kXzhBcnpvWjhVMDh5dmVVdktISDdWaGZ1Z1ZadmxDa1NfdVVzQjZIanlyR0lkSmpoX2l6V3U3NzlxSFpxNjlvZk00WjhwbnE0QXJQVnY4TWRSa2FQeTRTLVhhZi10X0E1OXY3cDdad0ZVRlBxR1lPa0pST19LMnI5emxEZE5scDk2NGxtLTRwOElyOWsybUl3N1NvZ1M5WFAzd0dtSUxBU19B?oc=5",
+      "date": "2026-03-22",
+      "category": "Redes Sociais",
+      "summary": "A responsabilização de Elon Musk por práticas enganosas na aquisição do Twitter pode impactar a percepção de estabilidade e confiança na plataforma X, exigindo atenção das agências.",
+      "key_insights": [
+        "Decisões legais contra líderes de plataformas afetam a confiança e o futuro da rede.",
+        "Agências devem monitorar a governança de plataformas para avaliar riscos e oportunidades."
+      ],
+      "actionable_points": [
+        "Avaliar o impacto de decisões legais na reputação e estabilidade de plataformas-chave."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "4f7c83c2798244b89f7d02a850adc2a5",
+      "title": "Meta replaces moderation staff with AI, expands access to AI support bot",
+      "title_pt": "Meta substitui equipe de moderação por IA, expande acesso a bot de suporte com IA",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNjd3VGR6M3M5QURXdHpPck40eUNYMGRuNU5SSE11R2syekFwdkQwTEpfUGNlT2pVX1lSWmVSWG83WkRLVllsNk1RTXZhSlVDaUV3RDN6VE9RenBDenRxTGFhWGpqVk9FV3N1a2J4S0RmQUNoYzU2dGY4UnQ0blhWUDZZLXA0bng4Vk82SDQ1NlBHbmIyYnZycHZDbDZZWXk0SUFZZlFpdnZIcmdEUGxueGxLR29WUTdr?oc=5",
+      "date": "2026-03-19",
+      "category": "IA",
+      "summary": "Agências devem se preparar para um ambiente de plataforma cada vez mais automatizado por IA, impactando moderação e suporte.",
+      "key_insights": [
+        "A moderação de conteúdo por IA pode alterar as diretrizes e detecção de violações.",
+        "Bots de suporte IA redefinem a experiência do usuário e a resolução de problemas."
+      ],
+      "actionable_points": [
+        "Revisar estratégias de conteúdo para alinhamento com moderação IA e orientar clientes sobre suporte automatizado."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "403525247d0f1503a91d4c3932d9f58a",
+      "title": "X adds comment downvotes to improve algorithmic ranking",
+      "title_pt": "X adiciona downvotes em comentários para melhorar o ranking algorítmico",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSHdOd2lvdHEwdm1GVFM3M2dlZy00TlZwZTZEWXdSS2pEbjY3SUt2RVlHZVkwTWNUSWoyNk80THp0MU5DandwdG1WUHJZYkdObVRDUFZMNmJkdmhENDNOSTlLQmw1am5vRWtpTWZDMVdnY3E1R2V1Q0tkVUhBWXk2YVpKdEctTkxNXzVwdEk0SXR0bkJTZmFUNjdEOXM0aXhzRmdkaDlwS2FWdmF2RUx6Tg?oc=5",
+      "date": "2026-03-19",
+      "category": "Redes Sociais",
+      "summary": "Agências devem adaptar estratégias de conteúdo e engajamento para a nova dinâmica de visibilidade no X, influenciada por downvotes.",
+      "key_insights": [
+        "Impacto direto na visibilidade orgânica de posts e comentários de clientes.",
+        "Necessidade de monitorar a percepção do público para evitar downvotes negativos."
+      ],
+      "actionable_points": [
+        "Revisar estratégias de conteúdo para X, focando em engajamento positivo e relevância."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "45a6253caa1c3caba2870bfc6fbbc40e",
+      "title": "Edits adds more effects and enhanced editing controls",
+      "title_pt": "Edits adiciona mais efeitos e controles de edição aprimorados",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOVp0WklLYXlwTEJ0YjIzZmtmOU0yNUNNTmlWa3RncVNSRm1DQmFDY1hJZVRsTldmUW5PR1FtSURVSkZLVi1abEhURTYtUHkzUGFGY2NZaEJEeEJwOU00SGJ2S3Y3elJqZUg3dHZVZ3BFa25Ja1hLMVkwTWx5OXdXMWFyR1pNZkJSak8zT0JXQm5idmhZSFRwQmFLTmZBMDR5?oc=5",
+      "date": "2026-03-19",
+      "category": "Redes Sociais",
+      "summary": "Agências devem explorar novas funcionalidades de edição para criar conteúdo mais dinâmico e engajador, otimizando a produção criativa.",
+      "key_insights": [
+        "Novas ferramentas de edição permitem narrativas visuais mais ricas e diferenciadas.",
+        "Acompanhar atualizações de funcionalidades é vital para manter a relevância criativa."
+      ],
+      "actionable_points": [
+        "Capacitar equipes para dominar novas ferramentas e explorar seu potencial criativo."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "186748457f9bdcf189c2d5d53f3f4918",
+      "title": "YouTube launches AI-powered Reimagine option for Shorts",
+      "title_pt": "YouTube lança opção Reimagine com IA para Shorts",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPY29YaWxDR2F1TmhYQXpQU0lmbnpoelFHVGViVXFGRVFXZVhlbVVocHlZeXZITV9xbDFubDVyNzR3ak54SV9HdnhWNjVYekFRemhXYzNzRHpEaFZmSnh0bVl0UjdPT1J2LWF1WGd6UFBtNG9uSXRtcnk1WmNCdDdManNKaTdTQVd1bFZyTUVoWEZmWFZQd2d2M1hxTkhvaFRvcmtn?oc=5",
+      "date": "2026-03-18",
+      "category": "IA",
+      "summary": "Agências devem explorar o 'Reimagine' do YouTube para otimizar a criação de conteúdo em vídeo curto com IA, aumentando a eficiência e criatividade.",
+      "key_insights": [
+        "A IA na criação de Shorts pode escalar a produção e personalização de conteúdo rapidamente.",
+        "Novas ferramentas de IA exigem experimentação contínua para descobrir formatos inovadores e eficazes."
+      ],
+      "actionable_points": [
+        "Capacitar equipes para integrar o 'Reimagine' na estratégia de conteúdo de Shorts para clientes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
     {
       "id": "8008301219b56b4c0beddae608788c27",
       "title": "Meta rolls out Manus AI assistance tools for marketers",
@@ -376,6 +610,24 @@
       "relevance_score": 8
     },
     {
+      "id": "6cb08b93ea029be7b5548bfd044d0fd9",
+      "title": "Snapchat to host AR exhibition at SXSW with Jonathan Yeo",
+      "title_pt": "Snapchat sediará exposição de Realidade Aumentada no SXSW com Jonathan Yeo",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdmlOcmhDN1ZUb0xlV2NyZFN2YnVSMXdvQkR1bWV2TzlZbVRQUGlad0o3R3RISWhvTVdxMmFnTlNOTTZiQlNtd1Q5OElDaU0wdGVuRHpTWng3V2I4dW1IcUg3T3NrRTB2WEEyYVU4dXBhMWtLQncyZDRKMl92d25tSVNpN0ZtalJwdHNjcGNNRy1Gci02eHB0enpTNi1IaUFNc0VBbw?oc=5",
+      "date": "2026-03-12",
+      "category": "IA",
+      "summary": "Agências devem explorar a Realidade Aumentada como ferramenta imersiva para campanhas em redes sociais, antecipando tendências de engajamento.",
+      "key_insights": [
+        "AR em redes sociais cria experiências imersivas e inovadoras para marcas.",
+        "Eventos como SXSW destacam o futuro da interação digital e marketing experiencial."
+      ],
+      "actionable_points": [
+        "Desenvolver protótipos de campanhas AR para clientes, explorando plataformas como Snapchat."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
       "id": "b01c4736a137ae94fcd035b8db85fff1",
       "title": "LinkedIn tests out AI-powered interview screening",
       "title_pt": "LinkedIn testa triagem de entrevistas impulsionada por IA",
@@ -641,6 +893,42 @@
         "Avaliar e integrar dublagem automática em estratégias de conteúdo para clientes com alcance internacional."
       ],
       "relevance_score": 8
+    },
+    {
+      "id": "510c69d1099363f5c6475644923f0fa2",
+      "title": "Meta Bans Teen Access To AI Bot Characters",
+      "title_pt": "Meta proíbe acesso de adolescentes a personagens de IA",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSUptMG1JWFQ3UVhDUzhXUk9Nd2xoRlhmaXA4cFltdG9VS2VtdGFTM1htU0FWNUlsNm5yS2RQd3NYbXlZZXR5cGlETDJfc1I3aWl3OHYtMlVrS3NMejFXQktsbnZOYzVQZkJRbjEwRlA3TW9RbVVPN2M5WTU0YXhGQXVLbU5zSDk2c0ZRTGkyY3ItZw?oc=5",
+      "date": "2026-01-25",
+      "category": "IA",
+      "summary": "Agências devem revisar estratégias de IA para campanhas com adolescentes, considerando restrições de plataformas.",
+      "key_insights": [
+        "Regulamentação de IA em plataformas sociais impacta segmentação por idade.",
+        "Necessidade de desenvolver conteúdo de IA seguro e adequado para públicos jovens."
+      ],
+      "actionable_points": [
+        "Auditar campanhas de IA existentes para conformidade com novas restrições de idade."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "8503770bf9b8107415b5f2359521b82a",
+      "title": "TikTok Adds More AI-Powered Tools To Assist TikTok Shop Merchants",
+      "title_pt": "TikTok Adiciona Mais Ferramentas com IA para Auxiliar Vendedores do TikTok Shop",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSmxSZzFINTV6YnhRYURtNng4Z043UExFM21UNnJvZDlhdmVDdkxYYVExVi1vM2RJdml2VVlNVWo2eFczc0RpRVJwd2xROFhMd2llQ0YtVC1hUVduUFBBVE5ldWtWbl9YTjNMWmJteUFlVkRfd0hSU0FMVldRTVgzSDh2U1dlZGNHRnN2eUlBaEdfQlJKUEM0cHl6ZXNrT2ZwaC1qU0dMaFZqZ09MRnBtaQ?oc=5",
+      "date": "2026-01-15",
+      "category": "IA",
+      "summary": "Agências devem explorar as ferramentas de IA do TikTok Shop para otimizar vendas e conteúdo de e-commerce para clientes.",
+      "key_insights": [
+        "A IA no social commerce é vital para otimização de vendas e experiência do consumidor.",
+        "Agências devem dominar estas ferramentas para criar campanhas mais eficientes e escaláveis."
+      ],
+      "actionable_points": [
+        "Capacitar equipes para usar as novas ferramentas de IA do TikTok Shop em estratégias de clientes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
     },
     {
       "id": "ba335b5ca5abaa2be2e3a15269deaf6b",
