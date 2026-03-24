@@ -23,6 +23,7 @@ async function loadData() {
     const data = await res.json();
     allArticles = data.articles || [];
     updateLastUpdated(data.last_updated);
+    renderNvds();
     renderAll();
   } catch (err) {
     document.getElementById("emptyState").style.display = "flex";
@@ -52,6 +53,100 @@ function getFiltered() {
       a.actionable_points?.some(p => p.toLowerCase().includes(q));
     return matchCat && matchSearch;
   });
+}
+
+// --- nvds ---
+
+function renderNvds() {
+  const section = document.getElementById("nvdsSection");
+  const grid = document.getElementById("nvdsGrid");
+  const summaryEl = document.getElementById("nvdsSummary");
+
+  if (!allArticles.length) { section.style.display = "none"; return; }
+
+  // Artigos da rodagem mais recente (data mais alta)
+  const mostRecentDate = allArticles[0]?.date;
+  const todayArticles = allArticles.filter(a => a.date === mostRecentDate);
+
+  // Top 3 por relevância
+  const top3 = [...todayArticles]
+    .sort((a, b) => (b.relevance_score || 0) - (a.relevance_score || 0))
+    .slice(0, 3);
+
+  // Resumo do dia
+  const catCounts = {};
+  todayArticles.forEach(a => { catCounts[a.category] = (catCounts[a.category] || 0) + 1; });
+  const catStr = Object.entries(catCounts)
+    .sort((a, b) => b[1] - a[1])
+    .map(([cat, n]) => `${n} ${cat.toLowerCase()}`)
+    .join(" · ");
+  const d = new Date(mostRecentDate + "T12:00:00");
+  const dateStr = d.toLocaleDateString("pt-BR", { day: "2-digit", month: "long" });
+  summaryEl.textContent = `${dateStr} · ${todayArticles.length} artigos coletados · ${catStr}`;
+
+  grid.innerHTML = "";
+  top3.forEach(article => grid.appendChild(buildNvdsCard(article)));
+}
+
+function buildNvdsCard(article) {
+  const card = document.createElement("a");
+  card.className = "nvds-card";
+  card.href = article.url || "#";
+  card.target = "_blank";
+  card.rel = "noopener";
+  card.dataset.cat = article.category || "";
+
+  // Visual: imagem ou gradiente
+  const visual = document.createElement("div");
+  visual.className = "nvds-card-visual";
+  if (article.image_url) {
+    const img = document.createElement("img");
+    img.className = "nvds-card-img";
+    img.src = article.image_url;
+    img.alt = "";
+    img.loading = "lazy";
+    img.onerror = () => { img.replaceWith(makeGradient()); };
+    visual.appendChild(img);
+  } else {
+    visual.appendChild(makeGradient());
+  }
+
+  // Body
+  const body = document.createElement("div");
+  body.className = "nvds-card-body";
+
+  const top = document.createElement("div");
+  top.className = "nvds-card-top";
+  const badge = document.createElement("span");
+  badge.className = "card-badge";
+  badge.textContent = article.category || "—";
+  const s = article.relevance_score || 0;
+  const score = document.createElement("span");
+  score.className = `card-score${s >= 8 ? " high" : s >= 6 ? " med" : ""}`;
+  score.textContent = `${s}/10`;
+  top.appendChild(badge);
+  top.appendChild(score);
+
+  const title = document.createElement("h3");
+  title.className = "nvds-card-title";
+  title.textContent = article.title_pt || article.title || "";
+
+  const summary = document.createElement("p");
+  summary.className = "nvds-card-summary";
+  summary.textContent = article.summary || "";
+
+  body.appendChild(top);
+  body.appendChild(title);
+  body.appendChild(summary);
+  card.appendChild(visual);
+  card.appendChild(body);
+  return card;
+}
+
+function makeGradient() {
+  const div = document.createElement("div");
+  div.className = "nvds-card-gradient";
+  return div;
 }
 
 // --- Rendering ---

@@ -100,6 +100,127 @@ body {
 }
 
 /* ===================================================
+   nvds — destaques do dia
+   =================================================== */
+
+.nvds {
+  background: var(--white);
+  border-bottom: 1px solid var(--border);
+  padding: 28px 0 32px;
+}
+
+.nvds-inner {
+  max-width: var(--max-w);
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+.nvds-header { margin-bottom: 20px; }
+
+.nvds-title {
+  font-size: 2rem;
+  font-weight: 800;
+  letter-spacing: -.05em;
+  color: var(--text-primary);
+  line-height: 1;
+}
+
+.nvds-summary {
+  font-size: .75rem;
+  color: var(--text-muted);
+  margin-top: 5px;
+  text-transform: lowercase;
+}
+
+.nvds-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+
+/* nvds card */
+.nvds-card {
+  background: var(--white);
+  border-radius: var(--radius);
+  box-shadow: 0 2px 8px rgba(0,0,0,.07), 0 8px 28px rgba(0,0,0,.09);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  color: inherit;
+  transition: box-shadow var(--transition), transform var(--transition);
+}
+
+.nvds-card:hover {
+  box-shadow: 0 4px 16px rgba(0,0,0,.11), 0 20px 48px rgba(0,0,0,.13);
+  transform: translateY(-3px);
+}
+
+.nvds-card-visual {
+  width: 100%;
+  aspect-ratio: 16 / 8;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.nvds-card-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.nvds-card-gradient {
+  width: 100%;
+  height: 100%;
+}
+
+.nvds-card[data-cat="IA"] .nvds-card-gradient {
+  background: linear-gradient(135deg, #0f2d7a 0%, #1346b7 55%, #4168d0 100%);
+}
+.nvds-card[data-cat="Redes Sociais"] .nvds-card-gradient {
+  background: linear-gradient(135deg, #a01535 0%, #e3395a 55%, #f07090 100%);
+}
+.nvds-card[data-cat="Comportamento"] .nvds-card-gradient {
+  background: linear-gradient(135deg, #92400e 0%, #d97706 55%, #fbbf24 100%);
+}
+.nvds-card[data-cat="Estratégia"] .nvds-card-gradient {
+  background: linear-gradient(135deg, #1e293b 0%, #475569 55%, #94a3b8 100%);
+}
+.nvds-card[data-cat="Dados & Métricas"] .nvds-card-gradient {
+  background: linear-gradient(135deg, #0c4a6e 0%, #0369a1 55%, #38bdf8 100%);
+}
+
+.nvds-card-body {
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  flex: 1;
+}
+
+.nvds-card-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.nvds-card-title {
+  font-size: .9375rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  line-height: 1.4;
+  letter-spacing: -.01em;
+}
+
+.nvds-card-summary {
+  font-size: .8rem;
+  color: var(--text-secondary);
+  line-height: 1.5;
+}
+
+/* ===================================================
    Controls bar
    =================================================== */
 
@@ -505,6 +626,10 @@ body {
 }
 
 @media (max-width: 768px) {
+  .nvds-inner { padding: 0 16px; }
+  .nvds-grid { grid-template-columns: 1fr; gap: 14px; }
+  .nvds-card-visual { aspect-ratio: 16 / 7; }
+
   .header-inner { padding: 14px 16px; }
   .header-title { font-size: 1.1rem; }
   .header-meta { display: none; }

@@ -111,6 +111,27 @@ def parse_date(entry):
     return None
 
 
+def try_get_image(url):
+    """Tenta extrair og:image do artigo original. Falha silenciosa."""
+    try:
+        import requests
+        from bs4 import BeautifulSoup
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                          "AppleWebKit/537.36 (KHTML, like Gecko) "
+                          "Chrome/121.0.0.0 Safari/537.36"
+        }
+        r = requests.get(url, headers=headers, timeout=8, allow_redirects=True)
+        if r.status_code == 200 and "socialmediatoday.com" in r.url:
+            soup = BeautifulSoup(r.text, "html.parser")
+            og = soup.find("meta", property="og:image")
+            if og and og.get("content"):
+                return og["content"]
+    except Exception:
+        pass
+    return None
+
+
 def analyze_with_gemini(title, date_str, retries=3):
     """Usa Gemini para analisar relevância e gerar resumo em português."""
     full_prompt = SYSTEM_PROMPT + "\n\n" + ANALYSIS_PROMPT.format(title=title, date=date_str)
@@ -208,6 +229,8 @@ def run():
 
         print(f"   [{i+1}/{len(new_entries)}] {title[:65]}...")
 
+        image_url = try_get_image(url)
+
         if i > 0:
             time.sleep(REQUEST_DELAY)  # respeita rate limit do free tier
 
@@ -234,6 +257,7 @@ def run():
                 "key_insights": analysis.get("insights_chave", [])[:2],
                 "actionable_points": analysis.get("pontos_acionaveis", [])[:1],
                 "relevance_score": score,
+                "image_url": image_url,
             }
             new_articles.append(article)
             print(f"           → {article['category']} | Score: {score}/10\n")
