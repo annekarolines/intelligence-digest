@@ -1,175 +1,22 @@
 {
-  "last_updated": "2026-03-24T10:44:16.746553+00:00",
+  "last_updated": "2026-03-20T10:08:31.636591+00:00",
   "articles": [
     {
-      "id": "f608aaf81dad093b08662a17e8da0822",
-      "title": "YouTube adds updated tools to its creator partnership program",
-      "title_pt": "YouTube atualiza ferramentas para seu programa de parceria com criadores",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVWtKU09CalhObnMwTDRnODQyM2gyT0FqTEUtSG1uU01MU3l5WFYyM1FuUlRaSlpuR25NdWVGemg2dlVxaURYVlo0Nmpwc19wZXlRRHVvUnFuOS1BVjFzN2E0d1hYdUh1QW13c20yT0NaMU5nXzVRR0plcW9yT2VTUVROc2psZkZCYV93UlNpZzRQQkd0UGNkMlpXSzBaRGNnWTVBZXpDVExOTHM?oc=5",
-      "date": "2026-03-23",
-      "category": "Redes Sociais",
-      "summary": "Agências devem adaptar suas estratégias de marketing de influência para aproveitar as novas ferramentas do YouTube.",
-      "key_insights": [
-        "Novas ferramentas podem otimizar a gestão e performance de campanhas com criadores.",
-        "Acompanhar atualizações é crucial para manter a competitividade em marketing de influência."
-      ],
-      "actionable_points": [
-        "Analisar as novas ferramentas do YouTube para integrar nas estratégias de clientes."
-      ],
-      "relevance_score": 8
-    },
-    {
-      "id": "dfdb8833eec86c91000e164698ddd451",
-      "title": "LinkedIn’s latest promotional campaign targets marketing professionals",
-      "title_pt": "Nova campanha promocional do LinkedIn mira profissionais de marketing",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM3ZadWlsNmFBWHVJTTNqbWJLY054QVhJZE84LWFJLW9OSlQyZE44bTNvbUtjZEN6ZDY3ODlwSkhnbVhPaWZyT244QVhfb01Cbm1OcHNNMnYtTS1sRDVfbjdUSllHUXBZWThfVG5LMlp5SXpGRVF3QUc3OHJoMWlCTUc0VFc4bW9WRlBQcFZhQWJrUldGNEpUc3NRLUowQ1lsNUZ0MTBRRnN0SnF1RjBSZWdxbkFJUQ?oc=5",
-      "date": "2026-03-23",
-      "category": "Redes Sociais",
-      "summary": "A campanha sinaliza oportunidades para agências aprimorarem estratégias B2B e de branding no LinkedIn.",
-      "key_insights": [
-        "LinkedIn reforça seu valor como plataforma essencial para marketing B2B e branding profissional.",
-        "Analisar a campanha revela tendências e formatos eficazes para engajar profissionais."
-      ],
-      "actionable_points": [
-        "Estudar a campanha para otimizar estratégias de conteúdo e publicidade B2B para clientes."
-      ],
-      "relevance_score": 8
-    },
-    {
-      "id": "dccd65c8bf91cfd556e733503fb74ece",
-      "title": "Instagram adds AI transition option for still image-based Stories",
-      "title_pt": "Instagram adiciona opção de transição com IA para Stories baseados em imagens estáticas",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVUJVVmJBRUJRcFdfUi00TTlvUF9UX2dHOGF1QlVuejNxQmVnMERkU3IzeHRBbGRlSVAzSXBLSE95VHQ4aTFTeGZTMUt2SEVlQTM1N3ItUjNtXzlTUDFzLW5kcTd5bFpYOUpvbFBYQ1p0aGlJSzQ2a2F1MUdVbHpBRERVTnA0QlRSRmwyLVBleTlrOHZ3RFpQTEl0VVZJQ0E2R3FUT2Z5a3lqbFYwVlFwdw?oc=5",
-      "date": "2026-03-23",
-      "category": "IA",
-      "summary": "Agências podem explorar novas ferramentas de IA para otimizar a criação de conteúdo visual e engajar audiências nos Stories do Instagram.",
-      "key_insights": [
-        "A IA aprimora a criação de Stories, tornando-os mais dinâmicos e profissionais com menos esforço.",
-        "Novas funcionalidades de IA exigem experimentação para otimizar o engajamento e a estética visual."
-      ],
-      "actionable_points": [
-        "Testar e integrar as transições de IA nos Stories dos clientes para avaliar impacto e performance."
-      ],
-      "relevance_score": 8
-    },
-    {
-      "id": "efa59708234d982683915c0c5943b3e8",
-      "title": "Elon Musk held liable for misleading investors ahead of Twitter acquisition",
-      "title_pt": "Elon Musk responsabilizado por enganar investidores antes da aquisição do Twitter",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbk5ZN0dXOGt4Q1ZmVmZJS09lMW5kXzhBcnpvWjhVMDh5dmVVdktISDdWaGZ1Z1ZadmxDa1NfdVVzQjZIanlyR0lkSmpoX2l6V3U3NzlxSFpxNjlvZk00WjhwbnE0QXJQVnY4TWRSa2FQeTRTLVhhZi10X0E1OXY3cDdad0ZVRlBxR1lPa0pST19LMnI5emxEZE5scDk2NGxtLTRwOElyOWsybUl3N1NvZ1M5WFAzd0dtSUxBU19B?oc=5",
-      "date": "2026-03-22",
-      "category": "Redes Sociais",
-      "summary": "A responsabilização de Musk por engano a investidores sinaliza riscos de governança que podem afetar a confiança de anunciantes e a estabilidade da plataforma X.",
-      "key_insights": [
-        "Reputação da liderança afeta diretamente a confiança de marcas em plataformas.",
-        "Instabilidade jurídica e financeira de plataformas exige diversificação de estratégias."
-      ],
-      "actionable_points": [
-        "Monitorar de perto a saúde corporativa das plataformas sociais para mitigar riscos."
-      ],
-      "relevance_score": 8
-    },
-    {
-      "id": "996b0d98ecc75e074ab9db1be820fce7",
-      "title": "YouTube tests video highlights preview feature",
-      "title_pt": "YouTube testa recurso de prévia de destaques de vídeo",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONzVIVWVieUtkNXVmVnhXSHlIclNFMjhvWGxRdWdtVHFQMzNkamZocEl2Wk5IVW1OQ2JXYktjOVBOWTV3amlJenNiV04taU1JR29pTnRvNjNsenNJUWRzdmx2X2FNQlBTdlgxeG9rbDJpZ2VLaEZsLXZIUTJZeFhXVUxESEhqaGNHVWdGeWRnSlVfV2d6Z0t3?oc=5",
-      "date": "2026-03-22",
-      "category": "Redes Sociais",
-      "summary": "Agências devem considerar como novas prévias de vídeo no YouTube podem otimizar a descoberta e o engajamento do conteúdo de seus clientes.",
-      "key_insights": [
-        "Otimiza a descoberta de conteúdo, atraindo usuários com prévias impactantes.",
-        "Exige a criação de trechos de vídeo estratégicos para capturar atenção rapidamente."
-      ],
-      "actionable_points": [
-        "Desenvolver estratégias para criar e testar prévias de vídeo atraentes para YouTube."
-      ],
-      "relevance_score": 8
-    },
-    {
-      "id": "588197992638fac4d40c5a341d51004c",
-      "title": "Human speech and presence help drive Reels engagement",
-      "title_pt": "Voz e presença humanas impulsionam o engajamento nos Reels",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYWNRc3FjSVNIWWVEeUZnOUxjQlJvX01aOUpUaGVLNDdvZ2pJanA5TFY1SjJUck9HUkQtSExoNzlNWXZpNFB5Tkp6RVNSOHVQZWRkWWY3dlA2WjFqRS05ME1IenN4Rl9xV3hYeDBjS1FzbjdSYTAzU01iZ1NKT0tjWXFHRFR6UmJYTTZITnBoMUR3eXZMR0h1dFhZYjFWcHZF?oc=5",
-      "date": "2026-03-22",
-      "category": "Redes Sociais",
-      "summary": "Agências devem focar em conteúdo autêntico com voz e presença humanas para maximizar o engajamento em Reels.",
-      "key_insights": [
-        "Conteúdo autêntico com voz humana gera maior conexão e retenção.",
-        "Algoritmos de Reels priorizam vídeos que simulam interação pessoal."
-      ],
-      "actionable_points": [
-        "Oriente clientes a usar criadores reais e fala natural em suas estratégias de Reels."
-      ],
-      "relevance_score": 8
-    },
-    {
-      "id": "45a6253caa1c3caba2870bfc6fbbc40e",
-      "title": "Edits adds more effects and enhanced editing controls",
-      "title_pt": "Edits adiciona mais efeitos e controles de edição aprimorados",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOVp0WklLYXlwTEJ0YjIzZmtmOU0yNUNNTmlWa3RncVNSRm1DQmFDY1hJZVRsTldmUW5PR1FtSURVSkZLVi1abEhURTYtUHkzUGFGY2NZaEJEeEJwOU00SGJ2S3Y3elJqZUg3dHZVZ3BFa25Ja1hLMVkwTWx5OXdXMWFyR1pNZkJSak8zT0JXQm5idmhZSFRwQmFLTmZBMDR5?oc=5",
-      "date": "2026-03-19",
-      "category": "Redes Sociais",
-      "summary": "Agências devem explorar novas funcionalidades de edição para produzir conteúdo mais criativo e engajador nas plataformas.",
-      "key_insights": [
-        "Atualizações de plataformas exigem adaptação contínua na criação de conteúdo.",
-        "Ferramentas de edição aprimoradas permitem storytelling mais rico e valor de produção."
-      ],
-      "actionable_points": [
-        "Capacitar equipes para dominar novas ferramentas de edição e explorar potencial criativo."
-      ],
-      "relevance_score": 8
-    },
-    {
-      "id": "4f7c83c2798244b89f7d02a850adc2a5",
-      "title": "Meta replaces moderation staff with AI, expands access to AI support bot",
-      "title_pt": "Meta substitui equipe de moderação por IA e expande acesso a bot de suporte com IA",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNjd3VGR6M3M5QURXdHpPck40eUNYMGRuNU5SSE11R2syekFwdkQwTEpfUGNlT2pVX1lSWmVSWG83WkRLVllsNk1RTXZhSlVDaUV3RDN6VE9RenBDenRxTGFhWGpqVk9FV3N1a2J4S0RmQUNoYzU2dGY4UnQ0blhWUDZZLXA0bng4Vk82SDQ1NlBHbmIyYnZycHZDbDZZWXk0SUFZZlFpdnZIcmdEUGxueGxLR29WUTdr?oc=5",
-      "date": "2026-03-19",
-      "category": "IA",
-      "summary": "Agências precisam entender como a IA da Meta impacta moderação de conteúdo e suporte ao cliente, adaptando estratégias.",
-      "key_insights": [
-        "A IA da Meta redefine moderação e suporte, exigindo novas abordagens para brand safety.",
-        "Impacto direto na visibilidade do conteúdo e na gestão de crises em plataformas Meta."
-      ],
-      "actionable_points": [
-        "Revisar estratégias de conteúdo e brand safety para ambientes de moderação por IA."
-      ],
-      "relevance_score": 8
-    },
-    {
-      "id": "403525247d0f1503a91d4c3932d9f58a",
-      "title": "X adds comment downvotes to improve algorithmic ranking",
-      "title_pt": "X adiciona votos negativos em comentários para melhorar o ranqueamento algorítmico",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSHdOd2lvdHEwdm1GVFM3M2dlZy00TlZwZTZEWXdSS2pEbjY3SUt2RVlHZVkwTWNUSWoyNk80THp0MU5DandwdG1WUHJZYkdObVRDUFZMNmJkdmhENDNOSTlLQmw1am5vRWtpTWZDMVdnY3E1R2V1Q0tkVUhBWXk2YVpKdEctTkxNXzVwdEk0SXR0bkJTZmFUNjdEOXM0aXhzRmdkaDlwS2FWdmF2RUx6Tg?oc=5",
-      "date": "2026-03-19",
-      "category": "Redes Sociais",
-      "summary": "Agências devem adaptar estratégias de conteúdo para o novo ranqueamento algorítmico de X, impactado por votos negativos.",
-      "key_insights": [
-        "A visibilidade do conteúdo em X será diretamente impactada pela recepção negativa dos usuários.",
-        "Estratégias de engajamento devem focar em conteúdo de alta qualidade para evitar downvotes."
-      ],
-      "actionable_points": [
-        "Monitorar a taxa de downvotes em X e ajustar a estratégia de conteúdo para evitar impactos negativos."
-      ],
-      "relevance_score": 8
-    },
-    {
-      "id": "186748457f9bdcf189c2d5d53f3f4918",
-      "title": "YouTube launches AI-powered Reimagine option for Shorts",
-      "title_pt": "YouTube lança opção Reimagine com IA para Shorts",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPY29YaWxDR2F1TmhYQXpQU0lmbnpoelFHVGViVXFGRVFXZVhlbVVocHlZeXZITV9xbDFubDVyNzR3ak54SV9HdnhWNjVYekFRemhXYzNzRHpEaFZmSnh0bVl0UjdPT1J2LWF1WGd6UFBtNG9uSXRtcnk1WmNCdDdManNKaTdTQVd1bFZyTUVoWEZmWFZQd2d2M1hxTkhvaFRvcmtn?oc=5",
+      "id": "8008301219b56b4c0beddae608788c27",
+      "title": "Meta rolls out Manus AI assistance tools for marketers",
+      "title_pt": "Meta lança ferramentas de assistência de IA Manus para profissionais de marketing",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeTgwN2JZc3BCOWppSFJGRFM0TWRSV3daaHR6V0otU0hhVGUxdUxNT1RIOW5UT19QRmROZVR4bHlXVEQyaE5EVFI4QWx6MGwzTERMTlpqNXdfcy1FUzFNVnAxMDhPdlhZN1otRjd3d04zbTNhQ2ZMbGFidE9DX19pajg0MFU2eVU4UnhYRTBZaFR2NUtFcFFLSEFHYjlOU3RVdFE?oc=5",
       "date": "2026-03-18",
       "category": "IA",
-      "summary": "Agências podem explorar novas ferramentas de IA para otimizar a criação e engajamento de conteúdo em Shorts.",
+      "summary": "Agências devem explorar as novas ferramentas de IA da Meta para otimizar campanhas e gerar resultados superiores para clientes.",
       "key_insights": [
-        "IA generativa no YouTube Shorts otimiza a produção de vídeos curtos.",
-        "Agências que dominam essa IA ganham vantagem na criação de conteúdo viral."
+        "A IA da Meta pode revolucionar a criação e otimização de campanhas em suas plataformas.",
+        "Adoção precoce dessas ferramentas oferece vantagem competitiva na gestão de anúncios."
       ],
       "actionable_points": [
-        "Capacitar equipes na utilização da ferramenta Reimagine para campanhas de Shorts."
+        "Capacitar equipes para utilizar as ferramentas de IA da Meta em planejamento e execução de campanhas."
       ],
-      "relevance_score": 8
+      "relevance_score": 10
     },
     {
       "id": "d5633b9a5f38336d7a8b26379c971806",
@@ -178,30 +25,13 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ3doOUp2Y05FZ2N5YUlUNGktZDhUOTN1ZDV2VGlPVFVsTzdmOWpya0EtWUJacE1DRENLTmxtcUxuQ3h1cVllT2VCR0ZPbVdQYlVuSWZxTmhwejVEbWVfVjBnQWZFeWdOSHZQV2s3d0pwd0tQLUp6U1FGSFYzaWlYb3hSelcyTVZzTXh4UkhHVVZfVWZRQ2hpeTlLdFFlUktYZXJTMmpZeGk3QTA?oc=5",
       "date": "2026-03-18",
       "category": "Redes Sociais",
-      "summary": "Agências devem monitorar programas de incentivo de plataformas para otimizar estratégias de marketing de influência.",
+      "summary": "Agências devem monitorar programas de incentivo para otimizar estratégias de influenciadores e alcance de conteúdo.",
       "key_insights": [
-        "Programas de incentivo do Facebook impactam a escolha de plataformas por criadores.",
-        "Agências precisam adaptar estratégias de conteúdo e influência para novas oportunidades."
+        "Indica a importância crescente de criadores para o engajamento e alcance no Facebook.",
+        "Gera novas oportunidades para marcas em estratégias de marketing de influência na plataforma."
       ],
       "actionable_points": [
-        "Avaliar o novo programa do Facebook para identificar oportunidades de colaboração com criadores."
-      ],
-      "relevance_score": 8
-    },
-    {
-      "id": "8008301219b56b4c0beddae608788c27",
-      "title": "Meta rolls out Manus AI assistance tools for marketers",
-      "title_pt": "Meta lança ferramentas de assistência de IA Manus para profissionais de marketing",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeTgwN2JZc3BCOWppSFJGRFM0TWRSV3daaHR6V0otU0hhVGUxdUxNT1RIOW5UT19QRmROZVR4bHlXVEQyaE5EVFI4QWx6MGwzTERMTlpqNXdfcy1FUzFNVnAxMDhPdlhZN1otRjd3d04zbTNhQ2ZMbGFidE9DX19pajg0MFU2eVU4UnhYRTBZaFR2NUtFcFFLSEFHYjlOU3RVdFE?oc=5",
-      "date": "2026-03-18",
-      "category": "IA",
-      "summary": "Agências devem explorar as novas ferramentas de IA da Meta para otimizar campanhas e a gestão de conteúdo.",
-      "key_insights": [
-        "Adoção da IA da Meta pode gerar vantagem competitiva na gestão de anúncios e criativos.",
-        "É crucial capacitar equipes para usar eficientemente as novas funcionalidades de IA da plataforma."
-      ],
-      "actionable_points": [
-        "Testar as ferramentas Manus AI da Meta para identificar otimizações em campanhas e processos."
+        "Avaliar o novo programa para identificar oportunidades de parceria com criadores para clientes."
       ],
       "relevance_score": 8
     },
@@ -244,36 +74,19 @@
       "relevance_score": 8
     },
     {
-      "id": "271a5e61498aca6259873e3f55316ef1",
-      "title": "X experiments with pre-share alerts for AI content",
-      "title_pt": "X experimenta alertas pré-compartilhamento para conteúdo de IA",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOb0ZRYjFuUEtkMVRUbHRjSk81MWotSVlrSmh3Mmlhc1BjSXZ0MEtKOXRBZTd1Y2dfS0xHMHlEV0dUMzhROEJEZWRfUHpFZWY1THRCRDBZWTBaZG9Gc1NWd0NNUGZPcTlDb3UyTXV2c0I0M2xlOEgtemkwcUJfYTVnOUg5SE5hMDBHNTlONTNJVjZOd05UTnJBNTFCRGg3VHM?oc=5",
-      "date": "2026-03-17",
-      "category": "IA",
-      "summary": "Agências devem se preparar para a sinalização de conteúdo de IA nas plataformas, impactando estratégias de criação e distribuição.",
-      "key_insights": [
-        "Plataformas como X estão se adaptando à proliferação de conteúdo gerado por IA.",
-        "A transparência sobre o uso de IA será um fator crítico na confiança e engajamento do público."
-      ],
-      "actionable_points": [
-        "Desenvolver diretrizes internas para uso e divulgação de conteúdo de IA, garantindo conformidade e transparência."
-      ],
-      "relevance_score": 8
-    },
-    {
       "id": "11d3a7668523b2a3cdc3cbe4a3313185",
       "title": "Reddit shares insight into the growth of sports fandoms",
-      "title_pt": "Reddit compartilha insights sobre o crescimento de comunidades de fãs de esportes",
+      "title_pt": "Reddit revela insights sobre o crescimento de comunidades de fãs de esportes",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdnhoNWJYS0dTN1l1TXhqVzFMUmwxMkZJelhYaDlwUmhHaVdRd1ppSnptZXRRbThySzRjYlpTZV9OdWRwbW1PdVl4enBsaEphNGdTSmR1RjVTSWJoZnNRRldVdFlaQ0RjOWtYRVZnbUtiRDFDMENJdnMwM0R1VDItWDVrTHpJSzVmNEhBQTBRbEh5TlByUWk5aGdzYTN0SEhxWE8zWFRfeUV1emFlTU9IbkF3?oc=5",
       "date": "2026-03-17",
       "category": "Redes Sociais",
-      "summary": "Agências podem usar esses insights para segmentar audiências e criar estratégias de conteúdo eficazes em nichos de fãs.",
+      "summary": "Agências devem usar esses dados para criar estratégias de conteúdo e engajamento altamente segmentadas para comunidades de fãs no Reddit.",
       "key_insights": [
-        "Reddit é um hub para comunidades de fãs engajadas, oferecendo dados ricos sobre comportamento.",
-        "Fandoms esportivos são audiências valiosas para marcas, exigindo abordagens de conteúdo autênticas."
+        "Reddit é um hub para comunidades de nicho e engajamento autêntico.",
+        "Fandoms esportivos representam oportunidades de marketing de influência e conteúdo."
       ],
       "actionable_points": [
-        "Mapear comunidades de fãs no Reddit para identificar oportunidades de engajamento e parcerias com influenciadores."
+        "Desenvolver estratégias de escuta social e ativação em comunidades do Reddit para clientes."
       ],
       "relevance_score": 8
     },
@@ -352,40 +165,6 @@
         "Monitorar as métricas de uso e engajamento de Bitmojis no Snapchat após a mudança, buscando insights para otimizar a criatividade e a performance das campanhas dos clientes."
       ],
       "relevance_score": 7
-    },
-    {
-      "id": "89837ba05e536024bdf057b7abcbdde2",
-      "title": "X commits to altering its verification program in EU",
-      "title_pt": "X se compromete a alterar seu programa de verificação na UE",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNmQ4YWUtakQ5QWkxRWg3WFFvZGRZVmhXeVJIclQyNXdaQi1BZzR5M3dJSDBKSHZOdFJMRUZoWlpjc21GY0FKZUl4TnJSY0J3NFg1eUNGV0lrMXQ4aXRxOWc4b0xaemdRdWZ3cWRjOUJiQ3RjUzU5WVlXYUZnNHg3anlHcERwYzdKUjYzUmVRYjkyRDRJUEZvbF9TQjNUTENlYTd6WU1GR2ctTklF?oc=5",
-      "date": "2026-03-16",
-      "category": "Redes Sociais",
-      "summary": "Agências precisarão adaptar estratégias de credibilidade e gestão de perfis verificados de clientes na plataforma X, especialmente na UE.",
-      "key_insights": [
-        "Mudanças em programas de verificação afetam a percepção de autenticidade e autoridade de marcas.",
-        "Regulamentações regionais (UE) exigem adaptação específica das estratégias de presença digital."
-      ],
-      "actionable_points": [
-        "Monitorar atualizações do programa de verificação do X para clientes com atuação na UE."
-      ],
-      "relevance_score": 8
-    },
-    {
-      "id": "45f230ecdae322ad53126bf76f686e95",
-      "title": "Meta switches to Comscore Markets data for auto ads",
-      "title_pt": "Meta adota dados da Comscore Markets para anúncios automotivos",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS2ZEVFdxakwyZnVwOUNUSDZER29LMVd2YXBCNkFwbjZ4bGVFRExWYy1kZWF4UGU1LTJRcU9NRl83ZzAxU1NJNS1NU0ItX1FvNXJVWVQ2VjFaLWZSRWpVV0xOOG9XQ0xVLXJJbnMteER0cTBpSlpSVmwwYlk5ZzhwOUNrWEVmVXd6cFdjQWRSMGVPQ1hrUExCWmhsRjMwdw?oc=5",
-      "date": "2026-03-16",
-      "category": "Dados & Métricas",
-      "summary": "Agências devem ajustar estratégias de segmentação e mensuração para campanhas automotivas na Meta, dada a nova fonte de dados.",
-      "key_insights": [
-        "A mudança afeta diretamente a segmentação e mensuração de campanhas automotivas na Meta.",
-        "Agências precisam compreender as métricas e demografia dos dados Comscore Markets."
-      ],
-      "actionable_points": [
-        "Estudar a metodologia Comscore para otimizar campanhas automotivas e relatórios de performance."
-      ],
-      "relevance_score": 8
     },
     {
       "id": "da3508975e046572ff75cc0b3bc06cd3",
@@ -559,23 +338,6 @@
       "relevance_score": 9
     },
     {
-      "id": "8522c8bea9dd08f130b5dcf2e6533da2",
-      "title": "Facebook adds AI-powered updates to Marketplace",
-      "title_pt": "Facebook adiciona recursos com IA ao Marketplace",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUWtabzBLMEc5Y2ZxMExXYUl1WHZrOTFtOXFyZjBTMmg5eS1lV1gza0k4d25ZSlNkeVlHNDNObDJXNlZoY1J6bHhmaEpYYkx2R21NUWp2MThFN2VZOHpaSWEwNFIyWlZBUzFIbTBjbEtTZW16VzdlczFmT0lYY25qRmxzR1V1cEo1MXQ2Q21UNUR1T2NsektjRQ?oc=5",
-      "date": "2026-03-13",
-      "category": "IA",
-      "summary": "Agências devem explorar a IA no Marketplace para otimizar vendas e anúncios de clientes no social commerce.",
-      "key_insights": [
-        "A IA pode personalizar a experiência de compra, aumentando a relevância dos produtos para os usuários.",
-        "Novas ferramentas de IA exigem que agências dominem a otimização de campanhas no Marketplace."
-      ],
-      "actionable_points": [
-        "Capacitar equipes para explorar e aplicar as novas funcionalidades de IA do Marketplace em estratégias de clientes."
-      ],
-      "relevance_score": 8
-    },
-    {
       "id": "6bbb562e0609afc65cafacd56be1465b",
       "title": "LinkedIn updates its Feed algorithm",
       "title_pt": "LinkedIn atualiza seu algoritmo do Feed",
@@ -658,13 +420,13 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbk9qZlAxY2VUR3pfeElaekRiT1p2WGl0N3Y1WXA0Y0VfQzdWU2dhRm15QXJBOVlsRDM0RGZfczhYNl93VF9KVGFvT0Y1WmtNSmlrcEtMNURyOG0yaUpMbU5jekVMU25UVHFvNXg3elFvNWNwdm9zRTFlaksyZmhnTFMtRHdNckZlV1ZNUmExRjg?oc=5",
       "date": "2026-03-11",
       "category": "Redes Sociais",
-      "summary": "Agências devem adaptar estratégias de conteúdo e segurança para atingir públicos mais jovens e famílias em ambientes controlados.",
+      "summary": "Agências devem explorar novas abordagens para engajar famílias e jovens, respeitando o controle parental e a privacidade.",
       "key_insights": [
-        "Abre novo segmento de público jovem e familiar, exigindo abordagens de comunicação específicas.",
-        "Requer atenção a privacidade, segurança de dados e conteúdo adequado para menores."
+        "Abre caminho para segmentação de público jovem com supervisão parental.",
+        "Exige conteúdo seguro e relevante, aprovado pelos pais."
       ],
       "actionable_points": [
-        "Desenvolver campanhas e conteúdos seguros, considerando a supervisão parental e a faixa etária."
+        "Mapear oportunidades para marcas infantis e educativas no WhatsApp."
       ],
       "relevance_score": 8
     },
@@ -728,119 +490,68 @@
     {
       "id": "bbecdc058f139a856221f1624a1ef8c5",
       "title": "Meta acquires AI-driven social network Moltbook",
-      "title_pt": "Meta adquire a rede social Moltbook impulsionada por IA",
+      "title_pt": "Meta adquire a rede social Moltbook, impulsionada por IA",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdjNISHNsY1pDQXFHbkExcEd2ajFITUwxUzcxSlVGQTk3UDRlcGh0MzVGdWF2TDUzdWJEN2RuTXAtWkFuMC1qUDZ0VTBfbTZVdHF4STZ3YlhmdXVEN1NMZUsxZzhSa3B6ZC1LVW54bTRfMngtckdFemV0TTktSmxkMmFRMTExZ05GcXVtaWgxNFBfUDNaRzhmdQ?oc=5",
       "date": "2026-03-10",
       "category": "IA",
-      "summary": "A aquisição de uma rede social com IA pela Meta indica a futura centralidade da inteligência artificial nas plataformas, impactando diretamente as estratégias de agências.",
+      "summary": "Agências devem se preparar para novas funcionalidades e estratégias de engajamento impulsionadas por IA nas plataformas da Meta.",
       "key_insights": [
-        "A IA será fundamental na próxima geração de redes sociais e na personalização do engajamento.",
-        "Agências devem explorar IA para otimizar campanhas e segmentação em plataformas sociais."
+        "Meta acelera a integração de IA em suas plataformas sociais.",
+        "Potencial para novas ferramentas de engajamento e análise de dados via IA."
       ],
       "actionable_points": [
-        "Começar a testar ferramentas de IA para criação de conteúdo e análise de audiência em redes sociais."
-      ],
-      "relevance_score": 9
-    },
-    {
-      "id": "54b99ac8351d83cf8c7193e7a1a56c1e",
-      "title": "Meta outlines improved scam protection in Messenger app",
-      "title_pt": "Meta detalha melhorias na proteção contra golpes no aplicativo Messenger",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVkFlTlpBWWd1TXR1YUdqbFlNdlNLLXAwOEo1Z1JyczRxQUw5VWVSQmFrN3YtQ0FlbW9QU1FjQU1yMnhzQkMzWHl4emFlSFloYUJSNU93R2RiRTZOQktGaFptSUVkNWhPLWE3VDJSZkI3T1ZMaVdCeGk0aGQzMEFsU08tQmxDOHU2TmlqdVJwam1FeFZNdUtaVm04RVdCTUxIcHQ4?oc=5",
-      "date": "2026-03-09",
-      "category": "Redes Sociais",
-      "summary": "Agências devem considerar a segurança aprimorada do Messenger para fortalecer a confiança do consumidor e a integridade da marca.",
-      "key_insights": [
-        "Maior segurança pode elevar a confiança do usuário e a credibilidade das marcas no Messenger.",
-        "Redução de golpes minimiza riscos de associação negativa para campanhas e perfis de clientes."
-      ],
-      "actionable_points": [
-        "Revisar estratégias de engajamento no Messenger, destacando a segurança da plataforma aos clientes."
+        "Acompanhar integrações de IA da Meta para inovar campanhas e estratégias de conteúdo."
       ],
       "relevance_score": 8
     },
     {
       "id": "a29543c9603785a0e54d95142803feb6",
       "title": "Instagram, LinkedIn and Threads engagement declined in 2025",
-      "title_pt": "Engajamento no Instagram, LinkedIn e Threads declinou em 2025",
+      "title_pt": "Engajamento no Instagram, LinkedIn e Threads diminuiu em 2025",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSEN3TFZDTkdHX3JINGhxVUdaODZTdVg4VXdOUm0yWTJyZWotcW1BV0Z6NWprUnFVRnQ5cU1qNUdvVldiUjVaUThyMGNxc3A0WFJ2UEQ2T3FXWnlTZzhVQjdPeVJyaG41eDU2OGRmb2ZVZTVCcl9qRTMxX3pLdGdCbTZnVHFPNzdGX2hmNDdTbFBGQzhqZUc4czNsdmpDaDJLS3lMV3d0RQ?oc=5",
       "date": "2026-03-08",
       "category": "Redes Sociais",
-      "summary": "A queda no engajamento dessas plataformas exige que agências revisem suas estratégias de conteúdo e mídia social para 2025 e 2026.",
+      "summary": "Agências devem reavaliar estratégias de conteúdo e mídia paga frente à queda de engajamento nessas plataformas.",
       "key_insights": [
-        "Reavaliar estratégias de conteúdo e formatos para reverter a queda de engajamento.",
-        "Monitorar métricas é crucial para identificar tendências e ajustar abordagens rapidamente."
+        "Queda exige diversificação de estratégias e canais para manter a performance dos clientes.",
+        "Foco em conteúdo de valor, construção de comunidade e formatos inovadores é crucial."
       ],
       "actionable_points": [
-        "Auditar performance das campanhas de 2025 e ajustar planos para 2026."
+        "Auditar performance atual e ajustar mix de plataformas e formatos para otimizar resultados."
       ],
-      "relevance_score": 9
+      "relevance_score": 8
     },
     {
       "id": "b69f7a15738755a621cc63bb75a6dd38",
       "title": "X introduces exclusive threads and other subscriber features",
-      "title_pt": "X lança threads exclusivas e outros recursos para assinantes",
+      "title_pt": "X introduz threads exclusivas e outros recursos para assinantes",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc2JGZTVmTFV4X3diZlo1ejFaVGlUT1dpQmg3NVZZWDVEOHZFOWpveEVFWWd4NHlUaWNpN2ZRYk1PMF9RbURsc1ZFZ2FxdktGR0V2eHMxTHRXLS1jY1VjUmtjdlktdFhtYk5pTDFSRDM3d3piSW5ENm03T0F2c3pnZUI1aWxudmpXYlhzLWxBSWxvdV9HdFpqSzBZbko1Y3ExZFlTb1dNWG5remZOLUdqbkJrcHJkSWs?oc=5",
       "date": "2026-03-08",
       "category": "Redes Sociais",
-      "summary": "Agências devem adaptar estratégias de conteúdo e engajamento para explorar novos recursos de monetização e exclusividade em X.",
+      "summary": "Agências devem adaptar estratégias de conteúdo para explorar recursos exclusivos e engajar audiências premium em X.",
       "key_insights": [
-        "Plataformas buscam monetização via conteúdo exclusivo, impactando alcance orgânico.",
-        "Conteúdo premium exige novas abordagens criativas e de segmentação para clientes."
+        "Novas oportunidades de conteúdo e engajamento para audiências pagas.",
+        "Necessidade de reavaliar estratégias de monetização e valor para assinantes."
       ],
       "actionable_points": [
-        "Avaliar a criação de conteúdo exclusivo para assinantes em X para clientes relevantes."
+        "Explorar a criação de conteúdo exclusivo para assinantes de X, testando formatos e engajamento."
       ],
       "relevance_score": 8
     },
     {
-      "id": "24463283fb8e5947a607d943c136e2df",
-      "title": "Retail and grocery brands dominate ChatGPT ads",
-      "title_pt": "Marcas de varejo e alimentos lideram em anúncios no ChatGPT",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTE5YYXVCMDVxTzdZY3VJYTJJZVBmakJVU05sT3RQN0pvX3BuMGxxbEZyYnpMTmJwMm5UcFJOVVJkRG9KWC0tRGZLYlRld3UyTHNHU0pDRkRCTEFGQ2F5UGt1bm84N2dtbFdHSlVKUThQVlc4MEpDSmYzS0Q4VElGNzY1bG5sWlpvQjlDQVFLSzlmaE84Qnk4?oc=5",
-      "date": "2026-03-05",
-      "category": "IA",
-      "summary": "Agências devem explorar o potencial de anúncios em plataformas de IA como ChatGPT, observando a liderança de varejo e alimentos.",
-      "key_insights": [
-        "Plataformas de IA como ChatGPT emergem como novos canais de publicidade.",
-        "Setores de varejo e alimentos são early adopters, indicando tendências de mercado e concorrência."
-      ],
-      "actionable_points": [
-        "Desenvolver estratégias para campanhas de anúncios em IA, focando em varejo e alimentos."
-      ],
-      "relevance_score": 8
-    },
-    {
-      "id": "9e487eaff01e1641e495577ee0b3ea0e",
-      "title": "Pinterest releases best practices tip sheet for shopping templates",
-      "title_pt": "Pinterest lança guia de melhores práticas para modelos de compra",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdndmSUJ6WEJJUmNETEtUaTQ2NmpXUFA1NG5tV3VFWWViWkVuNzd0Q2c3VnBlS3kxY01qeEZlTXQ4enBpV1hxWnZib1c2bHN0dU8zcjNjMVRtZUV4SGY5bUQwOW5WY05pbzRSVWdQakFPSU91ZWdDTkpRUldsdW9zNDV4VlNSeFlWODM5aXpkdzRKV0I0Rk1WRE5RZmxIWk9nZHJfcklxRlZfSU9Ecl9pVWRn?oc=5",
-      "date": "2026-03-01",
+      "id": "3da298c25d8434b8aa93ef8a325155da",
+      "title": "Meta updates Edits app with more creation tools",
+      "title_pt": "Meta atualiza aplicativo Edits com mais ferramentas de criação",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOEp0RDEwTGZKa1N1eW96VmI1bW1DWVNZZmVMd3ZQdHN2WVJ0UWhqcHhHbGpQeHdvN043T3Jkazc2TnFFVHBfalpEamZrMWJ3bTJvZVFlRFo3b21ZWHFlanV2RFNKRXJFSjVFYnNRcHJsU1JFenVUUzAxNDUwRGFYemo3UVREWmZUTThFbUdRQVlCaTBLZVZvbQ?oc=5",
+      "date": "2026-03-03",
       "category": "Redes Sociais",
-      "summary": "Agências devem dominar as novas ferramentas de compra do Pinterest para otimizar campanhas de e-commerce de clientes.",
+      "summary": "Agências devem explorar novas ferramentas de criação da Meta para otimizar a produção de conteúdo e engajamento.",
       "key_insights": [
-        "Pinterest reforça seu posicionamento como plataforma chave para e-commerce visual e descoberta de produtos.",
-        "A otimização de templates de compra é crucial para maximizar o ROI em campanhas de varejo na plataforma."
+        "Novas ferramentas ampliam a capacidade criativa e a eficiência na produção de conteúdo.",
+        "Dominar recursos atualizados da plataforma é vital para a relevância e competitividade da agência."
       ],
       "actionable_points": [
-        "Capacitar equipes nas melhores práticas de shopping templates do Pinterest para clientes de e-commerce."
-      ],
-      "relevance_score": 8
-    },
-    {
-      "id": "daed7aea3db1088b09007694cd493690",
-      "title": "TikTok publishes latest EU usage, enforcement data",
-      "title_pt": "TikTok divulga dados de uso e fiscalização na UE",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSTU0UG9xNGxONTZfTHBpeENxc1k0TUMySU9LUC1CWXQ4TjJLWXZ4NG44N29wT1ZFZEVjaVp3dDFoNDcyTkExU2Y0bGhJQ1N4em9NS1pGTW10OWYyV1B6bHlwY0pMZTkyYzFGVTNuN1RCS20ya21fVWRmczlmUmlRWUZESTJhMUkwSXJvcHBSTndoai0wSFd4dnQ3TQ?oc=5",
-      "date": "2026-03-01",
-      "category": "Redes Sociais",
-      "summary": "Agências devem analisar esses dados para otimizar estratégias de conteúdo e garantir conformidade com as políticas do TikTok na Europa.",
-      "key_insights": [
-        "Compreender a transparência e fiscalização do TikTok impacta a gestão de riscos para clientes.",
-        "Analisar dados de uso na UE revela oportunidades e desafios para campanhas regionais."
-      ],
-      "actionable_points": [
-        "Revisar os dados para ajustar estratégias de conteúdo e conformidade para clientes na Europa."
+        "Capacitar equipes para usar as novas ferramentas de criação da Meta imediatamente."
       ],
       "relevance_score": 8
     },
@@ -850,48 +561,48 @@
       "title_pt": "X recorre de multa de US$ 140 milhões da Comissão Europeia",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ0s0SU9NSUZUSmN6U0djQWlCRUV4a1A3OG8xNnl4LWpHWTB2WnFiOVhRM0hYaHpLZjBSMGpQdl8tWjd3T3BDeFNtSjlvalR3c2dYLURqRWhLUUJtOWpZUkkzNnl1OERBeXhPLWp2NXF3Q3IteGczMnBIWVdFZjRjcWwxQ0hOY1M3RE1XWmNadUNjVk56WmhjQW9kRS13SnhZdzN3VjFNUTJqdw?oc=5",
       "date": "2026-02-22",
-      "category": "Estratégia",
-      "summary": "Ações regulatórias contra plataformas como X impactam diretamente a estratégia de comunicação e o ambiente de risco para agências.",
+      "category": "Redes Sociais",
+      "summary": "Agências devem monitorar o impacto de multas e regulamentações nas plataformas sociais, pois afetam a estabilidade e as estratégias de comunicação.",
       "key_insights": [
-        "Regulamentação europeia intensifica pressão sobre plataformas, exigindo atenção à conformidade.",
-        "Instabilidade legal de plataformas pode afetar planejamento de campanhas e alocação de verba."
+        "Regulamentação europeia impacta diretamente a operação e reputação de plataformas sociais.",
+        "Instabilidade regulatória pode afetar a confiança e o investimento em publicidade na plataforma X."
       ],
       "actionable_points": [
-        "Monitorar mudanças regulatórias e seus impactos nas estratégias de conteúdo e mídia."
+        "Avaliar riscos de compliance e reputação ao planejar campanhas em plataformas sob escrutínio regulatório."
+      ],
+      "relevance_score": 8
+    },
+    {
+      "id": "219b17d49dce19c14d01312bfce16098",
+      "title": "Threads now offers simplified sharing to Instagram",
+      "title_pt": "Threads agora oferece compartilhamento simplificado para o Instagram",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSVl3TlhWVkM5YnhFMjd2RWRlV2FkMG9HLXlpbGJIVlBpUGJuU1Faek1TNlQxOVh6dDVDc0p1SWZGZEE0TG9NemVtZTdfR2dCdUlraklYS2RtUmoxVEdfdkw0QUF2OVZWWTlMS0FnTXctS2c5eUUyZmhIZGF2RkwxcW96eGtZb3lSelhQeklFM2FweG0yMm0zVTZHSEs?oc=5",
+      "date": "2026-02-22",
+      "category": "Redes Sociais",
+      "summary": "Agências podem otimizar a distribuição de conteúdo e a presença de marca ao integrar melhor Threads e Instagram.",
+      "key_insights": [
+        "Facilita a estratégia de conteúdo cross-platform entre as duas redes.",
+        "Potencializa o alcance e engajamento ao simplificar a republicação de posts."
+      ],
+      "actionable_points": [
+        "Desenvolver estratégias de conteúdo integradas para Threads e Instagram."
       ],
       "relevance_score": 8
     },
     {
       "id": "7207df40a87722668058b2440681a622",
       "title": "Meta Is Shutting Down Its Messenger Website",
-      "title_pt": "Meta encerra o site do Messenger",
+      "title_pt": "Meta Encerra o Site do Messenger",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcGlwLWVFRWlUUXdadG9jVnFiQWdfZnJSdGZvRkM4WHBta1dZWEtEYUFScU5KRjI1UUdNSU56Wml5dWMzWVBaWE1kaEJ3LURDV1JfdDNZRlpWb2RzVW11dmFCMXlkTXVZN3dScUxGaFFzUjF4SWU3bmFGR0lwZ0NoaUMxY2JZMEZvdWd4cFBVRW4?oc=5",
       "date": "2026-02-18",
       "category": "Redes Sociais",
-      "summary": "Agências devem revisar estratégias de comunicação e atendimento ao cliente que dependam do Messenger web, focando em integrações via app ou outras plataformas.",
+      "summary": "Agências devem ajustar estratégias de comunicação e atendimento ao cliente, considerando a centralização do Messenger em aplicativos móveis.",
       "key_insights": [
-        "Reforça a migração para experiências mobile-first e integração de apps.",
-        "Sinaliza a prioridade da Meta em consolidar funcionalidades em seus principais aplicativos."
+        "Meta prioriza experiência mobile, exigindo que agências otimizem interações via app.",
+        "Redirecionamento de tráfego e comunicação para o aplicativo principal do Messenger."
       ],
       "actionable_points": [
-        "Avaliar o impacto na jornada do cliente e ajustar canais de suporte e interação."
-      ],
-      "relevance_score": 8
-    },
-    {
-      "id": "0dbc485d10847230a09f4f7e5d52ef2e",
-      "title": "Reddit Shares Insight Into Rising World Cup Discussion",
-      "title_pt": "Reddit Revela Insights Sobre o Aumento da Discussão da Copa do Mundo",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVERPcThWUzQycHluTDdQUGpiOW5lRDJUenBaenZ3Uml0anFqWVJFRHZQQkg0TXNBZlEzNkRlTFZuSHVaMVlIanA1VXVUMnI3NUF3V3lnY2psT2pRd2szbXRodjJqcU0tNDhwQUsxNTUwNU1JS2xtVFdsTU5WNG5TT2pBZlJOUjljMEdZQk40cVhucEU2X25aOEY4R3lTakY0T2c?oc=5",
-      "date": "2026-02-18",
-      "category": "Redes Sociais",
-      "summary": "Compreender a dinâmica de discussões em plataformas como o Reddit durante eventos globais é crucial para estratégias de engajamento e monitoramento de marca.",
-      "key_insights": [
-        "Reddit é um canal valioso para discussões autênticas e aprofundadas sobre eventos.",
-        "Eventos globais geram picos de engajamento e oportunidades de conteúdo para marcas."
-      ],
-      "actionable_points": [
-        "Monitorar o Reddit para identificar tendências e sentimentos da audiência em nichos específicos."
+        "Revisar e adaptar fluxos de atendimento e campanhas que dependiam do Messenger web."
       ],
       "relevance_score": 8
     },
@@ -921,64 +632,47 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOay1WcjhCY2twcjJCenFnclpvMkNOV3M1WGpnM2lxRmFJOG5VcUtKbkY1RG1mTl9LNWd2Y0c4ZTczc2tEOWhkZWQ0WjZXMXNjS1pvRXBYQlROYTBER0pBZHBvN3dBa1J3c05MRm8xMEFDUFA2UlVacm9GbUt6czRoZXMzbXdja2FDMDBXSFpveWtJOWtr?oc=5",
       "date": "2026-02-04",
       "category": "IA",
-      "summary": "Agências podem expandir o alcance de campanhas e conteúdos de clientes globalmente, otimizando a produção para múltiplos idiomas.",
+      "summary": "Agências podem agora expandir o alcance de conteúdo no YouTube para audiências globais, otimizando a produção multilingual com IA.",
       "key_insights": [
-        "Abre portas para campanhas globais sem barreiras de idioma, ampliando o público-alvo.",
-        "Requer revisão de estratégias de conteúdo e localização para aproveitar a funcionalidade."
+        "Otimiza a localização de conteúdo, ampliando o alcance global de campanhas.",
+        "Reduz custos e tempo na adaptação de vídeos para diferentes idiomas."
       ],
       "actionable_points": [
-        "Avaliar o potencial da dublagem automática para conteúdos de clientes, visando expansão internacional."
-      ],
-      "relevance_score": 8
-    },
-    {
-      "id": "67dc393f8c9dde9d2b05bada5c466b8c",
-      "title": "Downloads of TikTok Alternatives Slow in the US",
-      "title_pt": "Downloads de Alternativas ao TikTok Desaceleram nos EUA",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR1M1SXY0R2xaQXZmdk16VW8xbG5jTkRFZmZsR29VaFN3NnhIMjZrdkpoUzZMTVJDR2VEUmNxajMxVkRxSlpoQnY3dG5TQVJKc3ZmYV83TXpXei0wbU1ETElFcVZDX01aNE1HUnc2eV9Pa0p4aFlXSVFUREQ1dzRQYkN4TnZTMDlkT282R3ExS0lKWXotLVc1NA?oc=5",
-      "date": "2026-02-03",
-      "category": "Redes Sociais",
-      "summary": "A desaceleração indica uma estabilização do cenário de redes sociais, com menor fragmentação da atenção do público para as agências.",
-      "key_insights": [
-        "Mercado de redes sociais nos EUA mostra sinais de consolidação.",
-        "TikTok mantém dominância, dificultando entrada de novos players."
-      ],
-      "actionable_points": [
-        "Focar estratégias no TikTok e plataformas estabelecidas, otimizando investimentos."
+        "Avaliar e integrar dublagem automática em estratégias de conteúdo para clientes com alcance internacional."
       ],
       "relevance_score": 8
     },
     {
       "id": "ba335b5ca5abaa2be2e3a15269deaf6b",
       "title": "Reddit Launches AI-Powered Max Campaigns",
-      "title_pt": "Reddit Lança Campanhas Max Otimizadas por IA",
+      "title_pt": "Reddit Lança Campanhas Max Impulsionadas por IA",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVElFNnVVZGV6SmdTWDZmbGtSRnppOVJoMmQ5OHFrcFZGZ29TWlZrOUpGRTBfMWttTHY2WnA2Y1ZnYU9fajBiMEdGcEVfdVliSGJZNm04UmR3NmtyMUpQNGxxY1pTcEdNLXZYdFRqVXlSa0kxOTVZaUhYTXBRSm9JSmx1WDdwNU9fVTk5ZFphcw?oc=5",
       "date": "2026-01-05",
       "category": "IA",
-      "summary": "Agências devem explorar o uso de IA em plataformas como Reddit para otimizar campanhas e segmentação.",
+      "summary": "Agências devem explorar as novas ferramentas de IA do Reddit para otimizar campanhas e alcançar públicos específicos com maior precisão.",
       "key_insights": [
-        "A integração de IA em plataformas sociais é padrão para gestão de campanhas.",
-        "Novas ferramentas de IA exigem estratégias atualizadas de mídia e conteúdo."
+        "A IA otimiza a segmentação e a performance de anúncios no Reddit.",
+        "Novas funcionalidades exigem atualização estratégica para campanhas digitais."
       ],
       "actionable_points": [
-        "Capacitar equipes nas novas funcionalidades de IA do Reddit para otimização de campanhas."
+        "Testar as campanhas Max com IA do Reddit para clientes selecionados."
       ],
-      "relevance_score": 9
+      "relevance_score": 8
     },
     {
       "id": "ecc57941149a64dd2b84ed23919057d5",
       "title": "Reports Suggest That OpenAI May Be Looking to Acquire Pinterest",
-      "title_pt": "OpenAI Estaria Negociando a Aquisição do Pinterest",
+      "title_pt": "OpenAI Estaria Avaliando a Aquisição do Pinterest",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdXl5YTFJd3FnVUVRdWhBdU9DMkEwemZNWF9FRG5uNUozWE1QVlNITjFxRi05VDVmRzR6QVZnSlNmSkJ4WmU2R284MEhqM2dWamxnaXMyU0t2SnhaSHNwdnhWZnRhLWo5cy1KSE81NXRKZno2ekpmNWh0VDBrYy1kQV9reDN1OGhKOExGa3l1ZldpRnNtZm5rbngtVnJ3a1BXTlZPMVlJQTBvUTBRRUE?oc=5",
       "date": "2026-01-05",
       "category": "IA",
-      "summary": "Essa potencial aquisição pode revolucionar a criação de conteúdo visual e as estratégias de publicidade em plataformas sociais.",
+      "summary": "Esta potencial aquisição indica uma fusão estratégica entre IA e redes sociais, redefinindo o futuro do marketing digital para agências.",
       "key_insights": [
-        "A fusão de IA e descoberta visual redefine engajamento e publicidade.",
-        "Agências devem explorar novas ferramentas de IA para conteúdo no Pinterest."
+        "Fusão de IA e social media redefine criação e distribuição de conteúdo visual.",
+        "Novas capacidades de busca visual e publicidade personalizada surgirão."
       ],
       "actionable_points": [
-        "Monitorar integração de IA no Pinterest para adaptar estratégias de conteúdo e mídia."
+        "Agências devem explorar sinergias entre IA generativa e plataformas visuais."
       ],
       "relevance_score": 9
     }

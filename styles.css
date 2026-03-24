@@ -80,6 +80,7 @@ body {
   color: var(--white);
   letter-spacing: -.02em;
   line-height: 1.2;
+  text-transform: lowercase;
 }
 
 .header-sub {
@@ -90,11 +91,12 @@ body {
 }
 
 .header-meta {
-  font-size: .75rem;
-  color: rgba(255,255,255,.55);
+  font-size: .65rem;
+  color: rgba(255,255,255,.45);
   text-align: right;
   flex-shrink: 0;
   white-space: nowrap;
+  text-transform: lowercase;
 }
 
 /* ===================================================
