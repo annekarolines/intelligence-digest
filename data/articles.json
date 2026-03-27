@@ -1,6 +1,78 @@
 {
-  "last_updated": "2026-03-26T10:46:06.947719+00:00",
+  "last_updated": "2026-03-27T10:41:25.879038+00:00",
   "articles": [
+    {
+      "id": "381881cddf3edc060070d042ba4a2f2a",
+      "title": "Jury finds Meta and YouTube guilty of causing social media addiction",
+      "title_pt": "Júri considera Meta e YouTube culpados por causar vício em redes sociais",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWkZQOXZUZlNXNFJnYUZHYXJUZERDQUgyd2tMNzByb016azlqOUhQZi13azdla1E3NEY1T2RDdGE0S0lHQkVueHAxdnY3Y1BDNWVZaG03T3ZDbTZ1a1Z0OERTU0RUc3N5YklrSGZsSWdQdHoyU2djYW1uQzUzNzRqLWtzYTZ1QkJUNjRGNEgxLTlsNUNRNTAtUm5NdW1sbFVEUHRWZnNLZG9IZVN1bTU5ZkRZdW8?oc=5",
+      "date": "2026-03-26",
+      "category": "Redes Sociais",
+      "summary": "Agências devem estar atentas às implicações legais e éticas do design de plataformas e ao impacto no comportamento do consumidor.",
+      "key_insights": [
+        "Precedentes legais podem forçar mudanças nos algoritmos e funcionalidades das plataformas.",
+        "Crescente escrutínio sobre a responsabilidade das plataformas exige estratégias de conteúdo mais éticas."
+      ],
+      "actionable_points": [
+        "Aconselhar clientes sobre práticas de marketing digital éticas e responsáveis nas redes sociais."
+      ],
+      "relevance_score": 9,
+      "image_url": null
+    },
+    {
+      "id": "a7360cf456d9093dcf78a74f9797a0db",
+      "title": "Meta updates its Threads Marketing API",
+      "title_pt": "Meta atualiza sua API de Marketing do Threads",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOckNmc3hibkUwTk9qU1Fvd3Nwd0FBSWtuaW0wNDk5Q3gzb25oYnFBMXdMTkUzS25QbldNWHBzNktPN0dkVUJWbzFTdEFvTWRhWDRKSzB1dkExamNSOWl3QXJOaDRxSjFOZjVHOXpoZ0xYTndlb3VxS3BMN1V5N3JlbjM2blotLVBiQWFnOA?oc=5",
+      "date": "2026-03-26",
+      "category": "Redes Sociais",
+      "summary": "Agências podem automatizar e otimizar a gestão de campanhas no Threads com as novas funcionalidades da API.",
+      "key_insights": [
+        "Novas funcionalidades para gestão e automação de conteúdo e campanhas no Threads.",
+        "Potencial para integrar Threads em estratégias de social media mais complexas e eficientes."
+      ],
+      "actionable_points": [
+        "Avaliar as novas funcionalidades da API para otimizar a gestão de clientes no Threads."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "c033b7ff5a31d46ff5a1b4d6f2002a40",
+      "title": "At IAB NewFronts, Meta introduces new ad and discovery options",
+      "title_pt": "No IAB NewFronts, Meta apresenta novas opções de anúncios e descoberta",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNDk4VlRVNzY2U2xGVDZvZnhiQTFkejhtaDNDQl81MzNkNHpjTVJFVGtTUXpuQkJwbldzbW1FRVR5TUdfbU5mR0cwbThTeU4weXhGMFdRanV2aER3NFRYcXJ1R0w2OHZoZnVOUXdmbHlzMXVjelZPRmp2dkk5WEVjS1JtTUVaQ1VrUlhzWEg5N3BZVzRlS3N6aVBCb19GS1NOcUU0YzlCX3A4SzA?oc=5",
+      "date": "2026-03-26",
+      "category": "Redes Sociais",
+      "summary": "Agências devem estar atentas às novas ferramentas da Meta para otimizar campanhas e explorar formatos de descoberta para seus clientes.",
+      "key_insights": [
+        "Novos formatos de anúncios da Meta exigem atualização das estratégias de mídia e criativas.",
+        "Opções de descoberta podem impulsionar o alcance orgânico e a visibilidade de conteúdo de marcas."
+      ],
+      "actionable_points": [
+        "Capacitar equipes sobre as novas funcionalidades de anúncios da Meta para integrar em propostas."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "a12c9c596e9c4681d225de261fbda951",
+      "title": "YouTube expands Shopping Affiliate Program access",
+      "title_pt": "YouTube expande acesso ao Programa de Afiliados de Compras",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQanBwV1hvaEVjTms5WmlVQzN0eFBRb2xBSEpRX3BaZzBOWmU4czVOdlJiRGZETWJYQ0U2V3lzbGVYRTFTUkppa1YtSGwtOWl5SzRGb3BqdndZQ1VocU0xa0U5NEdGay1yZnM0R1JiUlJ2VVdzVVdyRkZiTkhSZWVwbzFIWUJiV2VpSFN5R3RCb08zb3BrQWJ4aUtvQQ?oc=5",
+      "date": "2026-03-25",
+      "category": "Redes Sociais",
+      "summary": "Agências devem explorar novas oportunidades de monetização e estratégias de conteúdo para clientes no YouTube.",
+      "key_insights": [
+        "Amplia oportunidades de monetização para criadores e marcas no YouTube.",
+        "Permite integrar marketing de afiliados diretamente em estratégias de conteúdo de vídeo."
+      ],
+      "actionable_points": [
+        "Mapear clientes e criadores para programas de afiliados e desenvolver estratégias de conteúdo."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
     {
       "id": "53864355f99b3d457e1754964f8d0d1a",
       "title": "Meta adds more tools to help businesses drive in-app sales",
@@ -15,6 +87,24 @@
       ],
       "actionable_points": [
         "Capacitar equipes sobre as novas ferramentas de vendas da Meta para clientes de e-commerce."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "5371b51df7875f7fac1d63f848ae52bc",
+      "title": "Reddit introduces additional marketing tools designed for retailers",
+      "title_pt": "Reddit apresenta ferramentas de marketing adicionais para varejistas",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd3RnOTdjdDV2S0Zvbjh2Zk5MV05JWmhBeFBfSUhrWG00d2R6bGdiRXJCN3ZtanlpbVV5SlJlN0xmUUczSDdFRU0yX3BTSnl6SGlld1pIb2VHMDFDT1FGcU44Rzdpa01XcFpYNW5DZE02aXJTVDZScHl5OVZPX2JUSmJhbHVaMWhGX2w1TGxUVjlXRnloWVBQNWRQZTNaczFMZ29tTFNFYTJaemd1NjZrVVdhbw?oc=5",
+      "date": "2026-03-24",
+      "category": "Redes Sociais",
+      "summary": "Agências devem explorar as novas ferramentas do Reddit para otimizar campanhas de varejo e alcançar nichos específicos.",
+      "key_insights": [
+        "Reddit se consolida como canal de marketing com foco em comunidades segmentadas.",
+        "Novas funcionalidades facilitam a criação e gestão de campanhas para o setor de varejo."
+      ],
+      "actionable_points": [
+        "Avaliar e testar as novas ferramentas do Reddit para clientes de varejo."
       ],
       "relevance_score": 8,
       "image_url": null
@@ -716,6 +806,24 @@
         "Incorporar análise de lacunas de conteúdo do LinkedIn nos relatórios mensais de inteligência competitiva"
       ],
       "relevance_score": 8
+    },
+    {
+      "id": "8522c8bea9dd08f130b5dcf2e6533da2",
+      "title": "Facebook adds AI-powered updates to Marketplace",
+      "title_pt": "Facebook adiciona atualizações com IA ao Marketplace",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUWtabzBLMEc5Y2ZxMExXYUl1WHZrOTFtOXFyZjBTMmg5eS1lV1gza0k4d25ZSlNkeVlHNDNObDJXNlZoY1J6bHhmaEpYYkx2R21NUWp2MThFN2VZOHpaSWEwNFIyWlZBUzFIbTBjbEtTZW16VzdlczFmT0lYY25qRmxzR1V1cEo1MXQ2Q21UNUR1T2NsektjRQ?oc=5",
+      "date": "2026-03-12",
+      "category": "IA",
+      "summary": "Agências devem explorar como a IA no Marketplace do Facebook otimiza o social commerce e a segmentação de anúncios para clientes.",
+      "key_insights": [
+        "IA aprimora a experiência de compra e venda no Facebook Marketplace.",
+        "Abre novas frentes para estratégias de social commerce e performance."
+      ],
+      "actionable_points": [
+        "Avaliar o impacto da IA no funil de vendas do Marketplace para campanhas de clientes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
     },
     {
       "id": "6cb08b93ea029be7b5548bfd044d0fd9",
