@@ -1,6 +1,96 @@
 {
-  "last_updated": "2026-03-27T10:41:25.879038+00:00",
+  "last_updated": "2026-03-28T10:25:04.742527+00:00",
   "articles": [
+    {
+      "id": "7f13a5d8fe9e415d994d483f39a31d15",
+      "title": "WhatsApp rolls out multiple features to improve chats",
+      "title_pt": "WhatsApp lança múltiplos recursos para melhorar conversas",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVUVKZFlwUTJ2NVBra19uTDlDVy1neFJSUkNkY1dudnNPc3kwazhKSjE4SGpwX3ZNdE1ndm4wY3BEc0gwY184eWJnT3JvOV9GMDBQbFpKc0RmcmhTTGF5d1kxRkhVWFFXQVJQMzZxRzI3NVFYdktTcmhodzJxZGtTS29NWC1Fa3NVZGJWal9icEJLbG1KdWNCOER4dnpoSmo4?oc=5",
+      "date": "2026-03-26",
+      "category": "Redes Sociais",
+      "summary": "Agências devem explorar novos recursos do WhatsApp para otimizar a comunicação com clientes e campanhas de marketing.",
+      "key_insights": [
+        "Novas funcionalidades impactam diretamente a interação das marcas com seus públicos.",
+        "Agências precisam adaptar estratégias para capitalizar as atualizações da plataforma."
+      ],
+      "actionable_points": [
+        "Testar e integrar os novos recursos do WhatsApp em campanhas e atendimento ao cliente."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "a2e0652e7e151e6809dead5f8ba03a59",
+      "title": "TikTok for Business introduces campaign to drive in-app shopping",
+      "title_pt": "TikTok for Business lança campanha para impulsionar compras dentro do aplicativo",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdklpbnZia1pQS1hlaU9iWURVWDZyYnJudFJ2ZGZSZGk1YTNYQmpDY0RJWjhuN2hTbHlmYXZyTnJwVm4xY0VQX2JaOS1OSVlpanN5QnpaOTAtT013U1BMeEIxOEV1Umx5ZUJVRkxmRzkxcXcxSkEzVU92bXFWWVplaXc2c2lHalhoQnBUN0I1R0pFQmxUU0w2SlpMa0JIREhPVF9WUGNwVkF3SlZXbVhr?oc=5",
+      "date": "2026-03-26",
+      "category": "Redes Sociais",
+      "summary": "Agências devem explorar as novas funcionalidades de compra no TikTok para otimizar estratégias de social commerce para seus clientes.",
+      "key_insights": [
+        "TikTok intensifica seu foco em e-commerce, criando novas oportunidades diretas de vendas para marcas.",
+        "A campanha sinaliza uma evolução no comportamento de compra do consumidor dentro das plataformas sociais."
+      ],
+      "actionable_points": [
+        "Desenvolver estratégias de conteúdo e campanhas que integrem as ferramentas de compra nativas do TikTok."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "65aee4736ade53cac21432617dc64e57",
+      "title": "Meta introduces new ad and discovery options at IAB NewFronts",
+      "title_pt": "Meta apresenta novas opções de anúncios e descoberta no IAB NewFronts",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVTZEVkZhZDFjbWNubDlKbkRXdG5KbVI1TEVZNUs0cUEtMzN2LUlzQkJxVnBxZFB4YU5SOURWcEhnVUcwT0VrOE5ieUFrNkVlaFI1VFk3N3ZKNk1LeGhpQkhJNldnZ2RoREJNYXo2aXB1UnNjZnJuRG1rSEF4Q1F6VTZrcElJai1OYnlmcVNPdS10a2VQSHpYXzUxS0hkLURNZ1JuUF9aNEM2STQ?oc=5",
+      "date": "2026-03-26",
+      "category": "Redes Sociais",
+      "summary": "Agências devem estar atentas às novas ferramentas da Meta para otimizar campanhas e alcance de clientes.",
+      "key_insights": [
+        "Novas ferramentas da Meta impactam diretamente a performance de campanhas pagas.",
+        "Recursos de descoberta alteram estratégias de conteúdo e alcance orgânico."
+      ],
+      "actionable_points": [
+        "Capacitar equipes para explorar e aplicar as novas funcionalidades da Meta."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "5ce077848aa58a1e24cabf7487ee46bd",
+      "title": "X loses lawsuit alleging advertisers’ boycott was politically motivated",
+      "title_pt": "X perde processo alegando que boicote de anunciantes foi politicamente motivado",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU3dNTDY2RHFDZUx4UEtoM2RtMFlsRGtMZElMNWl3dmZUZHpJZ1NMYkdTLTdpcVktVWhadVUyOXZYbUJ2bnBXa19abUZ5aTM3TmVOWHJKRzVJendhcmxrRW1WMHBKRWxWX09jXzVFSEhkSHFhZmRPY2VkRmJya2htSVpFUzR5dThMaHZGMFZLRGh0d01hWS1kenNWZWxTRWVwd2FLMC1DY2gtWjg5X3NibUwwRXh1ajZLV0Q4?oc=5",
+      "date": "2026-03-26",
+      "category": "Estratégia",
+      "summary": "Agências devem reavaliar riscos e estratégias de investimento em plataformas com histórico de controvérsias e boicotes de anunciantes.",
+      "key_insights": [
+        "A estabilidade da plataforma e a segurança da marca são cruciais para decisões de investimento.",
+        "Agências devem monitorar controvérsias de plataformas que afetam a confiança dos anunciantes."
+      ],
+      "actionable_points": [
+        "Desenvolver planos de contingência para campanhas em plataformas com alta volatilidade."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "077b776003453eacf99b3d6ca88facd0",
+      "title": "Google offers new Demand Gen ad campaign features",
+      "title_pt": "Google lança novos recursos para campanhas de anúncios de Geração de Demanda",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSkViX2lWRHhtUHJMU21sUjczNTFNaHIwaWhjaTdremxOdDM2WGEyaFJhZ0l2b0F5ZUVZYk5nRXVicnFqb0dtYk8zbTFlS2Q2WHZiM3h6RmVJc2ZNVVhXWlp5dlJoR1FyNE05S2FuelJiazRZU1RlWG1aZWhHZFpBVTVsTU1wZ3dSaVA2NEk1MDBDYm9qQk1TaEpsRQ?oc=5",
+      "date": "2026-03-26",
+      "category": "Estratégia",
+      "summary": "Agências devem integrar rapidamente os novos recursos de anúncios do Google para otimizar a geração de demanda e performance para seus clientes.",
+      "key_insights": [
+        "Novas funcionalidades exigem atualização estratégica para maximizar ROI em campanhas de demanda.",
+        "Adoção precoce dos recursos pode gerar vantagem competitiva para clientes da agência."
+      ],
+      "actionable_points": [
+        "Treinar equipes e testar os novos recursos de Demand Gen em campanhas-piloto."
+      ],
+      "relevance_score": 9,
+      "image_url": null
+    },
     {
       "id": "381881cddf3edc060070d042ba4a2f2a",
       "title": "Jury finds Meta and YouTube guilty of causing social media addiction",
