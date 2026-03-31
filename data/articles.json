@@ -1,6 +1,78 @@
 {
-  "last_updated": "2026-03-30T10:56:54.103194+00:00",
+  "last_updated": "2026-03-31T10:47:38.732966+00:00",
   "articles": [
+    {
+      "id": "6c1f6a08ae2d194255f3231910321a9c",
+      "title": "EU regulators propose banning AI nudification apps",
+      "title_pt": "Reguladores da UE propõem banir aplicativos de nudificação por IA",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa253UGs3MUpCMVpiWVNUYk5QM0dtRF94TlRyQTVkRVFua1hkSzcxS19tNDJHenVFMUxkLXVpajFBVVAtNWNYbUZlcUxTVEYtVXg3Sm5faDg1LUFDbHp3YkV3dkM2djFZaWlUcDRuZUpJZUdOeFBpLU1iN24tS2pMendtQVBDclVra1NmSUU5NjBVMTVFOHNHZ1dBaTM?oc=5",
+      "date": "2026-03-30",
+      "category": "IA",
+      "summary": "Agências devem estar atentas à crescente regulamentação sobre o uso ético da IA, impactando diretamente a segurança da marca e a conformidade legal.",
+      "key_insights": [
+        "Avanço regulatório em IA exige vigilância constante sobre ética e compliance.",
+        "Uso indevido de IA gera riscos reputacionais e legais severos para marcas."
+      ],
+      "actionable_points": [
+        "Desenvolver diretrizes éticas claras para IA e auditar ferramentas de terceiros."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "3c8ccec5aab13761d2b3d7774faf629a",
+      "title": "LinkedIn shares tips on using articles to enhance engagement",
+      "title_pt": "LinkedIn compartilha dicas para usar artigos e impulsionar o engajamento",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd3Y3MW9VQzVwakdtXzFrMEZWY3FKcm94ODd6ak5YYTFNOEY5S1ZaZUQ2aEFZb0lVVFprVDBOZ0R5SlgxRlN5OW4yZXk3bWY0WHp0amttMlNEdllURzZaVGdEb0tSclBrd1I5VFV2LVNqVVNKZE9DSlZ0b3h6TmdPSFhSRUF2ajdhR1l4ODY0bXFBTE9qYzFFM1BjbWhFU215eWp5REJqbS1xdw?oc=5",
+      "date": "2026-03-30",
+      "category": "Redes Sociais",
+      "summary": "Agências devem explorar artigos do LinkedIn para posicionar clientes como líderes de pensamento e gerar engajamento qualificado.",
+      "key_insights": [
+        "Artigos no LinkedIn são chave para posicionamento de marca e liderança de pensamento B2B.",
+        "Otimizar artigos impulsiona engajamento orgânico e autoridade profissional para clientes."
+      ],
+      "actionable_points": [
+        "Desenvolver estratégias de conteúdo para clientes focadas em artigos do LinkedIn."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "fd7c51b68fed678ce192e7c078c7be4c",
+      "title": "LinkedIn will no longer allow real-time livestreams",
+      "title_pt": "LinkedIn não permitirá mais transmissões ao vivo em tempo real",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSlJyT1o3SVhVUXVESFJiY294b05ycVd2ZjZOOEJpaDd4ZTlUb3hFOVZLR3FJTkhxeXM5Y29lQ2lyQVFSeFVfMFRhaTN3dHRua3ljVjdhNXhybnlmbjVlLVRSTlUtMnplZkNwRXZOSTgwZzJSNzdET09MX25JWWk0cS0zMnZ3U0loWTJyb2xndGZMMFpaVlc3aDdDWnJmZw?oc=5",
+      "date": "2026-03-29",
+      "category": "Redes Sociais",
+      "summary": "Agências precisarão ajustar estratégias de conteúdo e engajamento no LinkedIn, buscando alternativas para a comunicação em tempo real.",
+      "key_insights": [
+        "Impacto direto na estratégia de conteúdo B2B e comunicação com stakeholders.",
+        "Necessidade de explorar outros formatos de vídeo e plataformas para lives."
+      ],
+      "actionable_points": [
+        "Revisar planos de conteúdo para clientes que utilizam lives no LinkedIn."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "b1b231290ed964d0e62cfc4c834523e5",
+      "title": "Meta updates Edits with new fonts, templates and better search tools",
+      "title_pt": "Meta atualiza ferramentas de edição com novas fontes, modelos e melhores ferramentas de busca",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT3ZJNVBmRXpURktHWU4yakJhSUloU3cxV0kxSFVpd2h4YUtDQTVfUm1jQ25heENUYlhYLU1vRGVpM1ZLMkdGVE9JS2FfR3o4RTZMSG5sY000N3JRc1Z3aU5hcHNwc0hUQThZanlTQjNWcDJTaUZ2SmZWYlBxUU0wTXl2dVZyWFk1czB3VTZHZzV4eHFsbEt2T004c3pab3NGVm1MXzY3M01HaEJMb1N6TUsxRQ?oc=5",
+      "date": "2026-03-29",
+      "category": "Redes Sociais",
+      "summary": "Agências devem explorar as novas funcionalidades de edição da Meta para otimizar a criação de conteúdo e a performance criativa.",
+      "key_insights": [
+        "Novas ferramentas de edição da Meta ampliam as possibilidades criativas para campanhas.",
+        "Funcionalidades aprimoradas podem otimizar o fluxo de trabalho e a performance de conteúdo."
+      ],
+      "actionable_points": [
+        "Capacitar equipes para explorar e aplicar as novas fontes e modelos em campanhas."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
     {
       "id": "bd2a8a51820f1ba5fd55fb218b48404e",
       "title": "Meta’s next subscription package could boost Instagram performance",
@@ -159,6 +231,24 @@
       ],
       "actionable_points": [
         "Capacitar equipes sobre as novas funcionalidades de anúncios da Meta para integrar em propostas."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "9f79313c99b3373c2373c81fb76bc744",
+      "title": "New Mexico jury approves $375M in civil damages against Meta",
+      "title_pt": "Júri do Novo México aprova indenização civil de US$ 375 milhões contra a Meta",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWDJCWVpwNllOMzhFM3dOSTJsSEpyNHVHY2RHQlpFZDR2QkstcHFvVGV1YzRTQUFDd0lxRExvWnpwMVNVbWo1WUtsLXZ5Y2VVSzhVdTF3Ri1ja3hweXA5aGowa2JyWkNvN3N4b0lvQ2pCelZXQjR3bHNEOGtaWHkyNTZnb1VINUw3SjlDbVRoT1hIbW9PR0RyOVVqQml6VnM5ejhsZkRPN0Q?oc=5",
+      "date": "2026-03-25",
+      "category": "Redes Sociais",
+      "summary": "Agências devem monitorar o impacto de decisões judiciais como esta na reputação das plataformas e nas políticas de conteúdo e publicidade.",
+      "key_insights": [
+        "Ações legais contra plataformas aumentam a pressão por governança e segurança.",
+        "Riscos de reputação e compliance exigem maior cautela nas estratégias digitais."
+      ],
+      "actionable_points": [
+        "Revisar políticas de conteúdo e publicidade para mitigar riscos legais e de marca."
       ],
       "relevance_score": 8,
       "image_url": null
@@ -1184,6 +1274,24 @@
       "relevance_score": 8
     },
     {
+      "id": "0dbc485d10847230a09f4f7e5d52ef2e",
+      "title": "Reddit Shares Insight Into Rising World Cup Discussion",
+      "title_pt": "Reddit Compartilha Insights Sobre o Crescimento da Discussão da Copa do Mundo",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVERPcThWUzQycHluTDdQUGpiOW5lRDJUenBaenZ3Uml0anFqWVJFRHZQQkg0TXNBZlEzNkRlTFZuSHVaMVlIanA1VXVUMnI3NUF3V3lnY2psT2pRd2szbXRodjJqcU0tNDhwQUsxNTUwNU1JS2xtVFdsTU5WNG5TT2pBZlJOUjljMEdZQk40cVhucEU2X25aOEY4R3lTakY0T2c?oc=5",
+      "date": "2026-02-18",
+      "category": "Redes Sociais",
+      "summary": "Agências devem monitorar plataformas como o Reddit para captar tendências e sentimentos do consumidor em eventos globais.",
+      "key_insights": [
+        "Reddit é um hub para discussões autênticas e nichadas sobre eventos de grande escala.",
+        "O engajamento em eventos como a Copa revela oportunidades de conteúdo e segmentação de audiência."
+      ],
+      "actionable_points": [
+        "Incluir Reddit na estratégia de escuta social para campanhas de eventos e nichos específicos."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
       "id": "7207df40a87722668058b2440681a622",
       "title": "Meta Is Shutting Down Its Messenger Website",
       "title_pt": "Meta Encerra o Site do Messenger",
@@ -1235,6 +1343,24 @@
         "Avaliar e integrar dublagem automática em estratégias de conteúdo para clientes com alcance internacional."
       ],
       "relevance_score": 8
+    },
+    {
+      "id": "67dc393f8c9dde9d2b05bada5c466b8c",
+      "title": "Downloads of TikTok Alternatives Slow in the US",
+      "title_pt": "Downloads de Alternativas ao TikTok Diminuem nos EUA",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR1M1SXY0R2xaQXZmdk16VW8xbG5jTkRFZmZsR29VaFN3NnhIMjZrdkpoUzZMTVJDR2VEUmNxajMxVkRxSlpoQnY3dG5TQVJKc3ZmYV83TXpXei0wbU1ETElFcVZDX01aNE1HUnc2eV9Pa0p4aFlXSVFUREQ1dzRQYkN4TnZTMDlkT282R3ExS0lKWXotLVc1NA?oc=5",
+      "date": "2026-02-03",
+      "category": "Redes Sociais",
+      "summary": "Agências devem reavaliar a diversificação de plataformas, focando na consolidação do TikTok e na estagnação de alternativas.",
+      "key_insights": [
+        "TikTok mantém forte posição no mercado, apesar de tentativas de concorrência.",
+        "Usuários demonstram lealdade ou falta de interesse em novas redes sociais."
+      ],
+      "actionable_points": [
+        "Intensificar estratégias e investimentos em conteúdo para o TikTok."
+      ],
+      "relevance_score": 8,
+      "image_url": null
     },
     {
       "id": "510c69d1099363f5c6475644923f0fa2",
