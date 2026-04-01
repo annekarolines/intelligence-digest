@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-03-31T10:47:38.732966+00:00",
+  "last_updated": "2026-04-01T10:49:12.092633+00:00",
   "articles": [
+    {
+      "id": "2232101922c648d6a65d70256ae0b4f3",
+      "title": "Instagram confirms live test of its new subscription package",
+      "title_pt": "Instagram confirma teste ao vivo de seu novo pacote de assinaturas",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTzFLaEJnUlY5b2pyZ2h1dWlodWI5SGRPeFpMSmZjN3cxZjM0TDJxdUVEUDhQOS1zSXpDTzlqTVItcXk2cGplTkhtU2VOOENJUU02dnVlLUZzTHJwX1BiR2hVTEFKcVFzaXdkWlBxT3BfZHZ6OFVrMW1qLWNIMF9RWFE4OThBdmRDcWxGX0xXbzR4OEIxeXBQa1JKNU1WY0x6RDMzT1MtMGRVdw?oc=5",
+      "date": "2026-03-30",
+      "category": "Redes Sociais",
+      "summary": "Agências devem explorar novas formas de monetização e estratégias de conteúdo premium para criadores e marcas.",
+      "key_insights": [
+        "Novas oportunidades de monetização para criadores e marcas no Instagram.",
+        "Necessidade de adaptar estratégias de conteúdo para assinantes versus público geral."
+      ],
+      "actionable_points": [
+        "Avaliar modelos de assinatura para clientes e desenvolver ofertas de conteúdo exclusivo."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "2e5338187d5d2fbf0b16e0b52a769c17",
+      "title": "Meta shares new Facebook Content Monetization tips",
+      "title_pt": "Meta compartilha novas dicas para monetização de conteúdo no Facebook",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcGg2ejJ5UTQ5TWRPWVczei1nS3NxbnJmeTdjdWV3MXljSFhDbnVZRFRkalBPNnkwS1RCSmo4NnV4ZXppaW5FcS05MXhOa3dhV3M2clg4MjJVODJZdkxFSkdlUGp4YTlCNzZZVWRUcXlMZTVBUWtBRTNfSEdUZnlybDJLZ3FNRm5tZVNaWFNJQ0tmVVBOMkUxdFVBckQ?oc=5",
+      "date": "2026-03-30",
+      "category": "Redes Sociais",
+      "summary": "Agências devem integrar essas dicas para otimizar estratégias de conteúdo e monetização de clientes no Facebook.",
+      "key_insights": [
+        "Otimização de conteúdo para receita direta no Facebook é crucial.",
+        "Agências precisam atualizar estratégias para maximizar ganhos de criadores e marcas."
+      ],
+      "actionable_points": [
+        "Revisar e aplicar as novas diretrizes de monetização da Meta nas campanhas de clientes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
     {
       "id": "6c1f6a08ae2d194255f3231910321a9c",
       "title": "EU regulators propose banning AI nudification apps",
@@ -1363,6 +1399,24 @@
       "image_url": null
     },
     {
+      "id": "90f1d8f5407f56b2baa2b6f75d9bbfa4",
+      "title": "LinkedIn Continues To Add Users, Revenue",
+      "title_pt": "LinkedIn Segue Crescendo em Usuários e Receita",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU3htR2dzTHBhQzc5MlB4Q1JrVERLMHV2aFM1VE93OXVRUU83Q1BkQVZKOXkxeGRaeWI3b2h4XzhCbzB2cmx5Z3liV19PVXhOQUpabnpIbU9oRlpqVTRXUHFhcWR3Uy12MVM1a0ktcmZKYWc1ajNnWWFRZjZocTUzQXlKY2NycXdMNlIzQVN3?oc=5",
+      "date": "2026-01-29",
+      "category": "Redes Sociais",
+      "summary": "O crescimento contínuo do LinkedIn reforça sua importância como plataforma estratégica para B2B, branding profissional e aquisição de talentos para clientes de agências.",
+      "key_insights": [
+        "LinkedIn mantém relevância para audiências profissionais e B2B.",
+        "Crescimento indica mais oportunidades de publicidade e engajamento."
+      ],
+      "actionable_points": [
+        "Revisar e otimizar estratégias de conteúdo B2B e branding de talentos no LinkedIn."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
       "id": "510c69d1099363f5c6475644923f0fa2",
       "title": "Meta Bans Teen Access To AI Bot Characters",
       "title_pt": "Meta proíbe acesso de adolescentes a personagens de IA",
@@ -1376,6 +1430,24 @@
       ],
       "actionable_points": [
         "Auditar campanhas de IA existentes para conformidade com novas restrições de idade."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "465909686c7daff888b18a48f84dcd31",
+      "title": "Meta Says the Science Does Not Support Teen Social Media Bans",
+      "title_pt": "Meta: A ciência não sustenta a proibição de redes sociais para adolescentes",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSmloTzlyYXFlbHBWZWxVUjBNdlJRZUtjZjlXVUxxelNzUHpCci1LWldhaTJPUXZLUFBtOXltbWJQb0xrQXpwZlVXVGw0M1FZRzZ4NjU5dE4wOXV1M3lXMGFQZHdFRmpmcVVPdk5YcjU5R01OZE9FbkhmQnF2Z3F2aldKNGE3bWdlQW1zeHZiT0J4d2d6SlhpdEI2VGtiWVoyaUpSemVud0RVN1RoS1dKc21R?oc=5",
+      "date": "2026-01-19",
+      "category": "Redes Sociais",
+      "summary": "Agências devem monitorar o debate sobre uso adolescente de redes sociais para adaptar estratégias de conteúdo e comunicação responsável.",
+      "key_insights": [
+        "Plataformas defenderão seu modelo de negócio e impacto social.",
+        "Necessidade de comunicação responsável e segmentação etária."
+      ],
+      "actionable_points": [
+        "Revisar diretrizes de conteúdo para campanhas com público jovem, focando em segurança e bem-estar."
       ],
       "relevance_score": 8,
       "image_url": null
