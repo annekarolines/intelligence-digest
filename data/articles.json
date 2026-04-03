@@ -1,6 +1,60 @@
 {
-  "last_updated": "2026-04-02T10:45:26.583908+00:00",
+  "last_updated": "2026-04-03T10:37:00.170793+00:00",
   "articles": [
+    {
+      "id": "994ea3920fc2130391a0cf2f8c4ce01f",
+      "title": "Instagram allows creators to schedule Trial Reels",
+      "title_pt": "Instagram permite agendamento de Reels de Teste para criadores",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZXFkRThpUG9vZExqdlhzNTk3YWxCbEZBbF85SkhxVUdIUVVsdVlIMXc0cmpleG1PeFpsdnd4QWNEbnZHbjJTX1gxRHl2MUtuaVBOano0ZmpJYWhIUXY0TnVhMzBjNTg1ZGVrSGlUYWd3UjJJblhPWnBRd3lqNzZLY3JqREYyRWR2UG9rVU85aFVCakdxS1YzZ1RDUQ?oc=5",
+      "date": "2026-04-02",
+      "category": "Redes Sociais",
+      "summary": "Agências podem otimizar o planejamento e teste de conteúdo em vídeo no Instagram, melhorando a eficiência e a performance das campanhas.",
+      "key_insights": [
+        "A funcionalidade de agendamento melhora a eficiência operacional na gestão de conteúdo para clientes.",
+        "Reels de Teste abrem novas oportunidades para experimentação de formatos e testes A/B de criativos."
+      ],
+      "actionable_points": [
+        "Integrar o agendamento de Reels na rotina de planejamento e execução de conteúdo para clientes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "6aa6646ffca1219fa09da74d387111b7",
+      "title": "YouTube connects AI chatbot to smart TVs",
+      "title_pt": "YouTube conecta chatbot de IA a TVs inteligentes",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWGlXdTJRbVBpNTJQRGlzMHI3NEtMZ01ILVZJY2lDQi1vRFhiMElBNjJXVHhTQVZtV1oyRnNhRmQ2SXUzdExocUl2eTR1RDBVclpGRXJtbjg4MlNCVUp1eGF4RzJOODZTbW9jT1lkMEg1ZFJfei1NaWFGRVJDcUx6bW84Z1JhQWFFdGNDNjJZdw?oc=5",
+      "date": "2026-04-01",
+      "category": "IA",
+      "summary": "Agências devem explorar novas interações de conteúdo e publicidade em TVs inteligentes, impulsionadas por IA.",
+      "key_insights": [
+        "IA redefine a experiência de consumo de vídeo em telas grandes.",
+        "Novas oportunidades para publicidade interativa e contextualizada."
+      ],
+      "actionable_points": [
+        "Desenvolver estratégias de conteúdo e publicidade interativa para TVs inteligentes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "575ebe882429578c61ff3f5327778db9",
+      "title": "TikTok tests in-app DM games",
+      "title_pt": "TikTok testa jogos nas mensagens diretas do aplicativo",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zZEl5Q1ljeC1heTZObm9wOUgwanNyc05vNTh4OHZJNjVYRmJtX0xwY3A5dWwxRTZXSFZydUM5R2JhNExoVUhxUU1XTVpaZll1SmxmaHpwQy1WVEJNa0J5ajNlcTUyemlwNkxXVW5GeG1SYk1VWE9vRnhpRUJDWXc?oc=5",
+      "date": "2026-04-01",
+      "category": "Redes Sociais",
+      "summary": "Agências devem monitorar novas funcionalidades de engajamento para criar estratégias interativas e diferenciadas.",
+      "key_insights": [
+        "Novas formas de engajamento direto via gamificação em DMs.",
+        "Potencial para campanhas interativas e personalizadas com usuários."
+      ],
+      "actionable_points": [
+        "Explorar a criação de experiências gamificadas para marcas em DMs do TikTok."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
     {
       "id": "80d8a489a77d449b7794f35b3a183b3f",
       "title": "YouTube creators can now like video comments in bulk",
