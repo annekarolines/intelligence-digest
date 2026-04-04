@@ -1,6 +1,60 @@
 {
-  "last_updated": "2026-04-03T10:37:00.170793+00:00",
+  "last_updated": "2026-04-04T10:26:04.264105+00:00",
   "articles": [
+    {
+      "id": "2dca77a61649381d7ea55f3311d9dc9c",
+      "title": "YouTube experiments with TV-style channels for CTV viewing",
+      "title_pt": "YouTube experimenta canais no estilo TV para visualização em Smart TVs",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSVIzdFZGQUxEaFRpZFFNTTY1a0pkdlJ0Q3NrdWMtRzh6cTZ1SEJkSkwyeU5Kc3UyVXM5QnUtZjliTG9fdVk3QVpsTUZFRnRXTDN5bkhoVlB4dGNySEJENEpUck1HcE1jN0lVZ2dTSERFU1BoaXZTbGxnY2Z1aU05RVAyRU8wQ21MSVBwQmp3aTZqeldOUkljdEJIWHIybHZvZXlGbVpMMA?oc=5",
+      "date": "2026-04-02",
+      "category": "Redes Sociais",
+      "summary": "Agências devem adaptar estratégias de conteúdo e mídia para o novo formato de canais estilo TV do YouTube em Smart TVs.",
+      "key_insights": [
+        "Consumo de vídeo em Smart TVs ganha formato mais linear e curado.",
+        "Novas oportunidades de publicidade e formatos de conteúdo para CTV no YouTube."
+      ],
+      "actionable_points": [
+        "Desenvolver estratégias de conteúdo e mídia otimizadas para o formato CTV do YouTube."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "623fdbadde788ebbb379abb60054b05e",
+      "title": "Google Vids adds new AI features",
+      "title_pt": "Google Vids adiciona novas funcionalidades de IA",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX1ZEdU92MldSZkYtd1p3LW1paDcwdHA0Y3lpUkJ0SkRySVRlcm51bUFGcVBIZnNERjB5dFVJUzNvQzhVZzZseWZOTzVFNmtWRTl2WlBMOUF4amU5X0Y4VzM4bk5tOE1oM2lwZW9YTVdxTmhGMUJudlZKa09ScEpvMDIxbTI?oc=5",
+      "date": "2026-04-02",
+      "category": "IA",
+      "summary": "Agências podem otimizar a criação de conteúdo em vídeo com as novas ferramentas de IA do Google Vids.",
+      "key_insights": [
+        "IA em vídeo acelera produção e personalização de conteúdo.",
+        "Novas ferramentas abrem portas para campanhas de vídeo mais criativas e eficientes."
+      ],
+      "actionable_points": [
+        "Explorar Google Vids para automação de vídeo e prototipagem rápida de campanhas."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "05b02f80561f804a11445199a0ffa927",
+      "title": "Report shows document posts on LinkedIn see more engagement",
+      "title_pt": "Relatório aponta que posts com documentos no LinkedIn geram mais engajamento",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN2s4V1VIVllsX0J2RXplaXZWcExTcFJ0Sy1iVGJMaWswdVNnb1dwUll6VkNUVjRjeV82QXlyZG5YR3lJTzJ0akVqQm90a0EwSjNtSFdOOTN0XzR4dTV0SlFjN0tybHZReVB4RUlEXzcxQlFUZXA1UjZscUU1NkZ4TnpwbTNxbWhyeWo4dzNLSHVJQ1RSUHhiZU5hR1EzTWhOd3d6MFU5TW4?oc=5",
+      "date": "2026-04-02",
+      "category": "Redes Sociais",
+      "summary": "Agências devem priorizar a criação de conteúdo em formato de documento para o LinkedIn, visando otimizar o engajamento e a visibilidade dos clientes.",
+      "key_insights": [
+        "O algoritmo do LinkedIn favorece posts em formato de documento, aumentando o alcance orgânico.",
+        "Conteúdo aprofundado e bem estruturado em documentos supera posts tradicionais em interação."
+      ],
+      "actionable_points": [
+        "Desenvolver uma estratégia de conteúdo para LinkedIn focada em documentos ricos para clientes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
     {
       "id": "994ea3920fc2130391a0cf2f8c4ce01f",
       "title": "Instagram allows creators to schedule Trial Reels",
