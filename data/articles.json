@@ -1,6 +1,96 @@
 {
-  "last_updated": "2026-04-07T10:50:18.285449+00:00",
+  "last_updated": "2026-04-08T10:52:15.837392+00:00",
   "articles": [
+    {
+      "id": "06070d1645647da8285dd5e3589d3116",
+      "title": "YouTube expands Media Kit insights and adds AI tools",
+      "title_pt": "YouTube expande insights do Media Kit e adiciona ferramentas de IA",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU2xkakpRdGlua1B0eHVMVDZhb0FxVEtOdGxScWU1QnJrbzFhWDVNdzc3NDZ2c2RfZ3dabGpGV2U1aFUwdmp4Y0ZYNjBRMjNZejJWSldhbFlGR0d0clJpemE2SExfWDlOY0ZoQ2ZtSEViM21DaWk3UllJRFo5N3NXQmo1M2JyUVFoSnk2M3dMb3AzVkcyM2lDX2RHZ2wtelk?oc=5",
+      "date": "2026-04-07",
+      "category": "IA",
+      "summary": "Agências podem usar dados aprimorados e IA do YouTube para otimizar parcerias com criadores e campanhas de vídeo.",
+      "key_insights": [
+        "Acesso a dados mais ricos do Media Kit melhora a seleção de influenciadores e segmentação de público.",
+        "Ferramentas de IA no YouTube podem otimizar a criação de conteúdo, performance de anúncios e análise de resultados."
+      ],
+      "actionable_points": [
+        "Capacitar equipes para explorar os novos recursos de IA e insights do YouTube para campanhas."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "a70575c0e62552d85d75d5bc8fe4daa2",
+      "title": "Meta will soon release new AI models developed by Alexandr Wang",
+      "title_pt": "Meta em breve lançará novos modelos de IA desenvolvidos por Alexandr Wang",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeDBzeFpId2tqOHBCUllqcDc0cHFmRFA4Z014MkVMbFl4SUZxMHpDbkpsQzJYV3c4cGxxamJ5eExQSWZQMWdTREYtVGpQMGpNRTFaTWJod0JtNHVaMlRiT0M5RG84dXlNR25keXpsa180ZlNreWo4RE9qSC1WZl9ZRDVOUnhleDNxMHFDZC1XQVExd3dReGEzXzhseFpubmpVYUlqdFl6aGdCaHRsVmc?oc=5",
+      "date": "2026-04-06",
+      "category": "IA",
+      "summary": "Agências devem se preparar para novas funcionalidades e estratégias impulsionadas por IA nas plataformas da Meta.",
+      "key_insights": [
+        "Novas IAs da Meta impactarão diretamente publicidade e criação de conteúdo em suas plataformas.",
+        "Monitorar a evolução da IA da Meta é vital para manter a relevância estratégica da agência."
+      ],
+      "actionable_points": [
+        "Designar equipe para testar e integrar novas ferramentas de IA da Meta em campanhas."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "ea67ae2c2faaebac302514c1e8a556fe",
+      "title": "Meta looks to grow Threads in Japan",
+      "title_pt": "Meta busca expandir o Threads no Japão",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcWhTV1c3WGxha2xvOFZrRHg1bm1naFkzVkpDSmtkN1VXaUZaTG9vME9aNlJkdkZUWHNXa2tBWHQ1alRZRFhQTmZ5NEZnT3B4bXZubkxPN2JNb0dHSHB6VW5pZGZ3YWlhcllNZnpxWDdyWXR4ZzE5amp3Ni1ndmE0ZnZVQWhlZm1q?oc=5",
+      "date": "2026-04-06",
+      "category": "Redes Sociais",
+      "summary": "A expansão do Threads no Japão indica novas oportunidades de alcance e estratégias de conteúdo para agências focadas nesse mercado.",
+      "key_insights": [
+        "Expansão regional de plataformas abre novas oportunidades de engajamento em mercados específicos.",
+        "Agências devem monitorar crescimento de plataformas para adaptar estratégias de conteúdo e mídia."
+      ],
+      "actionable_points": [
+        "Avaliar o potencial do Threads para clientes com foco no mercado japonês."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "6303bdc8f2624c16ca04c8541613bae7",
+      "title": "TikTok expands HubSpot integration",
+      "title_pt": "TikTok expande integração com HubSpot",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSTBsSVU5RUJDQnlyNHBhUHVHN2V1TjRNQ3VJVW0tLVdJWTFSNFB2Tk9YMm5pQXk4T05TYnFfdk1MM25CUExIX0g2dlVJYV92dHI2MGFmUXhTcHNmdWR1MmRMSTljZzZMSFhxTkVNTENZUUtaZk1jVjVuS3RHMUdKQ3FPeTl2Y0k?oc=5",
+      "date": "2026-04-06",
+      "category": "IA",
+      "summary": "Agências podem otimizar a gestão de campanhas e dados de clientes integrando TikTok e HubSpot, melhorando a automação e análise.",
+      "key_insights": [
+        "Otimiza a automação de marketing e a gestão de leads gerados no TikTok.",
+        "Permite análises mais profundas de ROI e atribuição de campanhas sociais."
+      ],
+      "actionable_points": [
+        "Avaliar e implementar as novas funcionalidades para integrar dados de campanhas do TikTok ao CRM."
+      ],
+      "relevance_score": 9,
+      "image_url": null
+    },
+    {
+      "id": "dd660fde872cbf4b31e092839cf0ed98",
+      "title": "Questions linger about the long-term viability of X",
+      "title_pt": "Dúvidas persistem sobre a viabilidade de longo prazo do X",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcU5tT1BUUkhraU1tekhPQXVpNXpvajdjLXM4NzZ2NHdxaFJub2FvTWZRXzluc1Fyc2otNjE1aHk5VUctTGpHeU1KeUNLVHV0VHdOTXJ4NXVJRlNmd2V1bG9OejZHWWhTcmNsbGRBWUJwY2xYdENYSEhTWHJkbkd1dnFjRk1ma2RrTG9GVnFmZnZ5RURHbGU0eE5TTk5qQQ?oc=5",
+      "date": "2026-04-06",
+      "category": "Redes Sociais",
+      "summary": "Agências precisam monitorar a estabilidade do X para ajustar estratégias de clientes e alocação de recursos.",
+      "key_insights": [
+        "A instabilidade do X pode impactar a presença de marca e campanhas de clientes.",
+        "Agências devem diversificar estratégias e não depender excessivamente de uma única plataforma."
+      ],
+      "actionable_points": [
+        "Avaliar a performance e o ROI do X para clientes, explorando alternativas de plataforma."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
     {
       "id": "2c1f8363e06424bb8853fe2b47422d6c",
       "title": "Elon Musk pressures potential SpaceX investors to advertise on X",
