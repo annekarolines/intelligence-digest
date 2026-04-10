@@ -1,6 +1,78 @@
 {
-  "last_updated": "2026-04-09T10:53:59.740086+00:00",
+  "last_updated": "2026-04-10T10:45:27.346783+00:00",
   "articles": [
+    {
+      "id": "eeb306ebdc3722bfa506a0e8ebfcd32d",
+      "title": "YouTube tests 90-second unskippable ads on CTV",
+      "title_pt": "YouTube testa anúncios de 90 segundos não puláveis em TVs Conectadas",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWVZlUldRN3E5WlJJX04tTWpTOXRPbnlvckhEY1NOTUx3QldTZVlGQTh6LWVsRDBkT0Fhd0thSGhCZVZjUHJrS0FialVTR0RUTTRwOEMyR0w0MEFTcmVZdmhYNDVNazkyelZEcy0za0p2X3pobTdFZjdhUF9XSmE2UHlSOHYwaHFtMFNabHlOd19BQmJiSXZ3?oc=5",
+      "date": "2026-04-09",
+      "category": "Redes Sociais",
+      "summary": "Agências precisarão adaptar estratégias de mídia e criativos para formatos de anúncio mais longos e intrusivos em CTV.",
+      "key_insights": [
+        "Maior tempo de anúncio exige criativos mais envolventes para evitar rejeição do público.",
+        "Crescimento de CTV como canal de mídia demanda novas abordagens de planejamento e compra."
+      ],
+      "actionable_points": [
+        "Avaliar impacto na performance de campanhas e testar novos formatos de vídeo para CTV."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "5956aec5922b1409e3d89d4cb5881a4e",
+      "title": "Instagram adds comment editing",
+      "title_pt": "Instagram adiciona edição de comentários",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUFdKb25HWkJPWUNpSjdWN0xHOWxRM1lmVlpjcWE0bVlzMF9OSm1MUUJhU2t1YjZ2V0VBQmRzSW9JLUdiQ1VEOGRSRzZ1VWF0am5xdWF0NE1ha0FSYlI1eXZid3VIbzFkMHQ1RTh6dWc3NlJOSmQzQTdVaEFVeEpzVkVB?oc=5",
+      "date": "2026-04-09",
+      "category": "Redes Sociais",
+      "summary": "Agências podem aprimorar a gestão de reputação e a comunicação de clientes ao corrigir erros ou refinar interações pós-publicação.",
+      "key_insights": [
+        "Maior controle sobre a narrativa da marca e gestão de crises em tempo real.",
+        "Otimiza a qualidade das interações e a correção rápida de erros em comentários."
+      ],
+      "actionable_points": [
+        "Atualizar protocolos de gestão de redes sociais para incluir a edição de comentários."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "1ae17e6ccf26b2c246f9d84148b3910c",
+      "title": "Meta Superintelligence launches Muse Spark AI model",
+      "title_pt": "Meta Superintelligence lança modelo de IA Muse Spark",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUDd5LW1JY0JuQ1c0S29id0JTYnZabGJMTkhrYUlpTVZfQjkyeElQZE9vdVlNZTVVWkhaQ3NQbXdfR3ZaZDljcGdmcExPSjlNMmpyRl85UUJsc0syZVFuWk9Cc2RBcGdiZ0k1VGUxek1HbXZaVDFIRHN5VVVVRXB3LV9FbFBHOC1lWm5Gby10UE11UDlDZGJmRDNNRW1Fdw?oc=5",
+      "date": "2026-04-08",
+      "category": "IA",
+      "summary": "Agências devem monitorar novas IAs da Meta para otimizar campanhas e criação de conteúdo.",
+      "key_insights": [
+        "Impacto direto nas estratégias de conteúdo e publicidade em plataformas Meta.",
+        "Potencial para automação avançada e personalização de campanhas digitais."
+      ],
+      "actionable_points": [
+        "Explorar o Muse Spark AI para otimização de anúncios e geração de conteúdo em Meta."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "d048f765ab7f5ad1830ec47c2721628e",
+      "title": "Snapchat makes a push for Snapcodes as a marketing tool",
+      "title_pt": "Snapchat impulsiona Snapcodes como ferramenta de marketing",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbUVRT0xxcXV3RjBIU2FlVFlFclNqM1NtRjZ5b2Y4aFBoaVAyR2s3R1dxOXNuNE50eUdfWnl6SFFqMVBOczJvdW5McGF3UGtJbDZDZ0N3dXpWUVdxcWw4N0lpb3Rsd04xYXNZai1ZUmZJYnpaOXprbXZuYXIxRWNLcXM1eG51Sk1pX01pVnMtNGdwNl9BUFhuYlJuNVpIOGpTYW13?oc=5",
+      "date": "2026-04-08",
+      "category": "Redes Sociais",
+      "summary": "Agências devem considerar o uso estratégico de Snapcodes para integrar experiências de marca e engajamento no Snapchat.",
+      "key_insights": [
+        "Snapcodes podem ser um diferencial para conectar o mundo físico e digital em campanhas.",
+        "A aposta do Snapchat sinaliza a relevância contínua de ferramentas de ativação direta na plataforma."
+      ],
+      "actionable_points": [
+        "Explorar a aplicação de Snapcodes em estratégias de conteúdo e ativação para clientes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
     {
       "id": "4bc4e0e4b57aacfbe1033cabcb278fe0",
       "title": "Content diversification is key to engagement on Pinterest",
