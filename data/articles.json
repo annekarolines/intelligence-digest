@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-04-10T10:45:27.346783+00:00",
+  "last_updated": "2026-04-11T10:27:03.692941+00:00",
   "articles": [
+    {
+      "id": "06284520e90a002f62ad9dc6d06b86f4",
+      "title": "X eliminates thousands of accounts in new bot purge",
+      "title_pt": "X elimina milhares de contas em nova limpeza de bots",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUlpWam5NdGhPYVBNa3Y4Y1ZDZWRsNVh4MG5XMFdyb0hiZVF4VHJEWloxMnhaMHpxaGtLVUVFTE83QTdxVzNuNzR5V21yOV9XRkhQcWs2RngybjFaMlNVYWRjaW8xMVRGZ3NoU0V2bURFbTlzWUlhUEN1LTNRcjNEdlowUUlRVE9XS010R3I2WnhtSGVwWVVveA?oc=5",
+      "date": "2026-04-09",
+      "category": "Redes Sociais",
+      "summary": "Agências devem reavaliar a autenticidade das audiências e o impacto em métricas de campanha no X.",
+      "key_insights": [
+        "Impacto direto na métrica de alcance e engajamento real das campanhas.",
+        "Melhora a qualidade dos dados para segmentação e análise de audiência autêntica."
+      ],
+      "actionable_points": [
+        "Auditar audiências e resultados de campanhas em X para clientes afetados."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
     {
       "id": "eeb306ebdc3722bfa506a0e8ebfcd32d",
       "title": "YouTube tests 90-second unskippable ads on CTV",
@@ -33,6 +51,24 @@
       ],
       "actionable_points": [
         "Atualizar protocolos de gestão de redes sociais para incluir a edição de comentários."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "86c52b52e6146ca69c14772922c36794",
+      "title": "Snapchat users visit the app for health and medical advice",
+      "title_pt": "Usuários do Snapchat buscam conselhos de saúde e médicos no aplicativo",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUTlpLXZmd0pwZXhJQ3RKU0p1NHA5eUkyT0ZFSGJDR1lJcEFLcjJnbE1Hd0xoTGdrNEFENm9WYVp5VDg4V3NzcjF5elU0em9RUjNUZENSZlpOOVN3VVd6Mk15RVkySHBMRVMzX1NfMWNYRnF5WEcwUGNDaVN1VXlacU1qSXB3MVR0RDdkaVZNUXo3MjB4eUlmSXFOZmx2aVZHaTJmMDFIVQ?oc=5",
+      "date": "2026-04-08",
+      "category": "Comportamento",
+      "summary": "Agências devem explorar o Snapchat como canal para conteúdo de saúde, dada a busca dos usuários por conselhos.",
+      "key_insights": [
+        "Snapchat se torna fonte de informação confiável, além de entretenimento.",
+        "Cria novas oportunidades para marcas de saúde e influenciadores no app."
+      ],
+      "actionable_points": [
+        "Desenvolver estratégias de conteúdo informativo e parcerias com especialistas no Snapchat."
       ],
       "relevance_score": 8,
       "image_url": null
@@ -141,6 +177,24 @@
       ],
       "actionable_points": [
         "Capacitar equipes para explorar os novos recursos de IA e insights do YouTube para campanhas."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "10826dee9c6b0e3bf20bcc3dea28d3fd",
+      "title": "Authorities need to establish clearer rules on social media age checking",
+      "title_pt": "Autoridades precisam estabelecer regras mais claras sobre verificação de idade em redes sociais",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOGd4QlZVVmR2eEdXVnZFTGxwX0xNdnNubVY5bVV2c2t0d3F1bFVYQXQtbU1DZXUzRklqX0ZFU2NGUnlidlFhcVhUdXhkZ2N2YmJMcWdxaUI1QmNPcGl6NFNOZU10OW41T1I3YVROc1dIdmo0aEQyejdiZzJ5SkdoYUJUMVp0VVZzQ1RsZTZUM3F1WlZvY1NEaEE1bi1IVm1yN2hUbXVUaVFxWVNlZFJoWE9ZUmwzbk54SEE?oc=5",
+      "date": "2026-04-06",
+      "category": "Redes Sociais",
+      "summary": "Agências precisarão adaptar estratégias de conteúdo e segmentação para garantir conformidade com novas regulamentações de idade.",
+      "key_insights": [
+        "Novas regras de idade impactarão segmentação e criação de conteúdo para jovens.",
+        "Agências devem monitorar regulamentações para evitar riscos de conformidade."
+      ],
+      "actionable_points": [
+        "Auditar campanhas atuais e futuras para conformidade com potenciais restrições de idade."
       ],
       "relevance_score": 8,
       "image_url": null
