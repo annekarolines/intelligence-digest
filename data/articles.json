@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-04-11T10:27:03.692941+00:00",
+  "last_updated": "2026-04-12T10:32:11.632780+00:00",
   "articles": [
+    {
+      "id": "a62a0024f0aa5a02b4e3dd1ce799789a",
+      "title": "WhatsApp partners with Arsenal Football Club",
+      "title_pt": "WhatsApp em parceria com o Arsenal Football Club",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbF8tZmR0M2JWaWVsMTAxU0RNZkpYWlVnUTJLUEVTb3hUN0cyQzNBMWhzVHdOSXlxVVpMQl9vbEcwV2lENHVLUFhuUEpRZGhtb2NfM1hXaFJuTU1USjJVUlFCNW5EVFQxMnpuUUdsMGZicFVsZy1ycVcteTNmcDlpeEUzZEhUTUs3bWNSLVFoZVItcmVP?oc=5",
+      "date": "2026-04-09",
+      "category": "Redes Sociais",
+      "summary": "Agências devem explorar o potencial de plataformas de mensagens diretas para engajamento e construção de comunidades de marca.",
+      "key_insights": [
+        "Crescente relevância de apps de mensagens para engajamento direto com consumidores.",
+        "Parcerias com esportes abrem novas frentes para comunidades e monetização."
+      ],
+      "actionable_points": [
+        "Avaliar estratégias de comunicação e engajamento via WhatsApp para clientes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
     {
       "id": "06284520e90a002f62ad9dc6d06b86f4",
       "title": "X eliminates thousands of accounts in new bot purge",
@@ -53,6 +71,24 @@
         "Atualizar protocolos de gestão de redes sociais para incluir a edição de comentários."
       ],
       "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "dfbc5f0bfa8d09bb277e8ed8fa71ffff",
+      "title": "LinkedIn adds video playback speed controls",
+      "title_pt": "LinkedIn adiciona controles de velocidade de reprodução de vídeo",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRnQxVktNV0JkQk9ZT2tkTTdLOU11c3ptaVFiRW9DVlhZQWFqWlNaZkVNYlpJS2Z1VW5PTlNFUC04VHIzcnZodmcxd3F2bmJpQWctRFlGNElSYzRHRXdjNXltaHRoaWo0Yy03LU9manpDV1ZFdmFBNEgwZ0sxcXpNVmhiR1ViNEhZNXVoTkZMdzJBRW8?oc=5",
+      "date": "2026-04-08",
+      "category": "Redes Sociais",
+      "summary": "Agências devem adaptar estratégias de vídeo no LinkedIn, considerando o controle de velocidade para otimizar o consumo de conteúdo.",
+      "key_insights": [
+        "Usuários podem consumir conteúdo mais rápido, exigindo mensagens concisas e diretas.",
+        "Impacta métricas de engajamento e a forma como a narrativa é percebida pelo público."
+      ],
+      "actionable_points": [
+        "Orientar clientes a criar vídeos com mensagens claras e ritmo adaptável para o LinkedIn."
+      ],
+      "relevance_score": 7,
       "image_url": null
     },
     {
