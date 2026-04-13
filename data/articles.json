@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-04-12T10:32:11.632780+00:00",
+  "last_updated": "2026-04-13T11:11:47.461649+00:00",
   "articles": [
+    {
+      "id": "80405b170ecc01b2425c98b59bba8a5e",
+      "title": "Most EU residents don’t trust firms in the U.S. or China with their data",
+      "title_pt": "A maioria dos residentes da UE não confia em empresas dos EUA ou China com seus dados",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUGxGX1VTR1VkckJSX0c1UlBpTWNXWktaZ19zNVQ3WFd3YktiaGl6VE42WHFJNXVCNFFRQTd2Y0ZoSi1BNk05eTFtZ1ZOVmx1cmZ1SzU2ZjVlSVNCcFNQS1lJYU9kSnIzdllweEZ6TVE4b0RUMTdoZWFvNDV4RHJpTE1RamF6X2NsOEZwUkwtejlSQUZiM3ZQOC05bmU2RVFMTDBPNExSUnlwWWFQZnZRRkp5NHlNQQ?oc=5",
+      "date": "2026-04-12",
+      "category": "Comportamento",
+      "summary": "Agências devem priorizar a transparência e a conformidade com dados para construir confiança com consumidores da UE e garantir a eficácia das campanhas.",
+      "key_insights": [
+        "A desconfiança afeta diretamente a coleta de dados e a personalização de campanhas na UE.",
+        "A reputação da agência e de seus clientes depende da gestão ética e segura dos dados."
+      ],
+      "actionable_points": [
+        "Revisar políticas de privacidade e comunicação de dados para clientes com foco no mercado da UE."
+      ],
+      "relevance_score": 9,
+      "image_url": null
+    },
+    {
+      "id": "df6cf73939906aa9346ee9b9ffbb4d8f",
+      "title": "Meta removes ads that encourage litigation against the company",
+      "title_pt": "Meta remove anúncios que incentivam litígios contra a empresa",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcmNyWTdBV2tpQ2RDQTZmbG55ME5PaXkxVTRnTWNtYXZtb2RRT2dlRHVOZjhxYk8wUVV4emNUTU4zUGFjaDh6dkNhV2VGX21tSXd3eVF1eTgzX25wQnZzX1V5TTZwUGp3SEZYbWNBOGhjajE3elY1RmdSbUQxT1NsUDBxX0xwOHV0dVhiaEF0RG5CZHRiUkppQ0pBcFh3Mk5xX2d4aUYzLTg0RVAx?oc=5",
+      "date": "2026-04-09",
+      "category": "Redes Sociais",
+      "summary": "Esta mudança na política de anúncios da Meta exige que agências revisem e adaptem suas estratégias de conteúdo e conformidade para campanhas.",
+      "key_insights": [
+        "Meta reforça controle sobre o conteúdo de anúncios, impactando a liberdade criativa e a conformidade.",
+        "Agências precisam atualizar-se sobre diretrizes para evitar rejeições e garantir a veiculação de campanhas."
+      ],
+      "actionable_points": [
+        "Atualizar equipes sobre as novas políticas de anúncios da Meta para garantir conformidade."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
     {
       "id": "a62a0024f0aa5a02b4e3dd1ce799789a",
       "title": "WhatsApp partners with Arsenal Football Club",
