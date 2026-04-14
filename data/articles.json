@@ -1,6 +1,78 @@
 {
-  "last_updated": "2026-04-13T11:11:47.461649+00:00",
+  "last_updated": "2026-04-14T10:57:59.202263+00:00",
   "articles": [
+    {
+      "id": "38554704d778f9e2c7867d3e3a318877",
+      "title": "X boosts incentives for original content creators",
+      "title_pt": "X aumenta incentivos para criadores de conteúdo original",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSnNEbk96WngwZjVCZk4temhMVjBjT1BMeno3WGxKNFpLNWZDWnZYNDNwS0N2alVBd3hqUW14c0I4WmhsNXN1cGx5NEt3RmFhZXhvZVA2RkFZbFhRWTNkb3VVNXpiMDRGUEgwYXJaV1YxZm1HdFdmRTVpNmt1YVdqdEs0eEpIOU1uRi0tMDlmSGtCMUpGSXJJSHcxNA?oc=5",
+      "date": "2026-04-13",
+      "category": "Redes Sociais",
+      "summary": "Agências devem revisar estratégias de conteúdo e monetização em X, focando em criadores e originalidade para seus clientes.",
+      "key_insights": [
+        "Plataformas priorizam conteúdo original, impactando estratégias de agências para engajamento e alcance.",
+        "Novos incentivos criam oportunidades para agências explorarem parcerias com criadores e monetização em X."
+      ],
+      "actionable_points": [
+        "Desenvolver estratégias para clientes que capitalizem nos novos incentivos de conteúdo original em X."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "d8a6303719e17895f9ee74ff35cc73b2",
+      "title": "Mark Zuckerberg continues his pursuit of AI human clones",
+      "title_pt": "Mark Zuckerberg segue em sua busca por clones humanos de IA",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa01ISnhVQUV4TEtjYTZXYTZKanROektmYlozX0JvS2hIbklkbmdLVHN0Tkl6MEZpcTBDSlltVVNqdVZQeTFvR0xDczFkTkNPcVlFZnhFSmJPSEV6REZLZlJLMWJ4YTZXaGZhZGhsMkhzQXIxak45TjF5NXhUcUtwcG1vUlB5NlJRTGthVVlObjFHUE5GRzQ4aUZyTmR2VmVDeGhvOA?oc=5",
+      "date": "2026-04-13",
+      "category": "IA",
+      "summary": "Agências devem monitorar o avanço de IAs humanizadas para novas fronteiras de interação e representação de marcas.",
+      "key_insights": [
+        "Potencial para avatares de IA hiper-realistas em campanhas e atendimento ao cliente.",
+        "Implicações éticas e de autenticidade para a comunicação e branding."
+      ],
+      "actionable_points": [
+        "Iniciar pesquisa e experimentação com IAs generativas de persona para futuros projetos."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "8d35a4bf6f0157d661e4f1d41228642b",
+      "title": "TikTok adds new AI video generation to Symphony ad toolkit",
+      "title_pt": "TikTok adiciona nova geração de vídeo com IA ao kit de ferramentas de anúncios Symphony",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaGlsN2ZienlTMERZRUdLcktINEYyeFd0Uk5iSUNlTW40WGt0RV8zRUhMTWlzRmNiS3djbXhlYlVyMm9PazMxTTdad2xKYWlETTdoSDBKem9fVHZBdXdsRHNsemRxdUhPZDQ2MGhpRmNrcFJ2eXdLMUFTY1prSVlCSWlHSVdSQ3FwODJCUF91UERYZk9KYzdrQW9yLVdvVjVhdVprbXZiOA?oc=5",
+      "date": "2026-04-13",
+      "category": "IA",
+      "summary": "Agências podem escalar a produção de criativos de vídeo para TikTok, utilizando a nova funcionalidade de IA.",
+      "key_insights": [
+        "Otimização da produção de anúncios em vídeo via IA no TikTok.",
+        "Necessidade de agências dominarem novas ferramentas de criação de conteúdo."
+      ],
+      "actionable_points": [
+        "Capacitar equipes para explorar a geração de vídeo com IA no Symphony Ads."
+      ],
+      "relevance_score": 9,
+      "image_url": null
+    },
+    {
+      "id": "0289e8860d324785fb6f200ff75bcf0e",
+      "title": "YouTube to increase the cost of its Premium service",
+      "title_pt": "YouTube aumentará o custo de seu serviço Premium",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVU14aHRyaExQV0pCck5Hci1hODJGWkhLcEFjaC00RHhaUVVTSmU1Rjd4dDFOYmNrUW1WbENiLWtJZEtldThGanVSSkRTU0diMmd6N0NXZHNNSWdPQjg2RkV2TXJnMGRZUzlXTmtDTmVTLVRyNnFLVFJqMEF6cmFEZERUUkdNcEJtS19UUGJyb21fbXBoWEMwT3JBTXFQUQ?oc=5",
+      "date": "2026-04-12",
+      "category": "Redes Sociais",
+      "summary": "Agências devem monitorar o impacto do aumento de preço do YouTube Premium na retenção de usuários e na estratégia de conteúdo.",
+      "key_insights": [
+        "Potencial migração de usuários Premium para a versão gratuita, impactando visualizações e engajamento.",
+        "Necessidade de adaptar estratégias de conteúdo para audiências que podem ver mais anúncios."
+      ],
+      "actionable_points": [
+        "Analisar o impacto na audiência e ajustar o planejamento de mídia e conteúdo no YouTube."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
     {
       "id": "80405b170ecc01b2425c98b59bba8a5e",
       "title": "Most EU residents don’t trust firms in the U.S. or China with their data",
@@ -105,6 +177,24 @@
       ],
       "actionable_points": [
         "Atualizar protocolos de gestão de redes sociais para incluir a edição de comentários."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "a20fd4c248157988eaad8259053ab2b9",
+      "title": "TikTok launches updated integration for Wix users",
+      "title_pt": "TikTok atualiza integração para usuários Wix",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYTFXUUI5TmdIbTdDTGg0RDF1RDJXbng0M1lrRk5pdVFNazM1VHFwVUVVR1VIUUc5RUMwVzh5Z2V0ZlVhT3I5QTJQdWxDTjZXRHFLTEpSa1E5UV9Tend4YXBia093dG1vaXNSYmFsZGlUdWI0M3F5TmlENmo1YWV2bDJNYVZfYjYtcjk4Nk9MYnpEdk95Z0xHOWVwSQ?oc=5",
+      "date": "2026-04-08",
+      "category": "Redes Sociais",
+      "summary": "Essa integração simplifica a gestão de campanhas de e-commerce e conteúdo no TikTok para clientes Wix, exigindo que agências dominem a sinergia.",
+      "key_insights": [
+        "Simplifica a gestão de campanhas de e-commerce e conteúdo no TikTok para clientes Wix.",
+        "Abre novas oportunidades para agências otimizarem funis de vendas diretas via social commerce."
+      ],
+      "actionable_points": [
+        "Capacitar equipes na nova integração para oferecer soluções de social commerce mais eficientes."
       ],
       "relevance_score": 8,
       "image_url": null
