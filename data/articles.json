@@ -1,6 +1,96 @@
 {
-  "last_updated": "2026-04-14T10:57:59.202263+00:00",
+  "last_updated": "2026-04-15T10:55:19.242314+00:00",
   "articles": [
+    {
+      "id": "4bfbdf22cfb59bbe7ed0cbd0a82a91c5",
+      "title": "Meta updates Threads API with more third-party app integration",
+      "title_pt": "Meta aprimora API do Threads para maior integração com apps externos",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUXZXV0RRaEdaY01TTEVoTVBEclZMNjN3Snk4ck1wb3p1RUVrdUZYZURhYTJGX1c5ajdjNjByN0h5UW9sX2ViN1dEcGRGa25TbldiZjFjeVE4RVA4RmtjNlRmV3hWTGY1ZGZ3U0loRVNCN1AycnU0azZIeG16R3VnXzQ2aHBzc0l6WmhvczFSRmxZVlhzX1lLY3Z0QUxIODRlM3Y4TDFaQW5NbEZM?oc=5",
+      "date": "2026-04-14",
+      "category": "Redes Sociais",
+      "summary": "Agências podem otimizar a gestão e automação de conteúdo no Threads, integrando-o a ferramentas de marketing existentes.",
+      "key_insights": [
+        "Maior automação e eficiência na gestão de conteúdo para o Threads.",
+        "Expansão das possibilidades de monitoramento e análise da plataforma."
+      ],
+      "actionable_points": [
+        "Avaliar ferramentas de terceiros compatíveis para otimizar operações no Threads."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "454fe98d655f47eeda337b46bad2c9bf",
+      "title": "Meta announces date for 2026 Conversations event",
+      "title_pt": "Meta anuncia data para o evento Conversations de 2026",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQTJHM3N5dGM0V1pjYnNXNmItMHdSSU9vYTI5U0JVaUc3SEh3VjJlM0dnSDA3Q3hzR3R3SzUyYWJycWZpQjhzZWtuQTFyWmh2V3JlWUhPS1duTTdFMHR4TzhNdGF0M0VzU1hvTnN5RzR4REJoNHlVckx2QjNVQ0g4ZXM1RHo1VUZaSWQ2a09RRVJQQW9RdUx0NWZn?oc=5",
+      "date": "2026-04-14",
+      "category": "Redes Sociais",
+      "summary": "Agências devem monitorar eventos da Meta para antecipar mudanças em plataformas e ajustar estratégias de clientes.",
+      "key_insights": [
+        "Eventos da Meta sinalizam direções futuras para produtos e funcionalidades.",
+        "Antecipar tendências permite otimizar estratégias e campanhas de clientes."
+      ],
+      "actionable_points": [
+        "Designar equipe para acompanhar o evento e analisar anúncios relevantes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "2b3f11b568338bfb62bf8bd8b8f20ecb",
+      "title": "Advocacy groups warn against adding facial recognition to Meta AI glasses",
+      "title_pt": "Grupos de defesa alertam contra a adição de reconhecimento facial aos óculos de IA da Meta",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRC10N3Y1dFVHem1CTkkwVzZrcFAtMWV3azRrbGNYZmtXTlB5UjE4OXNnT0lXQXRDRkFJZW1aNFJ6ZVlhMzUyeHVjaXFEQVRraDZxeTdxZFpBOVh4cmxobU90RE9LQjVZT3FPUTlDY1gwTEYtVW44ZzdZakVQUC1PQzNqR2tXbW15ODFIeDZqSEFZLWFtMDBUSENPMjRZZnRPblRuZEIycURzYXJXckh2TkF1Q0NlWlhNX1RJ?oc=5",
+      "date": "2026-04-13",
+      "category": "IA",
+      "summary": "Agências devem monitorar o debate ético sobre IA e privacidade para orientar clientes e evitar crises de imagem.",
+      "key_insights": [
+        "A ética da IA e a privacidade são preocupações crescentes para consumidores e reguladores.",
+        "A adoção de novas tecnologias depende da superação de medos relacionados à privacidade de dados."
+      ],
+      "actionable_points": [
+        "Desenvolver diretrizes de comunicação para clientes sobre o uso ético de IA e privacidade."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "48e28bafad8bd62ee9d70eebb7ce6d64",
+      "title": "4 new engagement options for YouTube creators",
+      "title_pt": "4 novas opções de engajamento para criadores do YouTube",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTkpVNndLNldlbnBwYXBzRngyQ1lUV2x1eUh3TFZCRE52Wmw0NUJXZlhBS0ZWdkp6UDFVNzRtbC11dHROWE41TGx5Z3R5RFlmTDJWVE8tZk1qUXYzWDVJWHV1LVpNX3ptREdmZmVwSE9ucUo1N05JY2stVmFxTWhiMmJ1R091b29ZckZrN0F1ZzlZcHhwWVE?oc=5",
+      "date": "2026-04-13",
+      "category": "Redes Sociais",
+      "summary": "Agências devem explorar estas novas ferramentas para otimizar estratégias de conteúdo e interação no YouTube para seus clientes.",
+      "key_insights": [
+        "Novas funcionalidades alteram dinâmicas de conteúdo e alcance no YouTube.",
+        "Agências precisam adaptar estratégias para maximizar o engajamento do cliente."
+      ],
+      "actionable_points": [
+        "Pesquisar e testar as 4 novas opções para integrar em campanhas de clientes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "6c14b552b0fde80be54b5a1e577b7637",
+      "title": "Reddit expands Reminder Ads globally",
+      "title_pt": "Reddit expande Anúncios de Lembrete globalmente",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZEhjNC1oVGJCTDEzb1Z4Q1hZT1NLMklsemhWYmRRYXQ1SXhqSFB3ZmN2OVpRdUtEcE1FNDN1M3oyT1lWZUNTNDBjUFVNd25KcUt0aGZKeDE0ZVdFQzh3ZkhxVHVnNWhNWUJfR0Fvc0htcWdObXdMMGlkZk1YdDhUdkh3bk5BNmFNUlE?oc=5",
+      "date": "2026-04-13",
+      "category": "Redes Sociais",
+      "summary": "Agências podem agora explorar um novo formato de anúncio no Reddit para campanhas globais, ampliando o alcance e a estratégia de lembrete.",
+      "key_insights": [
+        "Amplia o alcance de campanhas de lembrete em mercados internacionais via Reddit.",
+        "Permite novas estratégias de retargeting e engajamento com audiências engajadas."
+      ],
+      "actionable_points": [
+        "Avaliar e testar o formato Reminder Ads do Reddit para clientes com presença global."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
     {
       "id": "38554704d778f9e2c7867d3e3a318877",
       "title": "X boosts incentives for original content creators",
