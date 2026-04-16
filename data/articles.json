@@ -1,6 +1,96 @@
 {
-  "last_updated": "2026-04-15T10:55:19.242314+00:00",
+  "last_updated": "2026-04-16T10:57:29.961917+00:00",
   "articles": [
+    {
+      "id": "b186ad41b617b499c93b435aeba811ed",
+      "title": "Meta simplifies ad performance elements",
+      "title_pt": "Meta simplifica elementos de performance de anúncios",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV2gzenEzcDhTUlBteTJEOXlqMnl1TUExYWk5V2hCeWFBV2NTNENJVG9GMVFodzVtYkk3b3hrRktfVGI3SDdIT0NsWnV6VllJUVpuUWxDQTlhY0VoX1g3eUk4Q2ZrcGNHYWxGTHlBLVlMNWFmVVh6bmlFVFJPMlVhYzRNNUZIMV9nWElhSHV3?oc=5",
+      "date": "2026-04-16",
+      "category": "Dados & Métricas",
+      "summary": "Agências precisam revisar e adaptar seus processos de mensuração e relatórios de campanhas Meta.",
+      "key_insights": [
+        "Redução da complexidade na análise de dados pode otimizar o tempo de equipes de mídia.",
+        "Entender as métricas priorizadas pela Meta é crucial para uma estratégia de otimização eficaz."
+      ],
+      "actionable_points": [
+        "Mapear as novas métricas da Meta e atualizar templates de relatórios e dashboards internos."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "82559c0cf82f8700cc5296afcd6d7c6b",
+      "title": "Social media has positive benefits for teens",
+      "title_pt": "Mídias sociais têm benefícios positivos para adolescentes",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObW4xSFRGcWNheUlFc0x2THc3YXBTRUlVcTI4ckpoc01ab1NBUTdOZGhRM25EMktzWnV2b1dEXzljUnNFOE8tekdJRDJSS0h3NG1XOWFUMDlTQ01tdGxVNnpDbnFRLTQwMWpOclhjZDdXamtpS05GV05tRm55YWRTNUlmN2dRVVNLRFU1aUE2aEctR2V3?oc=5",
+      "date": "2026-04-15",
+      "category": "Comportamento",
+      "summary": "Agências podem explorar o engajamento positivo de adolescentes em mídias sociais para desenvolver campanhas mais autênticas e impactantes.",
+      "key_insights": [
+        "Compreender o engajamento positivo de adolescentes otimiza estratégias de conteúdo e construção de comunidade.",
+        "Focar em narrativas de bem-estar e impacto positivo fortalece a conexão com essa audiência."
+      ],
+      "actionable_points": [
+        "Criar campanhas que reforcem o uso positivo das mídias sociais para adolescentes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "81a59358cfee6d9182e01c443e4f7ec0",
+      "title": "Meta updates Threads API with more third-party app integrations",
+      "title_pt": "Meta atualiza API do Threads com mais integrações de aplicativos de terceiros",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLUt4VGt4REFFZ0pabzYxZFRWanMzOWtYZU1EXzlSOTdhNUFGdHJIR1NrSDJvajJLUE92b3hOOUJJNmczUnRIT1RmbnZFcnJFR3kzLXhxenZTeHRzTUYzTzk3NXN1TzdCTUdTMTl2UU52V3ViU1ZVWFctZTlzb1ZJS0NTRld4MEZzemh5MmNjVS1ScFo3VERFN1lmanNpal9kLXFVbGlZQU5XcGZzcEE?oc=5",
+      "date": "2026-04-14",
+      "category": "Redes Sociais",
+      "summary": "Agências podem agora explorar novas ferramentas e automações para otimizar a gestão e performance de campanhas no Threads.",
+      "key_insights": [
+        "Amplia capacidade de automação e gestão de conteúdo no Threads.",
+        "Permite estratégias mais sofisticadas e análise de dados aprofundada para clientes."
+      ],
+      "actionable_points": [
+        "Avaliar ferramentas de terceiros que exploram a nova API para otimizar operações."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "08e42155a4e06afee7f05bdd85a54ff0",
+      "title": "EU officials explore plans for teen social media bans",
+      "title_pt": "Oficiais da UE exploram planos para banir redes sociais para adolescentes",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdGZGN2c4YWlNQ2pmSk43UmYyU1RCSnUzWm1sQTRLRkVuZ0JYM3lMc3NKWkFVZ19idUlwcENCZXVxWEZ0cXNMNG9fZVBjZlh3Q2FENVBlU2M5NEVVcXFuZlhULThNRXFoY1lWTWdwM3NUYWJEaElhSGJJVEthSVFIUk11Z0tIZ0VNcnhYM2I4X0hnQWlJOFdudURVTUJoa2xr?oc=5",
+      "date": "2026-04-14",
+      "category": "Redes Sociais",
+      "summary": "A potencial proibição de redes sociais para adolescentes na UE exige que agências revisem estratégias de segmentação e comunicação para essa faixa etária.",
+      "key_insights": [
+        "Impacto direto na audiência jovem e estratégias de conteúdo para marcas.",
+        "Necessidade de explorar canais alternativos para engajar adolescentes."
+      ],
+      "actionable_points": [
+        "Monitore regulamentações da UE e avalie o risco para campanhas com público jovem."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "a0126211c1c727d85644a3238776f6d1",
+      "title": "Snapchat highlights opportunities for insurance brands",
+      "title_pt": "Snapchat destaca oportunidades para marcas de seguros",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZlNIa1VJRS1QT0MyMXNlcUl2OWFnVGxNN3ktd3Q0RlpBNkotOUExZURGRml5MmlZaEJlTEZSM0xiVFphRUZ3OG9hTmlvd3h3VmJjTTJhTWhkSEtXNEwtZDhPa0RWcW9MOHQ0Q3hGXzV4MXJJM243MzVYMzFQdVNXYkhzZUFfTUhFV1VSUUFaQ3o3MTZWMFVEYWt1Nk11TFotRWc?oc=5",
+      "date": "2026-04-14",
+      "category": "Redes Sociais",
+      "summary": "Agências devem explorar o Snapchat como um canal estratégico para nichos específicos, como o setor de seguros, buscando novas audiências e formatos.",
+      "key_insights": [
+        "Snapchat oferece audiências engajadas e formatos inovadores para nichos de mercado.",
+        "Marcas de seguros podem humanizar sua comunicação e alcançar públicos mais jovens na plataforma."
+      ],
+      "actionable_points": [
+        "Avaliar o potencial do Snapchat para clientes em setores como seguros e finanças."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
     {
       "id": "4bfbdf22cfb59bbe7ed0cbd0a82a91c5",
       "title": "Meta updates Threads API with more third-party app integration",
@@ -33,6 +123,24 @@
       ],
       "actionable_points": [
         "Designar equipe para acompanhar o evento e analisar anúncios relevantes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "bea820b35747ae4a0466410fce27980a",
+      "title": "TikTok publishes first transparency report on EU hate speech removal",
+      "title_pt": "TikTok publica primeiro relatório de transparência sobre remoção de discurso de ódio na UE",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQTYzZzMxSkM1SENpOGFRSUdMN2NfUm9ENFFOSUtQREpGN1B2Y2ZxcGJqZGk4VV9tbGJLSjI0OXdPZzh2NzRTWnluMFN3a1lxbl81T0NkS1N6UGEwcjVyTWdvenpkbzh0d1dDbkk4ZHhPMEhsUzQwSjBIMDFWUkN6WXoyTjNkOU9MQzl5WEwxcEVmSXJaU0l2LWFUTjNkbThUTVoxZVBlZjM1RUFNV3BGT2lOSXc?oc=5",
+      "date": "2026-04-13",
+      "category": "Redes Sociais",
+      "summary": "Agências devem monitorar relatórios de transparência para garantir a segurança da marca e a conformidade de conteúdo de clientes no TikTok, especialmente em mercados regulados.",
+      "key_insights": [
+        "Plataformas aumentam transparência sobre moderação, impactando estratégias de conteúdo e segurança.",
+        "Regulações europeias moldam políticas globais, exigindo atenção a compliance regional."
+      ],
+      "actionable_points": [
+        "Revisar diretrizes de conteúdo do TikTok para clientes, focando em brand safety e compliance na UE."
       ],
       "relevance_score": 8,
       "image_url": null
@@ -2240,24 +2348,6 @@
       ],
       "actionable_points": [
         "Revisar diretrizes de conteúdo para campanhas com público jovem, focando em segurança e bem-estar."
-      ],
-      "relevance_score": 8,
-      "image_url": null
-    },
-    {
-      "id": "8503770bf9b8107415b5f2359521b82a",
-      "title": "TikTok Adds More AI-Powered Tools To Assist TikTok Shop Merchants",
-      "title_pt": "TikTok Adiciona Mais Ferramentas com IA para Auxiliar Vendedores do TikTok Shop",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSmxSZzFINTV6YnhRYURtNng4Z043UExFM21UNnJvZDlhdmVDdkxYYVExVi1vM2RJdml2VVlNVWo2eFczc0RpRVJwd2xROFhMd2llQ0YtVC1hUVduUFBBVE5ldWtWbl9YTjNMWmJteUFlVkRfd0hSU0FMVldRTVgzSDh2U1dlZGNHRnN2eUlBaEdfQlJKUEM0cHl6ZXNrT2ZwaC1qU0dMaFZqZ09MRnBtaQ?oc=5",
-      "date": "2026-01-15",
-      "category": "IA",
-      "summary": "Agências devem explorar as ferramentas de IA do TikTok Shop para otimizar vendas e conteúdo de e-commerce para clientes.",
-      "key_insights": [
-        "A IA no social commerce é vital para otimização de vendas e experiência do consumidor.",
-        "Agências devem dominar estas ferramentas para criar campanhas mais eficientes e escaláveis."
-      ],
-      "actionable_points": [
-        "Capacitar equipes para usar as novas ferramentas de IA do TikTok Shop em estratégias de clientes."
       ],
       "relevance_score": 8,
       "image_url": null
