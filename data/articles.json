@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-04-16T10:57:29.961917+00:00",
+  "last_updated": "2026-04-17T10:49:28.797712+00:00",
   "articles": [
+    {
+      "id": "3f6fc3315d8ac0ed67e07cd3af0197c2",
+      "title": "Instagram expands Your Algorithm tool to Explore",
+      "title_pt": "Instagram expande a ferramenta 'Seu Algoritmo' para o Explorar",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQVBsc01HTWprOHZ1bjBXY3FwN3RMTWVBNGhlRWVwWTU5d1gxVFdzekUxTUs1UjRvTm85RFg2aFhpMVFoX0t0cmptYW13MWZSNUs1M3Rpei1NZnVLVDZzMEJpVGszSjlSUGhJbVgyMklUNU55UHpibkthUmw5VnlOQ1JncVYzUHZCY2Ruc0dRWEIzRk9yYURibHZ3?oc=5",
+      "date": "2026-04-16",
+      "category": "Redes Sociais",
+      "summary": "Agências devem adaptar estratégias de conteúdo para o Explorar, aproveitando a maior transparência algorítmica do Instagram.",
+      "key_insights": [
+        "Maior transparência no algoritmo do Explorar permite otimização de conteúdo mais precisa.",
+        "Entender o algoritmo do Explorar é crucial para aumentar o alcance orgânico e engajamento."
+      ],
+      "actionable_points": [
+        "Estudar a ferramenta 'Seu Algoritmo' para refinar a estratégia de conteúdo no Explorar."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
     {
       "id": "b186ad41b617b499c93b435aeba811ed",
       "title": "Meta simplifies ad performance elements",
@@ -15,6 +33,60 @@
       ],
       "actionable_points": [
         "Mapear as novas métricas da Meta e atualizar templates de relatórios e dashboards internos."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "7e6217f31344f748f379ee8125e475ef",
+      "title": "Pinterest’s latest ad campaign encourages people to get off social media",
+      "title_pt": "A mais recente campanha publicitária do Pinterest incentiva as pessoas a saírem das redes sociais",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQk1PRW93MUs0dFZseVVsWUhFa18yQXFONmJzZXdveUppZ2g2ZVZBWEtGbTl0am9oT3h5U2JfaXhKRzFiTjBQUUFoS3BQU3dGV1NiQlR3MDhoZVNvU0gzUXZQa19tSkRJakhDZFpSVTl2YVhrckN4WnR2czItTjFSZ0h0RzNMZHlyOVhXUEowVXpyb2dxV0oyd0lNQXNDdGNQNjJNVzc3Vmg2QlRHNDI5YmE3MDE2a1A5?oc=5",
+      "date": "2026-04-15",
+      "category": "Redes Sociais",
+      "summary": "Agências devem reavaliar estratégias de conteúdo e engajamento, focando em valor e inspiração em vez de tempo de tela.",
+      "key_insights": [
+        "Sinaliza uma mudança no comportamento do consumidor, buscando menos tempo de tela.",
+        "Pinterest se posiciona como alternativa a redes sociais de consumo passivo."
+      ],
+      "actionable_points": [
+        "Desenvolver estratégias de conteúdo que promovam inspiração e ação, não apenas rolagem."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "518e6de2942411b400af8fa02bf1c3fc",
+      "title": "Social media has positive benefits for teens: report",
+      "title_pt": "Redes sociais trazem benefícios positivos para adolescentes: relatório",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQk1XMjBkN3dLQU9DT3I0NGRkZU9majdQLUhXTElQUGE5QkRIbVEwNXd6V1RucnlRVlctZzYtQ3dROHNROWFUTk1LcWxkM0kwclQ2MThoQWNIYTFINzBZMVFveXJ5TTh0WDJQdDBoT3NsbHY5Y2JVMWxwcEloYV9CUWV1N2wwQUcyc2tMTkZCMnpvNGE2SnhaT1k5ZHZUdw?oc=5",
+      "date": "2026-04-15",
+      "category": "Comportamento",
+      "summary": "Agências devem compreender os benefícios das redes sociais para adolescentes para criar campanhas mais eficazes e responsáveis.",
+      "key_insights": [
+        "Compreender o engajamento positivo de adolescentes com redes sociais é crucial para estratégias de conteúdo.",
+        "Marcas podem explorar aspectos construtivos das plataformas para campanhas autênticas e relevantes."
+      ],
+      "actionable_points": [
+        "Desenvolver campanhas que destaquem o uso positivo das redes sociais por adolescentes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "64f96fb3722446f4e224edcee747979e",
+      "title": "LinkedIn expands AI-powered conversational search",
+      "title_pt": "LinkedIn expande busca conversacional com IA",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSUkydVBqYmdrREFWdzVNc25tZ1VEWUdpSVJtOUxsekx2dVd1a3cya0FyaXhlb2xPMDNiNXpNd1kzUEpLN3hFaFctOGgxbFNlZ3NTanBVbEpacy1IaDhZWmFKRnZ4XzY0M3pfaVR0cVZFbjRPSHlobFRfSjd5Yjl5Q05DNzlMdkNuN2xxa3A3QW1DNEw0QndoTm8yaw?oc=5",
+      "date": "2026-04-15",
+      "category": "IA",
+      "summary": "Agências precisam adaptar estratégias de conteúdo e SEO para a busca conversacional com IA do LinkedIn, otimizando a visibilidade de clientes e talentos.",
+      "key_insights": [
+        "Otimização para busca conversacional será crucial para visibilidade B2B e recrutamento.",
+        "Conteúdo relevante e contextualizado ganhará destaque em interações de IA."
+      ],
+      "actionable_points": [
+        "Adaptar estratégias de conteúdo e SEO no LinkedIn para termos e formatos conversacionais."
       ],
       "relevance_score": 8,
       "image_url": null
@@ -125,6 +197,24 @@
         "Designar equipe para acompanhar o evento e analisar anúncios relevantes."
       ],
       "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "86918487b4488deb0445f0304dd4778d",
+      "title": "TikTok adds new AI video generation to Symphony ad tool kit",
+      "title_pt": "TikTok integra nova geração de vídeo por IA ao Symphony, sua ferramenta de anúncios",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaTg5VUU2TjRaa1JJOFhOLW81bzduUy1uZGZYcTZXeFZ3QUNsdjlkQUlrV2wtN3JQcVdTSGZLQmRib2JFWGhqSGFmenpIcGFzYWx0S2JNTE5Bd2ViOWo5T1YyR2NYSFpZbWhJNXdrZVJFSHVqMFNldmZtMGR2Qk5KUWdRVnFxVFJJME1hNThoT1VuT3M5VmdVUkhldXhDV19hUWFfWGIwdzg?oc=5",
+      "date": "2026-04-13",
+      "category": "IA",
+      "summary": "Agências podem otimizar a produção de criativos para TikTok, utilizando IA para gerar vídeos de anúncios de forma mais rápida e escalável.",
+      "key_insights": [
+        "IA generativa se torna crucial para a criação de conteúdo em plataformas sociais.",
+        "Otimização e escala na produção de anúncios são imperativos para agências."
+      ],
+      "actionable_points": [
+        "Capacitar equipes para usar IA na criação de vídeos e testar o Symphony do TikTok."
+      ],
+      "relevance_score": 9,
       "image_url": null
     },
     {
