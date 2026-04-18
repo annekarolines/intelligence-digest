@@ -1,6 +1,60 @@
 {
-  "last_updated": "2026-04-17T10:49:28.797712+00:00",
+  "last_updated": "2026-04-18T10:34:36.106070+00:00",
   "articles": [
+    {
+      "id": "bddd78d61450d67ce8e59e0f2d713414",
+      "title": "Facebook wants to scan users’ camera rolls for content",
+      "title_pt": "Facebook quer escanear as galerias de fotos dos usuários em busca de conteúdo",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSEVuZ3EtLXY0aW8zSGJMUDZJYUdEMUo5ckdsM0htRUQ4d0duZDJJNGFHRHdIMVRGWTRJdW5mRHhmR2JMTFd5NXFOUkJaVF9SYkhBV2h2WWZYSlh5eFNybVRoRzlRSVRESERBbTJBVFA4QVhxQjFwXzdTZGlsTS1OQUZic19CNkRDVUVLYkJWN3BNLWN2cU1rNTgtMzFHMTZ5?oc=5",
+      "date": "2026-04-16",
+      "category": "Redes Sociais",
+      "summary": "Agências devem considerar as implicações de privacidade e a percepção do usuário ao planejar estratégias de conteúdo e mídia no Facebook.",
+      "key_insights": [
+        "Aumento da preocupação com privacidade pode impactar engajamento e confiança na plataforma.",
+        "Novas regras de conteúdo ou segmentação podem surgir da análise de dados."
+      ],
+      "actionable_points": [
+        "Educar clientes sobre privacidade de dados e ajustar estratégias de conteúdo para maior transparência."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "f68e4fc6fda0c15034e4cd126ed965d1",
+      "title": "X launches new Cashtags format on iOS in the US and Canada",
+      "title_pt": "X lança novo formato de Cashtags no iOS nos EUA e Canadá",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSExjTmllcmlEMU9iZ1NJejF4TXNVRk5OaVZIamRrbXZPNUtXenZoaVlRd2NSamNPaklqLTNXVW1OZ0NRTlRNLWx4UlRaT3YzZWNfem5LcFhWelljbU9ReDV4ZjhURmFfNDdpRmlXNmhzMlhHX1pmZ1BBNUVIZEI5Z1N3ejNHWk9EV1o5Z0lrRG9scDZ5WjA2OXJ3VU9tQy1DNlVEWW4tWQ?oc=5",
+      "date": "2026-04-16",
+      "category": "Redes Sociais",
+      "summary": "Agências devem monitorar novas funcionalidades de plataformas para explorar oportunidades de engajamento e monitoramento.",
+      "key_insights": [
+        "Novas funcionalidades em plataformas sociais abrem oportunidades para marcas.",
+        "Cashtags permitem rastrear menções financeiras e tendências de mercado."
+      ],
+      "actionable_points": [
+        "Avaliar o uso de Cashtags para campanhas de clientes no setor financeiro."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "67c9df782ff4fda6279f8504ed88fa2d",
+      "title": "Threads updates reply format and web UI",
+      "title_pt": "Threads atualiza formato de resposta e interface web",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc2Z4R281cDQ2TmN5UEZPNTM5cXNPV0pISnMzRzNoRV9QSG5FekJPNTBtLUVRSDRPMEtCOTFEVXZ0MnNiQzB4V2Z4OFZuTktWblJCRmFoSmVWYmljNWU0NS1kNVU5Qi11NGhheFk2cVpfV0dnQTg5VmtXaWVwTmtkWXZFNGJFOHlWN0RoVUVn?oc=5",
+      "date": "2026-04-16",
+      "category": "Redes Sociais",
+      "summary": "Agências devem monitorar e adaptar estratégias de conteúdo para as novas funcionalidades do Threads, otimizando a interação e experiência do usuário.",
+      "key_insights": [
+        "Mudanças no formato de resposta podem alterar padrões de engajamento e visibilidade de conteúdo.",
+        "Melhorias na interface web indicam foco do Threads na experiência desktop, ampliando o alcance."
+      ],
+      "actionable_points": [
+        "Revisar estratégias de engajamento e formatos de conteúdo para o Threads, explorando as novas funcionalidades."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
     {
       "id": "3f6fc3315d8ac0ed67e07cd3af0197c2",
       "title": "Instagram expands Your Algorithm tool to Explore",
@@ -33,6 +87,24 @@
       ],
       "actionable_points": [
         "Mapear as novas métricas da Meta e atualizar templates de relatórios e dashboards internos."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "f32e572cc36fe464b2222351e47f8485",
+      "title": "Snap lays off 16% of its full-time staff",
+      "title_pt": "Snap demite 16% de seu quadro de funcionários",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSUtpNGE4cFhDNm43VHZKa3lfUHItZjk1Qnc1TXk5Zk1Zb2p3eHFHQ1dVZXV4eEQxUUo1WW5wTF96MUVfR3VZbVJhaUE5bjRCQUtmWDEyUVZkc0ZDWVNnTV92NWJtdWxibzF5Rk8wMXRJeVpXTlBsT2NOblFYbTZsMnc1RUtrZ1QtMXZnM29R?oc=5",
+      "date": "2026-04-15",
+      "category": "Redes Sociais",
+      "summary": "Demissões no Snap indicam reestruturações ou desafios que podem impactar a estabilidade e o futuro do Snapchat como plataforma de marketing.",
+      "key_insights": [
+        "Redução de equipe pode desacelerar inovação e desenvolvimento de novas funcionalidades para anunciantes.",
+        "Agências devem avaliar a resiliência do Snapchat e a necessidade de diversificar investimentos em outras plataformas."
+      ],
+      "actionable_points": [
+        "Monitore comunicados do Snap sobre o impacto das demissões em produtos e suporte para agências."
       ],
       "relevance_score": 8,
       "image_url": null
