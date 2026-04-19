@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T10:34:36.106070+00:00",
+  "last_updated": "2026-04-19T10:33:19.301303+00:00",
   "articles": [
     {
       "id": "bddd78d61450d67ce8e59e0f2d713414",
@@ -92,6 +92,24 @@
       "image_url": null
     },
     {
+      "id": "0ee63f399b8f41a578aa96f9cd311465",
+      "title": "Grok faced potential removal from the App Store",
+      "title_pt": "Grok enfrentou risco de remoção da App Store",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRkxMOFVmLVN1WVI2OTd5d3hiVDlKVjdFOEJCRzQ0bmNvb3c4S3RPVFVwSU1udE8yLWhUdzh6b1FHbGtzYnI1YjdGTUI4alltSG4xblh2cmRvRUUtNGEzQVhsNGZmSWxBVmxFZE5SMDVJdkVGNHBCU29lNmVVZjFjbjBuNUFoQVpONXBDYVY4X3NQNGhUNHBXTA?oc=5",
+      "date": "2026-04-15",
+      "category": "IA",
+      "summary": "Agências devem monitorar a estabilidade e as políticas de distribuição de ferramentas de IA para evitar interrupções no uso.",
+      "key_insights": [
+        "A disponibilidade de ferramentas de IA depende das políticas das plataformas.",
+        "Agências devem avaliar a resiliência e a conformidade de ferramentas de IA."
+      ],
+      "actionable_points": [
+        "Desenvolver planos de contingência para ferramentas de IA essenciais."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
       "id": "f32e572cc36fe464b2222351e47f8485",
       "title": "Snap lays off 16% of its full-time staff",
       "title_pt": "Snap demite 16% de seu quadro de funcionários",
@@ -177,6 +195,24 @@
       ],
       "actionable_points": [
         "Criar campanhas que reforcem o uso positivo das mídias sociais para adolescentes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "7f9649ecec67589d509a36bf81f9fb0a",
+      "title": "Reddit launches new public beta integration with HubSpot",
+      "title_pt": "Reddit lança nova integração beta pública com HubSpot",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ0hrSE5XWEdhVDFyMFBNVjV6aXNUVkoxX1dZTWo4WWVlU2xON21FVE4xZG1fTVRpQjRTOEU3bUFuejNvSkhFVzhmeEhBa2VGSDN0ZG94Zm9fRXR2ZFphVW9Wcjd0LVpzUkpvdzZtWmN6ZDNKS1AtR2xYNHp0NE5FS3RSei1BNVpfbV9NdnU5N2VCTGZjYm5SMkEwMUtWbm5xeHAybw?oc=5",
+      "date": "2026-04-14",
+      "category": "IA",
+      "summary": "Agências podem agora integrar a gestão de comunidades do Reddit com o CRM da HubSpot para otimizar campanhas e relacionamento com clientes.",
+      "key_insights": [
+        "Otimiza a gestão de comunidades e leads do Reddit via automação HubSpot.",
+        "Permite segmentação e personalização de campanhas em larga escala."
+      ],
+      "actionable_points": [
+        "Explore a integração para automatizar o engajamento e qualificação de leads do Reddit."
       ],
       "relevance_score": 8,
       "image_url": null
