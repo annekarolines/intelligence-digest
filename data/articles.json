@@ -1,6 +1,60 @@
 {
-  "last_updated": "2026-04-20T11:14:41.390561+00:00",
+  "last_updated": "2026-04-21T11:00:46.903252+00:00",
   "articles": [
+    {
+      "id": "6569850437a4a385e1caf6e42e84da41",
+      "title": "YouTube adds custom timestamp sharing for mobile",
+      "title_pt": "YouTube adiciona compartilhamento de trechos específicos de vídeos no mobile",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTE5qODJ6STNjcHZaZDJ0bzQxNWVtR18xUnI3MFlLaWZzUUlEYTQ2cDdYWFY1WkNBT003LXFOZ0ZwMml2OHJQYXRyaGZ0LW0wYVJMZHREOExfNF96NE84ZVE3YVpqTEUtS3Z1REZDZEFCMllKTmJ2cU5zV1Z1eHlyZ3ZybXAwVHhfWGxGVElyd1llMHk0WC1JODhR?oc=5",
+      "date": "2026-04-20",
+      "category": "Redes Sociais",
+      "summary": "Agências podem otimizar a distribuição de conteúdo em vídeo, facilitando o consumo e o compartilhamento de momentos-chave.",
+      "key_insights": [
+        "Facilita a viralização e o engajamento com momentos específicos de vídeos.",
+        "Cria novas oportunidades para micro-conteúdo e chamadas para ação diretas."
+      ],
+      "actionable_points": [
+        "Oriente criadores a identificar e promover timestamps estratégicos para campanhas."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "221da2d1c216d45091985724c56eeb7f",
+      "title": "Threads will add Broadcast Channels-style feature called live chats",
+      "title_pt": "Threads adicionará recurso de chats ao vivo, similar aos Canais de Transmissão",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVHcycWt4VWVuczJpLUNKTnNIaUdYbEtfR3YyRjdwVnF2S3dwSXFHVGstOWxiTWdOdmtKYmVOOTYwNGJaSmhmRzFtdDBwaVdSMEhQWkl2SzVCLVpnLWd4c0JYZkVYWkdWcC1RR2FBUXA0ZmxvLUVMUGQ1QVItLTFnRjhjZXQxVFJLelFrdTYteW9LeUlPRFBKSXl2Y2JTQ1RLVExEN3NGcHRIbWFZOFhkMllyWQ?oc=5",
+      "date": "2026-04-20",
+      "category": "Redes Sociais",
+      "summary": "Agências precisarão integrar essa nova funcionalidade nas estratégias de conteúdo e engajamento dos clientes no Threads.",
+      "key_insights": [
+        "Nova ferramenta de engajamento direto para marcas e criadores no Threads.",
+        "Potencial para campanhas interativas e comunicação em tempo real com audiências."
+      ],
+      "actionable_points": [
+        "Planejar testes com chats ao vivo no Threads para clientes selecionados."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "d330a44f689fee0e04857ff632e17eeb",
+      "title": "Judge sides with plaintiffs in case against online ICE trackers",
+      "title_pt": "Juiz decide a favor dos demandantes em caso contra rastreadores online do ICE",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYXN5Y0VOVXBJSmhEUXBRM1g3N19zN0RnNmpHN25nVmZldUZ3QVZCRWhrdTdUQVg3V25kc3ZPdGtKMzJGZjhSbDQxQ3lVZEM5OGpVOUdIWEpScjdwSVJiMlJxTkVtVXJVQUZ4UVJiU3U2T2FHWnE1eTBtSURWT1l5NzJNYjM5RGpDLWZrcTRtVHVEWlNQMl9KN0RGY0Rxb0h3emtQNTNIWXdtVjJPUmc?oc=5",
+      "date": "2026-04-20",
+      "category": "Dados & Métricas",
+      "summary": "Agências devem estar atentas às implicações legais do rastreamento online para garantir conformidade e ética na coleta de dados.",
+      "key_insights": [
+        "Decisões judiciais sobre rastreamento online definem limites para a coleta de dados.",
+        "A privacidade de dados é um risco legal crescente para estratégias digitais."
+      ],
+      "actionable_points": [
+        "Revisar políticas de privacidade e métodos de coleta de dados para conformidade legal."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
     {
       "id": "bddd78d61450d67ce8e59e0f2d713414",
       "title": "Facebook wants to scan users’ camera rolls for content",
@@ -2528,24 +2582,6 @@
       ],
       "actionable_points": [
         "Auditar campanhas de IA existentes para conformidade com novas restrições de idade."
-      ],
-      "relevance_score": 8,
-      "image_url": null
-    },
-    {
-      "id": "465909686c7daff888b18a48f84dcd31",
-      "title": "Meta Says the Science Does Not Support Teen Social Media Bans",
-      "title_pt": "Meta: A ciência não sustenta a proibição de redes sociais para adolescentes",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSmloTzlyYXFlbHBWZWxVUjBNdlJRZUtjZjlXVUxxelNzUHpCci1LWldhaTJPUXZLUFBtOXltbWJQb0xrQXpwZlVXVGw0M1FZRzZ4NjU5dE4wOXV1M3lXMGFQZHdFRmpmcVVPdk5YcjU5R01OZE9FbkhmQnF2Z3F2aldKNGE3bWdlQW1zeHZiT0J4d2d6SlhpdEI2VGtiWVoyaUpSemVud0RVN1RoS1dKc21R?oc=5",
-      "date": "2026-01-19",
-      "category": "Redes Sociais",
-      "summary": "Agências devem monitorar o debate sobre uso adolescente de redes sociais para adaptar estratégias de conteúdo e comunicação responsável.",
-      "key_insights": [
-        "Plataformas defenderão seu modelo de negócio e impacto social.",
-        "Necessidade de comunicação responsável e segmentação etária."
-      ],
-      "actionable_points": [
-        "Revisar diretrizes de conteúdo para campanhas com público jovem, focando em segurança e bem-estar."
       ],
       "relevance_score": 8,
       "image_url": null
