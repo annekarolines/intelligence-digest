@@ -1,6 +1,78 @@
 {
-  "last_updated": "2026-04-21T11:00:46.903252+00:00",
+  "last_updated": "2026-04-22T10:59:42.696324+00:00",
   "articles": [
+    {
+      "id": "aacf77c728bcd9b8c495475e165f76c1",
+      "title": "Meta tests new add-on package with WhatsApp Plus subscription",
+      "title_pt": "Meta testa novo pacote de complementos com assinatura WhatsApp Plus",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT1VsQTRhaFYxdUdPRXlqZktNZWdMT3otT1U2UllBTTYwYlkwWWR6eDZBazBGalFoYzBCd3M3a2pZb3ZQbjFZZjBYN2ZmcUVmTXNVZVQ1eW9kUUxlUmxsUno2RmFvUTJBY1BlXzVuUDFFbFpTRk50aGpOUGRheVFTVlQ2Z3dNdzdNT0hyaFVIUzVVXzVlX21vOTN6OWROXzYwajYxOFlpWGRpMk0?oc=5",
+      "date": "2026-04-21",
+      "category": "Redes Sociais",
+      "summary": "Agências devem monitorar a evolução das assinaturas no WhatsApp para identificar novas oportunidades de engajamento e monetização para clientes.",
+      "key_insights": [
+        "Plataformas buscam novas receitas, impactando estratégias de conteúdo e publicidade.",
+        "Recursos premium podem oferecer diferenciais para marcas na comunicação via WhatsApp."
+      ],
+      "actionable_points": [
+        "Avaliar como recursos premium do WhatsApp podem ser integrados em estratégias de clientes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "a21da6aa5596b440bca596bde411bc55",
+      "title": "Meta previews updates for its Edits app",
+      "title_pt": "Meta pré-visualiza atualizações para seu aplicativo Edits",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRTV5WHl3ck93Ym1xRFZldGhieC1KZDRGckNUMF9zYmgxNTZvNFIzQW9vUUo2bUdwajJUcGM5RFk1S0pWTjZ5MnpuM3RVWVlVYVRkX1hyNm1rYzRxd3Y1Q012eGlYaWFKbzNoVEI4ZVFmNktmS0syTmZ1S1ZNc3I5ekJoM1RBRVpwS0FKOE5B?oc=5",
+      "date": "2026-04-21",
+      "category": "IA",
+      "summary": "Agências devem estar atentas às novas ferramentas de edição da Meta para otimizar a produção de conteúdo visual nas redes sociais.",
+      "key_insights": [
+        "Novas funcionalidades de edição da Meta impactam diretamente a qualidade e agilidade da produção de conteúdo.",
+        "Adoção rápida dessas ferramentas pode gerar vantagem competitiva na criação de campanhas visuais."
+      ],
+      "actionable_points": [
+        "Capacitar equipes para dominar as novas ferramentas de edição e integrá-las ao fluxo de trabalho."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "776e2da0acd4acb06f56de740da86327",
+      "title": "Meta plans large-scale job cuts beginning in May, says Reuters",
+      "title_pt": "Meta planeja grandes cortes de empregos a partir de maio, diz Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTmZzRU1leE90WkRWamRXTUxHZ1BwLXNCNVNsNmJETVhIWjF5TEdFQXNWQlA2YkdWY01fNVFqc2lINmhxN1dER1JNQjlqTkxKRVRUM19QLUdlTmFDVEp4VmJ6SzdSLXUybTJ0Z3o1b2xUbDNSMnBHVThkRDBia09aWUdHMUVLYlJWWDZLVVQ2VG4teF8tcjVQRDdVSUF1aU4yUkdFWFdDdHE0S00?oc=5",
+      "date": "2026-04-21",
+      "category": "Estratégia",
+      "summary": "Cortes na Meta podem sinalizar um cenário econômico desafiador ou reestruturação estratégica, impactando o ecossistema de marketing digital.",
+      "key_insights": [
+        "Indica cautela no mercado de tecnologia e publicidade digital.",
+        "Pode impactar a inovação e o suporte em plataformas Meta."
+      ],
+      "actionable_points": [
+        "Monitore o impacto nos investimentos em publicidade e nas funcionalidades da Meta."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "7c5a4cd4fb5e155e0a7225929ece3a6e",
+      "title": "YouTube adds enhanced parental controls, offers tips to families",
+      "title_pt": "YouTube adiciona controles parentais aprimorados e oferece dicas para famílias",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRW1fcmpPQkFaUThoSVVSaGk1cEgwRXFoUXE2TWltOWRsb2RaTlVqRWprc21QTmE3RUF1SnVtN19EOS1rRHJvODlLSlc3RERPYjhTYTBEQXV3Y3ZyTVoxdVdCbXh3cUJOMnBnNE13Z00xWktKX2lfNjV3alhUU2hGRVpEWkdfeTJTX2RpRFF5QXhOVmkyNDhnQWxFS0tSSjNjVE4zbTVmTnk3TW1RaWc?oc=5",
+      "date": "2026-04-21",
+      "category": "Redes Sociais",
+      "summary": "Agências devem considerar o impacto nas estratégias de conteúdo para famílias e crianças, garantindo conformidade e segurança da marca.",
+      "key_insights": [
+        "Novos controles parentais alteram o ambiente de consumo de conteúdo para crianças e famílias.",
+        "Agências precisam adaptar estratégias de conteúdo e segmentação para audiências familiares no YouTube."
+      ],
+      "actionable_points": [
+        "Revisar diretrizes de segurança de marca e segmentação para campanhas direcionadas a famílias."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
     {
       "id": "6569850437a4a385e1caf6e42e84da41",
       "title": "YouTube adds custom timestamp sharing for mobile",
