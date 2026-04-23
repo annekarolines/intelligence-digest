@@ -1,6 +1,60 @@
 {
-  "last_updated": "2026-04-22T10:59:42.696324+00:00",
+  "last_updated": "2026-04-23T11:02:34.699367+00:00",
   "articles": [
+    {
+      "id": "79fdc72bdb5606c6e863d14eb2e14a90",
+      "title": "LinkedIn’s new tool lets you test the outputs of various AI models",
+      "title_pt": "Nova ferramenta do LinkedIn permite testar resultados de modelos de IA",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVk8yYThTTGcwaXRaUkFHOVdjZGZhQnhFUGxyMVd6RDNtcmNhYnZXYVZvYVBUbzVnY3NGY2tTV1J3dVhoMDdHUWhVaTNldnI3aFJCcGRrQzktSTdfLW15YVpzOEdFejFjN2tVaTJJZkRDVklyZXNlak0yeUR4Z3NzWHh4Z1hESVlpYlptamdUMFhrc0t6QU1fVWNKS1hUa1A3Snl3YkY3ZmdUUWM2bVFJcg?oc=5",
+      "date": "2026-04-22",
+      "category": "IA",
+      "summary": "Agências podem usar esta ferramenta para otimizar e validar o conteúdo gerado por IA para o LinkedIn, melhorando a estratégia de conteúdo e a eficiência.",
+      "key_insights": [
+        "Validação de conteúdo IA para LinkedIn garante qualidade e alinhamento com a marca.",
+        "Otimização de prompts e modelos de IA se torna mais precisa com testes diretos."
+      ],
+      "actionable_points": [
+        "Explore a ferramenta do LinkedIn para refinar a criação de conteúdo IA e estratégias de engajamento."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "cf054bdc4bfb40f9603680fc70a5d811",
+      "title": "Meta sued by Consumer Federation of America",
+      "title_pt": "Meta processada pela Consumer Federation of America",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbms4VV9qOF9NSmJncVFSNTRvelZvUU14X2Vxb2xJaHhTajJ4YXc5X3hnejN3NVNpQ3ZBUW9QNGx3ZkJUT0lkc2NNSHJZVGh4MGRfeG5uU3l4ak1aZEpXSWVMdG91eko0ZHIxU2UtaHZMUW5Fd1M5SkNkV25IRzc2ekNydEd6NkkxQkZQRURHWlM2ckE?oc=5",
+      "date": "2026-04-21",
+      "category": "Redes Sociais",
+      "summary": "Agências devem monitorar processos contra plataformas para antecipar mudanças em políticas de dados e publicidade, impactando estratégias de clientes.",
+      "key_insights": [
+        "Ações legais aumentam pressão sobre privacidade de dados e práticas de monetização das plataformas.",
+        "Risco de novas regulamentações impactando segmentação de anúncios e coleta de dados de usuários."
+      ],
+      "actionable_points": [
+        "Revisar estratégias de dados e privacidade dos clientes, garantindo conformidade e mitigando riscos futuros."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "d15bb85439f0279f3973a523caa3047e",
+      "title": "Social media usage can impact kids’ reading skills",
+      "title_pt": "Uso de redes sociais pode impactar habilidades de leitura em crianças",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbWEtNDVmQVlQZDEwb2J3UDZzN2d5aXF1eVJ0d1ZYT3h6VDlUZEdERUtVUVZZVnB6Q3cxd1hPRlVzS2FsQUJvMkhneVFTRmxiSjRyRDhleDBWQ2FmMlN3SUgzeWhGTWRPU3E2MTRVVG5HVWNXSVpVdldYNmstMm1FSTZNbERCcl83UllYQmdNNGVDS2lxWkZkczZrdw?oc=5",
+      "date": "2026-04-21",
+      "category": "Comportamento",
+      "summary": "Agências devem considerar como o uso de redes sociais por crianças molda futuras habilidades de consumo de conteúdo e estratégias de comunicação.",
+      "key_insights": [
+        "Futuras gerações podem apresentar padrões distintos de consumo de conteúdo textual e visual.",
+        "Estratégias de comunicação para jovens precisarão se adaptar a novas formas de interação com texto."
+      ],
+      "actionable_points": [
+        "Monitorar tendências de literacia digital para ajustar formatos de conteúdo para audiências jovens."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
     {
       "id": "aacf77c728bcd9b8c495475e165f76c1",
       "title": "Meta tests new add-on package with WhatsApp Plus subscription",
@@ -123,6 +177,24 @@
       ],
       "actionable_points": [
         "Revisar políticas de privacidade e métodos de coleta de dados para conformidade legal."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "4432879df728677617c1d1b45bd27925",
+      "title": "Meta raises the price of its Quest VR headsets",
+      "title_pt": "Meta aumenta o preço de seus headsets Quest VR",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd3JMTmdUUXJnSDl0bHp0ZEs1ZU4zODJxNTBSYndSb1FVWnVfVms2V2NEU3JHOUpsbHZQeldldXZVcjA5aW1KM2Y3TFV2bHpDVlRjS1VWTGxHdFo1eWdzQzZ0dEFNa1c2b1JlYW5EU1B1N0xIOXo3TTNqMFN0ZnJkWV84cXlyNzZIUjBQa1lPQTZKbkNWUnBV?oc=5",
+      "date": "2026-04-16",
+      "category": "Estratégia",
+      "summary": "O aumento de preço dos headsets Quest da Meta pode impactar a adoção do metaverso e a estratégia de presença digital das marcas.",
+      "key_insights": [
+        "Preço elevado pode desacelerar adoção do metaverso e VR, exigindo reavaliação de estratégias futuras.",
+        "Indica foco da Meta em monetização premium, influenciando o perfil de usuários e oportunidades de marketing."
+      ],
+      "actionable_points": [
+        "Monitorar a adoção de VR/metaverso e ajustar planos de investimento para clientes."
       ],
       "relevance_score": 8,
       "image_url": null
