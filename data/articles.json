@@ -1,6 +1,78 @@
 {
-  "last_updated": "2026-04-23T11:02:34.699367+00:00",
+  "last_updated": "2026-04-24T11:01:11.121541+00:00",
   "articles": [
+    {
+      "id": "79489c95eb21bbf52f224f1c2b2b4323",
+      "title": "Meta launches Instagram spinoff Instants as a standalone app",
+      "title_pt": "Meta lança Instants, um aplicativo independente derivado do Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ0NoXzBEMWZ6SFVpNzdKYUNaY3VXLV9UeldKQzh4cXZFbmJiaTNNdFlNZ3F2cHRNa0R0dWl0NjFOeHB0Sm9GS25ZckdoaDJlNkx6Q2doMTJxbHlsLUs4MkNFRTlqV29SUklyMkJ3cWRmeGw5cm5pVmlkS0VhX1R1NEx2dkt3MjdIc3hRZ05QY1lIblRvNGJHbDliZUMtVnlySndvNXJXbkRhdw?oc=5",
+      "date": "2026-04-24",
+      "category": "Redes Sociais",
+      "summary": "Agências devem monitorar o lançamento para avaliar novas oportunidades de engajamento e formatos de conteúdo para clientes.",
+      "key_insights": [
+        "Expansão do ecossistema Meta cria novos canais de comunicação e interação.",
+        "Potencial para diversificar estratégias de conteúdo e segmentação de audiência."
+      ],
+      "actionable_points": [
+        "Pesquisar funcionalidades do Instants para identificar oportunidades de campanhas e testes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "1322bcef453fa02e157d9e253644e3c9",
+      "title": "X introduces topic-based Custom Timelines",
+      "title_pt": "X introduz Linhas do Tempo Personalizadas baseadas em tópicos",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWDRVLUlvNTRpM05PVEZjRV9GcDg4LWZkY3lyZnd4UFRIRDdScmwyN3ExME54dml6ZmE2YUVHVHEzVWh6aXJPNGtkbVN2UlhEeWgzWEE2cUs4bnR4UXIzUkhucWNfdU9VR0wwSzhONFgtSzQ0cUFVYXRPanhZTmJ1amE5NlVXMjR5b1BTXzVGR3c?oc=5",
+      "date": "2026-04-23",
+      "category": "Redes Sociais",
+      "summary": "Agências podem explorar novas formas de segmentação e engajamento ao criar conteúdo para linhas do tempo personalizadas na plataforma X.",
+      "key_insights": [
+        "Otimização de conteúdo para nichos específicos e interesses do usuário.",
+        "Potencial para campanhas mais direcionadas e relevantes em X."
+      ],
+      "actionable_points": [
+        "Avaliar a criação de conteúdo segmentado para as novas linhas do tempo."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "7ead45da16ceb007eb895164c78aba0e",
+      "title": "LinkedIn CEO transitions to new role focused on AI development",
+      "title_pt": "CEO do LinkedIn assume nova função focada no desenvolvimento de IA",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeHhoWGo1WmlLRHZ6Z24tMnNKenNVemZhUzlPa0tHQTZYbUUxSmREMVpDdmRkZjZ1UmZRQUJ4Z0FUVUZOWjc4bDlHTXNBd0VnTTJ0cHg3a2JGaGVVby12WVE3azV2Sm1EQmpnT3ZvM185T09DWXZDa0JxaE4yd3FGY0hwaEJxQUVQcUF5TC1mSzR5alN5OXMxOXVrYUVnV3RyMC1WY2hWYWxpNC1h?oc=5",
+      "date": "2026-04-23",
+      "category": "IA",
+      "summary": "A mudança do CEO do LinkedIn para IA sinaliza a prioridade da plataforma em inteligência artificial, impactando futuras ferramentas e estratégias de marketing B2B para agências.",
+      "key_insights": [
+        "LinkedIn priorizará a IA, transformando a forma como profissionais e empresas interagem e fazem negócios.",
+        "Agências devem monitorar inovações de IA no LinkedIn para otimizar estratégias de conteúdo e networking."
+      ],
+      "actionable_points": [
+        "Prepare equipes para integrar futuras ferramentas de IA do LinkedIn em campanhas B2B."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "bacb9b4a87ffbe7708b33bd1daad5981",
+      "title": "Meta expands access to AI business assistant",
+      "title_pt": "Meta expande acesso a assistente de negócios com IA",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMjJCWFZqUVlfMGg3M1RWVGFPcmI3ZnBNYW90XzZBMXROR2lZVW52RHNwU041UjZ2MjdIN2dUZWZaV3pyQnhWOFJFVmNJYl9XQUlfVUh4Y0Qzdjc2WUlLcGVDNXVtQjBfM3AwWl85bTFjLW9SZHZYSUI2ZFRaZGVwZnEtYWhnQVhPcDlwX0lsZTNGN3BG?oc=5",
+      "date": "2026-04-22",
+      "category": "IA",
+      "summary": "Agências devem explorar o assistente de IA da Meta para otimizar campanhas e atendimento ao cliente, impactando diretamente a eficiência e personalização.",
+      "key_insights": [
+        "A integração de IA da Meta impacta diretamente estratégias de social media e publicidade.",
+        "Ferramentas de IA podem aprimorar a eficiência operacional e a personalização de campanhas."
+      ],
+      "actionable_points": [
+        "Capacitar equipes para utilizar o assistente de IA da Meta na gestão de contas e anúncios."
+      ],
+      "relevance_score": 9,
+      "image_url": null
+    },
     {
       "id": "79fdc72bdb5606c6e863d14eb2e14a90",
       "title": "LinkedIn’s new tool lets you test the outputs of various AI models",
@@ -15,6 +87,24 @@
       ],
       "actionable_points": [
         "Explore a ferramenta do LinkedIn para refinar a criação de conteúdo IA e estratégias de engajamento."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "cde827edbcd67053102c909aca687c77",
+      "title": "Google updates Ad Advisor with additional agentic safety features",
+      "title_pt": "Google atualiza o Ad Advisor com recursos adicionais de segurança para agentes de IA",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcXVmNm51Vmp6X3NHOWFVTWVaT0hPbE0zMGlBT18zZERaSklONWVLMkwzdnphenN4MkF3UDZCQWY5OUVSQi16UFVXdDFfcWF1RGNGWmlUQ3c0Q2NWdEJrckJLMDlZb2JxcVBNY295NXB2YVBpMHpjWUdTMDFMSVFZOTFLVVlHc0Q4TzBSTlVMRU1nRkNTaFNobG1PQlVJRW9vTGxaUC1RenFCMWRsSTNfVg?oc=5",
+      "date": "2026-04-21",
+      "category": "IA",
+      "summary": "Agências devem integrar as novas funcionalidades de segurança de IA do Google Ad Advisor para otimizar campanhas e proteger a reputação da marca.",
+      "key_insights": [
+        "Google avança em IA para publicidade, focando em segurança e automação.",
+        "Agências precisam dominar novas funcionalidades de IA para otimização e proteção de marca."
+      ],
+      "actionable_points": [
+        "Capacitar equipes para explorar recursos de IA do Ad Advisor e garantir brand safety."
       ],
       "relevance_score": 8,
       "image_url": null
@@ -123,6 +213,24 @@
       ],
       "actionable_points": [
         "Revisar diretrizes de segurança de marca e segmentação para campanhas direcionadas a famílias."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "47ce50331e8b0a398710e219d0ae655a",
+      "title": "TikTok’s US joint venture gains security infrastructure certification",
+      "title_pt": "Parceria do TikTok nos EUA recebe certificação de segurança de infraestrutura",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONThjWFlCenhFNDJQbTJzLWdjcDVZNGZWWmJtOWd5dVZWMEJWM1k4eWdxZTZxb0t1Qkt3UnI3dVFQX1VvQWpyX2pqM3FmRHUxc1ptdkoxNzcybGY0U3laQ3ZsbGRwbFYyM3lyZUw2NzhmR2xnMmZmazczTEp4X0NRTnhBUm02Vk5Ybm5DNFdJVlM0NXprS2JPRzBXdVNneFlkSGxxT3p4WlpGMzgyTm9FT2FSbEI?oc=5",
+      "date": "2026-04-20",
+      "category": "Redes Sociais",
+      "summary": "A certificação de segurança do TikTok nos EUA reforça a confiança e a estabilidade para investimentos em campanhas.",
+      "key_insights": [
+        "Maior segurança mitiga riscos regulatórios e de privacidade para marcas na plataforma.",
+        "Aumenta a confiança para agências investirem mais em publicidade e conteúdo no TikTok."
+      ],
+      "actionable_points": [
+        "Reavaliar estratégias de investimento e presença de clientes no TikTok, considerando a maior segurança."
       ],
       "relevance_score": 8,
       "image_url": null
@@ -393,6 +501,24 @@
       ],
       "actionable_points": [
         "Criar campanhas que reforcem o uso positivo das mídias sociais para adolescentes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "13567516d488209cc44b9fb826da590c",
+      "title": "YouTube expands C-SPAN partnership",
+      "title_pt": "YouTube expande parceria com C-SPAN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbnY0ejFNb01fRnR0UWVXS29lSkM2ajZleUYxb2dPR0V3N3pZRm54LXdqaGZPOGh1aEZDN3J6UjNlenVrTVVXcWpfSVZqRm9lU0s3MGotTGktR3M5WW9tWDlaR1ZmUUVmWnNZdE9CM2xIcktBclFzcGlBYngxWkZYNXFsMG9WZEk?oc=5",
+      "date": "2026-04-14",
+      "category": "Redes Sociais",
+      "summary": "Agências devem observar como parcerias de conteúdo impactam a distribuição e o engajamento em plataformas como o YouTube.",
+      "key_insights": [
+        "YouTube busca diversificar conteúdo e audiência com parcerias estratégicas.",
+        "Parcerias com nichos podem abrir novas frentes de engajamento e monetização."
+      ],
+      "actionable_points": [
+        "Avaliar oportunidades de parcerias de conteúdo para clientes em plataformas de vídeo."
       ],
       "relevance_score": 8,
       "image_url": null
