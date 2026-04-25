@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-04-24T11:01:11.121541+00:00",
+  "last_updated": "2026-04-25T10:38:01.438768+00:00",
   "articles": [
+    {
+      "id": "3e60fd3ca14d27044ffd2bab8115a44f",
+      "title": "YouTube reduces push notifications for unengaged subscribers",
+      "title_pt": "YouTube reduz notificações push para inscritos desengajados",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdE9FSEl0cVVfU0NZSzBzOGx3Rklpak1KeVlwOWpuZkplZW9PQ1k2WGdLNUt0YXFsWkFXWUdPQ3dBZ0pPZkQtSlFGZnhYZExORmNjdHFnQy1fbVlPWlBXRmxWV2x0Yl93eGtLeExnXzhYODZneFllVW93ZkNyNkNxVE9PeXA2eV9nVXNtRTdhX1VaOXc3RUE1SkY4SGtkY2U2WXRGNld3WGhhdw?oc=5",
+      "date": "2026-04-24",
+      "category": "Redes Sociais",
+      "summary": "Agências devem focar na criação de conteúdo que gere engajamento real para garantir a visibilidade e o alcance orgânico no YouTube.",
+      "key_insights": [
+        "Plataformas priorizam engajamento genuíno sobre volume de notificações.",
+        "Estratégias de conteúdo devem visar retenção e interação ativa do público."
+      ],
+      "actionable_points": [
+        "Revisar estratégias de conteúdo para YouTube, priorizando qualidade e interação para reter inscritos."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "427f94fb8873303c42dc4aea66a9fcbe",
+      "title": "Meta expands Instagram management APIs",
+      "title_pt": "Meta amplia as APIs de gerenciamento do Instagram",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNmsySE85MGI4Nk5Ic1VZQVBjMC1wTUNVeW1fbnZDekM5eGdEVkxudDlwa2VyNG1DT1VSOUJQcFpUaFh3WU0yRnIzSXBnejhuX29oaWpqZGY0bWgwSk5LLXB3Skd1NVBvWEdURi0tcTZXODdSTGE1VWE1b01JN0QwY0FaTUNPeWN2YmtSeA?oc=5",
+      "date": "2026-04-24",
+      "category": "Redes Sociais",
+      "summary": "A expansão das APIs do Instagram permite que agências otimizem e automatizem a gestão de contas de clientes na plataforma.",
+      "key_insights": [
+        "Novas APIs facilitam automação e integração de ferramentas de gestão de Instagram.",
+        "Agências podem aprimorar serviços de social media e análise de dados para clientes."
+      ],
+      "actionable_points": [
+        "Avaliar as novas funcionalidades das APIs para otimizar ferramentas e processos internos."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
     {
       "id": "79489c95eb21bbf52f224f1c2b2b4323",
       "title": "Meta launches Instagram spinoff Instants as a standalone app",
@@ -15,6 +51,42 @@
       ],
       "actionable_points": [
         "Pesquisar funcionalidades do Instants para identificar oportunidades de campanhas e testes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "831e3e5fd4ae77916fd4452a75353b3a",
+      "title": "Snapchat launches loyalty badges for Snap Map locations",
+      "title_pt": "Snapchat lança selos de lealdade para locais no Snap Map",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMXRsZVU0SDBBMFZOeGR1OF9Tc3M1YkczRXNYcWc2RjRYUWR5Tk41eEdXUkFvdTRPMHNNVWwtSHRLcDNqZ2xtaGhxaWduYUJCU3I0UDUzQzE4aXlGMlZ0VlpqZ1NWNXVlRlFCdDl4Q3JWSzRqT3VKM2VLNlhPYTFPTlFwYW1NX1NyOFgyUFgxZUJhS2kyOEdNREdKcTdLWjZHM000?oc=5",
+      "date": "2026-04-23",
+      "category": "Redes Sociais",
+      "summary": "Agências podem explorar novos formatos de engajamento local e fidelização de clientes para marcas no Snapchat.",
+      "key_insights": [
+        "Gamificação e recompensas incentivam visitas físicas a pontos de venda.",
+        "Otimiza estratégias de marketing local e engajamento com a comunidade."
+      ],
+      "actionable_points": [
+        "Desenvolver campanhas que incentivem check-ins e uso dos selos para clientes locais."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "8c18bb10a7fcd457b48c858ce0c1743c",
+      "title": "Meta Accounts Center now includes more apps and devices",
+      "title_pt": "Central de Contas da Meta agora abrange mais aplicativos e dispositivos",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVDRxX1Z6TjdjUk8zYlh6MU1BOGlhUDh5dW5UeTFjempLdnFha3dUV1d4NkJ1OWtsTVlDRVhzbTZ3MWdaT3dYTjRKVnhZVWtPLWRlYjE0bF9xcGhvVm8tN0JOMVpyWHl6ZGtVUTlFcXNHb2tsV05MajBrVTl2UjJiMmp5NjdxaWVmd0U3ZklUVjJyT0pKNlBhYXRseE9IVUFCa2lB?oc=5",
+      "date": "2026-04-23",
+      "category": "Redes Sociais",
+      "summary": "A expansão da Central de Contas da Meta unifica a experiência do usuário, impactando a gestão de audiências e estratégias de privacidade para agências.",
+      "key_insights": [
+        "Unificação de identidade do usuário Meta otimiza rastreamento de jornada e controle de frequência de anúncios.",
+        "Maior integração de dados pode aprimorar a segmentação e personalização de campanhas."
+      ],
+      "actionable_points": [
+        "Avaliar impacto na gestão de dados de clientes e na configuração de campanhas unificadas na Meta."
       ],
       "relevance_score": 8,
       "image_url": null
@@ -87,6 +159,24 @@
       ],
       "actionable_points": [
         "Explore a ferramenta do LinkedIn para refinar a criação de conteúdo IA e estratégias de engajamento."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "4d39de88e3bed2980a81ab536aed28e7",
+      "title": "Pinterest CPG promotions outperform benchmark ROIs",
+      "title_pt": "Promoções de CPG no Pinterest superam ROIs de referência",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeUprRTRHVUI5aDh5WEoxdDUzV3J0b2RPT1NmYXJORmctQlR1dU5rS3h3Y0pEdHZsSzB3T3ZndkZrWEVIbmQxYzJMbDd4cWJySzFocFRGOUJNZXBvTjF3clFqNk1uZ0l4R1FPZEh2SUU0NHFOclJCSThDUUxNSzBPeGJzQWlIbzNteTIyeDQzOU9tY2ZJX3J2azlNMGE?oc=5",
+      "date": "2026-04-21",
+      "category": "Redes Sociais",
+      "summary": "Agências devem priorizar o Pinterest para clientes de CPG, dada a comprovação de ROIs superiores.",
+      "key_insights": [
+        "Pinterest é um canal de alta performance para campanhas de CPG.",
+        "Dados de ROI específicos por plataforma são cruciais para alocação de budget."
+      ],
+      "actionable_points": [
+        "Revisar estratégias de CPG para incluir ou ampliar investimento em Pinterest."
       ],
       "relevance_score": 8,
       "image_url": null
