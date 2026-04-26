@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-25T10:38:01.438768+00:00",
+  "last_updated": "2026-04-26T10:39:01.912825+00:00",
   "articles": [
     {
       "id": "3e60fd3ca14d27044ffd2bab8115a44f",
@@ -51,6 +51,24 @@
       ],
       "actionable_points": [
         "Pesquisar funcionalidades do Instants para identificar oportunidades de campanhas e testes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "c8e6748641b7f2b1522dd785d3ef05ee",
+      "title": "Threads launches Live Chats for the NBA playoffs",
+      "title_pt": "Threads lança Chats ao Vivo para os playoffs da NBA",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWkY4U0FYQTJJV0FUY0E2S3Qydy0xV3dMdXc0RzJ1TGxOOWFtRVpaakpiOFVmSmFrSGcwRDY5VDhLWEVKal9tN210MVZwbEZqaVpqQzVjRlBfSDFuNm5KRURFajVTMk5oMEFxcjZCVll5SDdRTmdCT0VnM0JXcEFiNGN2S2hFdDQ4OUIyNTNqRENFOFp4bHlvTkNB?oc=5",
+      "date": "2026-04-23",
+      "category": "Redes Sociais",
+      "summary": "Agências devem explorar os Chats ao Vivo do Threads para engajamento em tempo real e estratégias de conteúdo para eventos.",
+      "key_insights": [
+        "Threads busca aumentar o engajamento com conteúdo ao vivo e eventos específicos.",
+        "A funcionalidade abre portas para estratégias de marketing de eventos e comunidades."
+      ],
+      "actionable_points": [
+        "Avaliar o uso de Chats ao Vivo do Threads para campanhas de clientes em eventos."
       ],
       "relevance_score": 8,
       "image_url": null
@@ -2924,24 +2942,6 @@
       ],
       "actionable_points": [
         "Revisar e otimizar estratégias de conteúdo B2B e branding de talentos no LinkedIn."
-      ],
-      "relevance_score": 8,
-      "image_url": null
-    },
-    {
-      "id": "510c69d1099363f5c6475644923f0fa2",
-      "title": "Meta Bans Teen Access To AI Bot Characters",
-      "title_pt": "Meta proíbe acesso de adolescentes a personagens de IA",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSUptMG1JWFQ3UVhDUzhXUk9Nd2xoRlhmaXA4cFltdG9VS2VtdGFTM1htU0FWNUlsNm5yS2RQd3NYbXlZZXR5cGlETDJfc1I3aWl3OHYtMlVrS3NMejFXQktsbnZOYzVQZkJRbjEwRlA3TW9RbVVPN2M5WTU0YXhGQXVLbU5zSDk2c0ZRTGkyY3ItZw?oc=5",
-      "date": "2026-01-25",
-      "category": "IA",
-      "summary": "Agências devem revisar estratégias de IA para campanhas com adolescentes, considerando restrições de plataformas.",
-      "key_insights": [
-        "Regulamentação de IA em plataformas sociais impacta segmentação por idade.",
-        "Necessidade de desenvolver conteúdo de IA seguro e adequado para públicos jovens."
-      ],
-      "actionable_points": [
-        "Auditar campanhas de IA existentes para conformidade com novas restrições de idade."
       ],
       "relevance_score": 8,
       "image_url": null
