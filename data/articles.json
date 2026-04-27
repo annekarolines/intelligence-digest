@@ -1,6 +1,78 @@
 {
-  "last_updated": "2026-04-26T10:39:01.912825+00:00",
+  "last_updated": "2026-04-27T11:41:27.314792+00:00",
   "articles": [
+    {
+      "id": "73c68350bb5f9b0171b7fda5b7bbff2d",
+      "title": "Instagram improves Insights UI, adds new metrics",
+      "title_pt": "Instagram melhora interface de Insights e adiciona novas métricas",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVHR1TWJ0WGV4emR1R3FpalNxbHhIeFFvc2htc3VNMzlzMzJXeEdiQjY0WkVwN19qQ3ZoV3hPTTFxWmNPVWlGR2lYOURmX0pSeTBVLVJwdTRvTHdielFlZFhyVlM5MjRKaWVTeTVDZVoyNmlmV2VFZVZpa1ltbXQ1YjlHTmI3MnNFZGdveXEtUzA4dU1veE1GVg?oc=5",
+      "date": "2026-04-27",
+      "category": "Dados & Métricas",
+      "summary": "Agências devem aproveitar as novas métricas do Instagram para otimizar campanhas e relatórios de desempenho.",
+      "key_insights": [
+        "Melhorias nos Insights facilitam a análise de desempenho de campanhas no Instagram.",
+        "Novas métricas permitem uma compreensão mais profunda do engajamento e alcance da audiência."
+      ],
+      "actionable_points": [
+        "Treinar equipes para utilizar as novas funcionalidades e métricas do Instagram Insights."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "0eefdc87026779c3ea419a9cd808d3d1",
+      "title": "Instagram brings simplified AI video to Edits",
+      "title_pt": "Instagram integra vídeo com IA simplificada às edições",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOFdOOTBtRllxZGo2d0c2S3YtcElIZF9oYTVmUmxHVDlJTlpvOWdqazJnWDYzbHFoVHJ0LVZKaEE0ejNlcDlNeld1V004QS1RdGcwMVRwUnA0MU1XbmZZWE5KWmFrTDMxeDVqaGNVMV9nTi11cTJvR09tTEx4WF9vN2lsUEFjZ1FMQzFWc3lFVE83N1BhQUE?oc=5",
+      "date": "2026-04-27",
+      "category": "IA",
+      "summary": "Agências podem otimizar a criação de conteúdo em vídeo no Instagram com ferramentas de IA, aumentando eficiência e qualidade.",
+      "key_insights": [
+        "A IA simplifica a produção de vídeos curtos, democratizando a criação de conteúdo avançado.",
+        "Permite agências escalar a produção de Reels e Stories com maior agilidade e criatividade."
+      ],
+      "actionable_points": [
+        "Capacitar equipes para explorar e aplicar os novos recursos de IA na criação de vídeos para clientes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "e3a5f5d53f18544fb4d50dddde35c80f",
+      "title": "TikTok lets users add relevant keywords to metadata",
+      "title_pt": "TikTok permite que usuários adicionem palavras-chave relevantes aos metadados",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRVVGRTd0dDZZRFA5OUlFT3dYNThpTE5IOUJMQ3I1aVJTNkl1aFgyR0IxMEw4ZGVvQk4wemFwMFdTc3BYTlpSbW1HeXROVVFSaGhDay10ai1DZ1lrS2JYM2V6WEZLWXVyek1kQ0c1am5LNVNneEROaUJfTExqTS0ybGZ2YzkwR2NJSkhJbHNyM1F4YzV1Z0xPdXFtd1J0dw?oc=5",
+      "date": "2026-04-26",
+      "category": "Redes Sociais",
+      "summary": "Agências podem otimizar a descoberta de conteúdo no TikTok, melhorando o alcance orgânico e a segmentação para clientes.",
+      "key_insights": [
+        "Otimização de SEO interno para vídeos no TikTok.",
+        "Aumento da visibilidade orgânica e relevância do conteúdo."
+      ],
+      "actionable_points": [
+        "Revisar estratégias de conteúdo para incluir otimização de palavras-chave nos metadados do TikTok."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "4ce69e72632581db217dfc35e3f3c26e",
+      "title": "Meta will let parents see their teens’ AI queries",
+      "title_pt": "Meta permitirá que pais vejam as consultas de IA de seus filhos adolescentes",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQY0lIOEp5dmhLR2phejd3TFlqZklFc1FoNTFQSUdoLVlaemw5U05JNEhFVUdJX3FBMGRoN3dXdjNCMkJFdFc4dlhKbmNzcFVoQXk5TUV5MUpMcWlFTzMtUkF3bTdBWUNieFJ3MUJTaDBkdE1VRFRsTmF4bEZBTVBrWno5WDA4bTA2UURRNXFLY2JtTnB3cnM4RGN3?oc=5",
+      "date": "2026-04-24",
+      "category": "IA",
+      "summary": "Agências devem considerar as implicações de privacidade e confiança na interação de IA para campanhas direcionadas a adolescentes.",
+      "key_insights": [
+        "Aumenta a necessidade de transparência e ética no uso de IA, especialmente com dados de menores.",
+        "Marcas devem adaptar estratégias de conteúdo e IA para públicos jovens, considerando supervisão parental."
+      ],
+      "actionable_points": [
+        "Revisar políticas de uso de IA e privacidade para campanhas com foco em adolescentes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
     {
       "id": "3e60fd3ca14d27044ffd2bab8115a44f",
       "title": "YouTube reduces push notifications for unengaged subscribers",
@@ -177,6 +249,24 @@
       ],
       "actionable_points": [
         "Explore a ferramenta do LinkedIn para refinar a criação de conteúdo IA e estratégias de engajamento."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "c44b01ed65cc57d6e8f10320d52002b6",
+      "title": "YouTube expands access to AI likeness detection tools",
+      "title_pt": "YouTube expande acesso a ferramentas de detecção de semelhança por IA",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZE05ZEQtOEpvQ2JlZENWdFlqWDdNVTlTMUliM1luMWMxRkNJNWlvcUdKOUI4UDVzZTh4dzhseXhyNnJVNGxrNS16cnNtSndQTElSZ1FuR05SX09qWW5KNkZPODI2VjZhMnpvaHJSYVdpRU5XSVhqalU2OHdvTUVyM2xSdEJkdGs1dzhJa1RvemZzR0tJNUk2cWlwWUh5T0N0?oc=5",
+      "date": "2026-04-21",
+      "category": "IA",
+      "summary": "Agências devem entender como a IA do YouTube impacta a criação de conteúdo e a gestão de direitos de imagem para clientes.",
+      "key_insights": [
+        "Atenção à autenticidade e ética na criação de conteúdo com IA.",
+        "Necessidade de proteger a imagem de clientes contra uso indevido por IA."
+      ],
+      "actionable_points": [
+        "Revisar políticas de uso de IA e direitos de imagem em campanhas de clientes."
       ],
       "relevance_score": 8,
       "image_url": null
