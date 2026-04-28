@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-04-27T11:41:27.314792+00:00",
+  "last_updated": "2026-04-28T11:41:49.802185+00:00",
   "articles": [
+    {
+      "id": "7b5cc0877581fcf9954741fd1ee4b267",
+      "title": "X officially launches X Chat",
+      "title_pt": "X lança oficialmente o X Chat",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rZmdONVh5Z2NSTmJobUNEaG1WeWdXTGNCTU5tYTNwa1JGWHV3eW05ckY3SzFQX0ZRNmJkTVRKbXhaTnk5TWpwVG0yNGpaYk9WeGxEMk5QbjQ2Wk9uNFhGUGhqSF80Z2VEaWV4cXdkdUlzUVZqM3g2TkFqXzh5Vjg?oc=5",
+      "date": "2026-04-27",
+      "category": "Redes Sociais",
+      "summary": "Agências devem integrar o X Chat nas estratégias de comunicação para otimizar o engajamento direto com audiências.",
+      "key_insights": [
+        "O X Chat cria um novo canal de comunicação direta e privada entre marcas e usuários.",
+        "Permite estratégias de atendimento ao cliente e construção de comunidades mais íntimas na plataforma."
+      ],
+      "actionable_points": [
+        "Desenvolver pilotos de atendimento ou campanhas de engajamento via X Chat para clientes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
     {
       "id": "73c68350bb5f9b0171b7fda5b7bbff2d",
       "title": "Instagram improves Insights UI, adds new metrics",
@@ -33,6 +51,24 @@
       ],
       "actionable_points": [
         "Capacitar equipes para explorar e aplicar os novos recursos de IA na criação de vídeos para clientes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "4abee1c54eafa34c0707d16585fbf223",
+      "title": "LinkedIn adds option to filter replies by verified users",
+      "title_pt": "LinkedIn agora permite filtrar respostas por usuários verificados",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTnZkTi1hVHYwQUhqc1VlV2thODhUT0o5Y3dMdHlUWkxmLWw5SHlrdms3Q3NjNVJHWF9ldHFJWnA5eGJ4bUFHbldXTWg1UDh6M3AzeG1lbkVIZnBCekRoQTdEc295czhNUHJsaEp0VEt2MkpnZDhiSU9sZXBUWHNyLXQtU3NweDZ6emZTN3pjWG9VRXZwWklOMkZZbVRHTzlUeTJXZQ?oc=5",
+      "date": "2026-04-26",
+      "category": "Redes Sociais",
+      "summary": "Agências devem considerar a credibilidade e o engajamento de respostas verificadas nas estratégias de conteúdo do LinkedIn.",
+      "key_insights": [
+        "Aumenta a credibilidade das interações e discussões na plataforma.",
+        "Permite agências priorizar engajamento com perfis autênticos e influentes."
+      ],
+      "actionable_points": [
+        "Incentivar clientes a obter verificação e priorizar interações com usuários verificados."
       ],
       "relevance_score": 8,
       "image_url": null
@@ -123,6 +159,24 @@
       ],
       "actionable_points": [
         "Pesquisar funcionalidades do Instants para identificar oportunidades de campanhas e testes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "103134e79a682f816921cb64a828844f",
+      "title": "Meta breaks ground on 28th US data center",
+      "title_pt": "Meta inicia construção do 28º data center nos EUA",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVFZ2RC1ob1VwWTNBbmszSUVoYVlqZkFWOUVqQVVJTUROUWtCWHZIMi0yalBJcktLc2JseWJPWG5HeEhVUV9jSVNsQUVpWFMxR19LNkNOY19xX3k3RndIOFAzRkZUaFlYN2pGaG1wTjRFelBxQ3lsVFF5cE90T0h6MHQ3d2tKZnpGbWxBNDQtVS0?oc=5",
+      "date": "2026-04-23",
+      "category": "IA",
+      "summary": "A expansão da infraestrutura da Meta indica maior capacidade para IA e novas funcionalidades nas plataformas, impactando estratégias de agências.",
+      "key_insights": [
+        "Expansão de infraestrutura Meta acelera capacidade para IA e recursos avançados.",
+        "Prepara terreno para algoritmos mais complexos e personalização aprimorada nas redes sociais."
+      ],
+      "actionable_points": [
+        "Prepare-se para explorar novas funcionalidades e capacidades de IA nas plataformas Meta."
       ],
       "relevance_score": 8,
       "image_url": null
