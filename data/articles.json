@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-04-28T11:41:49.802185+00:00",
+  "last_updated": "2026-04-29T11:25:18.048854+00:00",
   "articles": [
+    {
+      "id": "8e578f3588d20c22fcac3af15373099a",
+      "title": "Google offers new first-party shopper data integration",
+      "title_pt": "Google oferece nova integração de dados próprios de compradores",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZlJQWENid21JRGo1UHpGZXNhbXpNUENkMXJnRlNpM0xIdGN2ODJheFNMVnVXMzZnTUlMbEcxQ0RmV0x2YWxLcHB4WExOYTJuNUpOQTFqM2dVb3JTWHcwbm1nWHFUYzg1Nkl4R0xvN2RGYm82Q05CX2oycm9nOXdydjk4d0JLbWZMSlBXaGlvLVB6WmVWMG9DY0xzYnk1OGlmR1E?oc=5",
+      "date": "2026-04-28",
+      "category": "Dados & Métricas",
+      "summary": "Agências podem aprimorar a personalização e mensuração de campanhas usando dados diretos do Google, crucial na era pós-cookies.",
+      "key_insights": [
+        "Dados primários fortalecem estratégias de privacidade e personalização de anúncios.",
+        "Permite segmentação mais precisa e mensuração robusta, otimizando o investimento do cliente."
+      ],
+      "actionable_points": [
+        "Avaliar e integrar os novos recursos de dados primários do Google nas estratégias de clientes."
+      ],
+      "relevance_score": 9,
+      "image_url": null
+    },
+    {
+      "id": "6eba4a9ae2d8d11209c54af846bdd5e0",
+      "title": "China blocks Meta’s Manus acquisition",
+      "title_pt": "China veta aquisição da Manus pela Meta",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbi1SSTk1bm9YOGk3RnVmOUduZHlXaGdBVVN2T05yZmZPeXFoSURSbG9iQnF2YnQ1Y05pdjVUV1BXZUJtWGYwTHlHbnNNLTlIODJRdG1DSS0wVEFfZnJEdWNRaUFUQ3JUMkhzUHNabGV3QVpGMDYtc0NrM0FHQTRGOFRuQU9zVS1yY0E?oc=5",
+      "date": "2026-04-28",
+      "category": "Estratégia",
+      "summary": "O veto da China à aquisição da Manus pela Meta impacta a expansão estratégica da gigante de redes sociais e o cenário competitivo global para agências.",
+      "key_insights": [
+        "Regulamentação geopolítica molda o futuro das plataformas e a inovação no setor.",
+        "Agências devem antecipar mudanças no ecossistema de big techs e suas ofertas."
+      ],
+      "actionable_points": [
+        "Monitorar decisões regulatórias globais que impactam a estratégia de plataformas."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
     {
       "id": "7b5cc0877581fcf9954741fd1ee4b267",
       "title": "X officially launches X Chat",
