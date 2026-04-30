@@ -1,6 +1,150 @@
 {
-  "last_updated": "2026-04-29T11:25:18.048854+00:00",
+  "last_updated": "2026-04-30T11:25:10.494511+00:00",
   "articles": [
+    {
+      "id": "cf4d69b308e61641da6364ac6c1f8789",
+      "title": "Meta’s daily active user count declined in Q1 2026",
+      "title_pt": "Contagem de usuários ativos diários da Meta caiu no 1º trimestre de 2026",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbXZRZEM5S3dpcEEtUHJFUFhVVHFYeGhUNWJsMVpENUUyc2h2UG1JZHNHQXdiQVZxVmpUQTc2M0hOOXFUVFRsejB2NkRsQVVaUXcyUzRWZjFwM1ZQMVVhNl93dFVXMTNnOGcwLXhrMVVNVnd3RnNJSS1PTW5tZ09sSnZNQzM0UTlLZXlIbHFGR1VmWTNPZnVVVnhCdw?oc=5",
+      "date": "2026-04-30",
+      "category": "Redes Sociais",
+      "summary": "Agências devem reavaliar estratégias de mídia e conteúdo devido à queda de usuários ativos nas plataformas Meta.",
+      "key_insights": [
+        "Impacto direto no alcance e ROI de campanhas em plataformas Meta.",
+        "Necessidade de diversificar investimentos e explorar novas plataformas."
+      ],
+      "actionable_points": [
+        "Analisar performance de campanhas Meta e testar novas plataformas de mídia."
+      ],
+      "relevance_score": 9,
+      "image_url": null
+    },
+    {
+      "id": "ad207558b643d6930c9b004203fd160c",
+      "title": "Vine makes a comeback",
+      "title_pt": "O Vine está de volta",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VSmYyM2RIaU5yNlZiYUJWY1JTTlZqbGREWlNLRVlqcHZLMWdXbVpzYXZJYlVDSk5ySU1jeC1qNTNIQndFRU9qRVpmbEFfcTVSY3RmQS0ycXpvWHFPLUNRNllxVmswTG1ISFV6Z3kzTjJkRXg4TkE?oc=5",
+      "date": "2026-04-30",
+      "category": "Redes Sociais",
+      "summary": "Agências devem monitorar o retorno do Vine para identificar novas oportunidades de conteúdo e audiência.",
+      "key_insights": [
+        "Potencial para novos formatos de vídeo curto e criatividade.",
+        "Avaliar se a plataforma atrairá novas gerações de usuários."
+      ],
+      "actionable_points": [
+        "Acompanhar o desenvolvimento do relançamento e testar formatos de conteúdo."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "a8c9bed5377617772b9e60329733c202",
+      "title": "Google expands AI search mode to YouTube",
+      "title_pt": "Google leva o modo de busca com IA para o YouTube",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMlBYNi0zQTZFLUdnZHRHZnZob1E2VTF2ZUdUNXJIbVNQRUp6MGk2ejFKYlhJWXdCSm5pU1k3RG1fY2dRZHN1ZmZsdU5uR0tDUlk2c0ZVQTZEMG8zaWg2RjRkVlo2OERFQzZaOHExcDFVOFVqRXhnRHhOV0hTUkVTX29tMHp3akpEWXc0QUkzTQ?oc=5",
+      "date": "2026-04-29",
+      "category": "IA",
+      "summary": "Agências devem otimizar estratégias de conteúdo para YouTube considerando a busca aprimorada por IA, impactando visibilidade e descoberta.",
+      "key_insights": [
+        "A busca por IA no YouTube redefine a descoberta de conteúdo e a otimização de SEO para vídeos.",
+        "Agências precisam adaptar estratégias de conteúdo para serem relevantes em resultados de busca gerados por IA."
+      ],
+      "actionable_points": [
+        "Revisar e adaptar estratégias de SEO para YouTube, focando em otimização para busca com IA e sumarização."
+      ],
+      "relevance_score": 9,
+      "image_url": null
+    },
+    {
+      "id": "0c3684ddf692bf66efeadf28fecab000",
+      "title": "Life stage matters more than age for in-app brand promotions",
+      "title_pt": "Estágio de vida importa mais que idade para promoções de marca em aplicativos",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc3cwcnNpVlJFS1VJbTdQcXRRNldQOFloNi1Yeks5bVpNSlc0QU5DQjhiM0lzUzdDZXc4RFRFbXEtVG9DYmxQOG1TQ1NqSVFKZXRqRjRpbGRwak5kQW9PWlY5RXJtclN5WnZOeXhIZGJjSy03QnF0WWpzZE1MT2dvNnBZX3E0dkNoNlkwZVRZMUJpTF9jUjg0ZWFtRnZTYWZyNW1hb1ZPRmVpZw?oc=5",
+      "date": "2026-04-29",
+      "category": "Comportamento",
+      "summary": "Agências devem focar em segmentação por estágio de vida, não apenas idade, para campanhas in-app mais eficazes e personalizadas.",
+      "key_insights": [
+        "A segmentação demográfica tradicional por idade é menos eficaz que o estágio de vida.",
+        "Promoções in-app devem ser personalizadas para momentos específicos do consumidor."
+      ],
+      "actionable_points": [
+        "Desenvolver personas baseadas em estágios de vida para campanhas in-app."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "858aeff0ca61b496e690a3d9701b022b",
+      "title": "LinkedIn expands off-platform event promotions",
+      "title_pt": "LinkedIn expande promoções de eventos fora da plataforma",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV0NzMUR5M1Iyc1RkTXhIQ0JkOXRKa0s4aEdKeU03VHNUU3FpVE0zc04wVk9vTVJKdHRIS1JrSTFTMVY4VGlScG5nZnZYZjhOMFJMWUpQQXZDVTdYM185eUZ3V0plQlA3Y294X0pMaUhoOXdHbVZyc1c3SWZjLXBzd1RIck9KVDhnSmhURGVUaXZfY3ZVd2E4?oc=5",
+      "date": "2026-04-29",
+      "category": "Redes Sociais",
+      "summary": "Agências podem agora ampliar o alcance de eventos de clientes, mesmo que não sejam hospedados diretamente no LinkedIn, usando a base profissional da plataforma.",
+      "key_insights": [
+        "Maior flexibilidade para agências promoverem eventos externos de clientes.",
+        "Otimiza o uso do LinkedIn como hub de networking e divulgação profissional."
+      ],
+      "actionable_points": [
+        "Integrar a promoção de eventos externos no planejamento de marketing de conteúdo para clientes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "6e00719b4f48b146b03cf59d932a0be9",
+      "title": "Pinterest releases 2026 wedding trends report",
+      "title_pt": "Pinterest lança relatório de tendências de casamento para 2026",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd0g4dGo2VGt3amJudm9nRUxzRm8tTEduSEkwX2h0NHJ4OU5tOUE2Q0xpTFQtaGJFeHBmR0twMDF6b2ZSbDduMllTUkM4MFExdGttN1I4Vm5XNDZTYW1CNWRXVnNqdUZrZHNOY0dGRG9yaGdfV1NuMGFYZlduNG16NUllMm5QR0l3bUtGWE04WnBHcXh6aHc?oc=5",
+      "date": "2026-04-29",
+      "category": "Comportamento",
+      "summary": "Agências podem usar este relatório para antecipar tendências de consumo no setor de casamentos, otimizando estratégias de conteúdo e campanhas para clientes relevantes.",
+      "key_insights": [
+        "A antecipação de tendências permite um planejamento estratégico proativo para clientes do setor de eventos e lifestyle.",
+        "Dados do Pinterest revelam intenções de consumo e inspirações em nichos específicos, informando a criação de conteúdo."
+      ],
+      "actionable_points": [
+        "Integrar as tendências de casamento do Pinterest em briefings e planejamentos de campanhas para clientes do setor."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "f246232c70253c3b23ea5bf2de18bafc",
+      "title": "Snapchat launches sponsored AI chatbots",
+      "title_pt": "Snapchat lança chatbots de IA patrocinados",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONTRxNExMQ08zRVZ3ZEFvZW9oLUFaUENUWmxiM3VSTXJkVnVmUzFrTVJpVmdLSHZXN3FTV3ROZU9vRzEwWGZIOGhlLXRGQnRGaGdGSHlmbmtpRmNObHdNSzNKLTJOSkZBWlY4RU14UWZXcnFKUTBhbFJicnVMTTMyZmpVdDUwRXEyclVUYjJ3?oc=5",
+      "date": "2026-04-29",
+      "category": "IA",
+      "summary": "Agências devem explorar os chatbots de IA patrocinados do Snapchat como um novo formato de publicidade e engajamento direto com o consumidor.",
+      "key_insights": [
+        "Criação de novos formatos de publicidade e interação imersiva via IA nas redes sociais.",
+        "Potencial para personalização de campanhas e atendimento ao cliente em escala."
+      ],
+      "actionable_points": [
+        "Desenvolver estratégias e pilotos para integrar marcas em chatbots de IA patrocinados no Snapchat."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "800ec29a917aa81da5251619e31760e8",
+      "title": "Meta announces plans to collect solar energy in orbit",
+      "title_pt": "Meta anuncia planos para coletar energia solar em órbita",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdWUtMi1mOGwySEgyZmZMbUpKZy1MNHBXdnJNWXFXRWt2cmFlWjdVX2t4a3ByWU55ODY5ajhUV0d0ZkxIS0U5Mk1lcXdyOGZqeXhER2RxbmFiV2EwTXViWVVUcUZOS2NFZG9HcWlyaVdXVkh2RVRmOUUyTE11M0lNUEVrMHBGZENYTVBTcFlRdExVLXdSbkZMbWVRRHR0aHBO?oc=5",
+      "date": "2026-04-28",
+      "category": "Estratégia",
+      "summary": "A iniciativa da Meta em energia orbital pode fortalecer sua infraestrutura tecnológica, impactando indiretamente a capacidade de suas plataformas e ferramentas de marketing futuras.",
+      "key_insights": [
+        "Plataformas como Meta investem em infraestrutura de longo prazo para sustentar crescimento e inovações.",
+        "Sustentabilidade e capacidade energética podem se tornar diferenciais competitivos para gigantes tech."
+      ],
+      "actionable_points": [
+        "Monitorar investimentos de grandes plataformas em infraestrutura para antecipar impactos em suas ofertas de marketing."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
     {
       "id": "8e578f3588d20c22fcac3af15373099a",
       "title": "Google offers new first-party shopper data integration",
@@ -3104,24 +3248,6 @@
       ],
       "actionable_points": [
         "Intensificar estratégias e investimentos em conteúdo para o TikTok."
-      ],
-      "relevance_score": 8,
-      "image_url": null
-    },
-    {
-      "id": "90f1d8f5407f56b2baa2b6f75d9bbfa4",
-      "title": "LinkedIn Continues To Add Users, Revenue",
-      "title_pt": "LinkedIn Segue Crescendo em Usuários e Receita",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU3htR2dzTHBhQzc5MlB4Q1JrVERLMHV2aFM1VE93OXVRUU83Q1BkQVZKOXkxeGRaeWI3b2h4XzhCbzB2cmx5Z3liV19PVXhOQUpabnpIbU9oRlpqVTRXUHFhcWR3Uy12MVM1a0ktcmZKYWc1ajNnWWFRZjZocTUzQXlKY2NycXdMNlIzQVN3?oc=5",
-      "date": "2026-01-29",
-      "category": "Redes Sociais",
-      "summary": "O crescimento contínuo do LinkedIn reforça sua importância como plataforma estratégica para B2B, branding profissional e aquisição de talentos para clientes de agências.",
-      "key_insights": [
-        "LinkedIn mantém relevância para audiências profissionais e B2B.",
-        "Crescimento indica mais oportunidades de publicidade e engajamento."
-      ],
-      "actionable_points": [
-        "Revisar e otimizar estratégias de conteúdo B2B e branding de talentos no LinkedIn."
       ],
       "relevance_score": 8,
       "image_url": null
