@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-04-30T11:25:10.494511+00:00",
+  "last_updated": "2026-05-01T11:03:12.961022+00:00",
   "articles": [
+    {
+      "id": "9c2c8a7956ac0649b6c6d1f2c1490911",
+      "title": "Instagram updates algorithm to benefit original creators",
+      "title_pt": "Instagram atualiza algoritmo para beneficiar criadores originais",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcm0yWjJFNC13WmZSOGt2VEtfZ1pDdmtWeVNiaVB0aXN1UGhZTkFGWXFoRFZHLTl3Qk1KSTM4RjRHQjVYbElHWmNtSHFmWXMzNVhLU2dLbkU2aTZoaXdDYXVOZTF5cWt0UG1XbWY3emFYQ1VXX3hwQWkyUTlnZXBnd1d6aGFMVU14clBZMzgzLXllSjdfaGswMF8zeVd3dTBlSXA5Xw?oc=5",
+      "date": "2026-05-01",
+      "category": "Redes Sociais",
+      "summary": "Esta atualização exige que agências revisem estratégias de conteúdo para priorizar autenticidade e originalidade, impactando diretamente o alcance orgânico.",
+      "key_insights": [
+        "O algoritmo priorizará conteúdo genuíno, penalizando republicações e conteúdo de baixa qualidade.",
+        "Agências precisam focar na criação de valor único para clientes, evitando a saturação de conteúdo genérico."
+      ],
+      "actionable_points": [
+        "Desenvolver workshops internos para equipes sobre criação de conteúdo original e autêntico para Instagram."
+      ],
+      "relevance_score": 9,
+      "image_url": null
+    },
     {
       "id": "cf4d69b308e61641da6364ac6c1f8789",
       "title": "Meta’s daily active user count declined in Q1 2026",
@@ -33,6 +51,60 @@
       ],
       "actionable_points": [
         "Acompanhar o desenvolvimento do relançamento e testar formatos de conteúdo."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "ef9bc7ba59a9b70bd3e5fdc0f313aa4e",
+      "title": "Meta updates transparency rules for third-party ad platforms",
+      "title_pt": "Meta atualiza regras de transparência para plataformas de anúncios de terceiros",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOVRwdlI4VmNqNG5vNWlJZllldGowZzRlSDgwT2VqYzFMRVcwOWEtelZFcTgxT0paaHFqLU5xNjd4bEM0ZURNa0dsMS1Uenp0VEZJZFNFaFpqV3NLMTMteUVOSTdZUXBEZ19malQ4Wm5VRm1NaG1DUXlMUFhOMHllTmo5M3V6ZlU3bzR0U0VETVhZVTlMcGttTXY1ZUdzaW1aOC10ZkpiVGF1Zw?oc=5",
+      "date": "2026-04-29",
+      "category": "Dados & Métricas",
+      "summary": "Agências devem revisar as novas regras de transparência da Meta para garantir conformidade e otimizar a gestão de campanhas de anúncios de terceiros.",
+      "key_insights": [
+        "Novas regras afetam a coleta e o uso de dados de campanhas em plataformas parceiras.",
+        "Agências precisam adaptar estratégias de mídia paga para garantir conformidade e eficácia."
+      ],
+      "actionable_points": [
+        "Capacitar equipes sobre as novas diretrizes de transparência da Meta para evitar não conformidade."
+      ],
+      "relevance_score": 9,
+      "image_url": null
+    },
+    {
+      "id": "a4759707cb26fed84aaca3ff601301e5",
+      "title": "YouTube rolls out Multiview option to more subscribers",
+      "title_pt": "YouTube lança opção Multiview para mais assinantes",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbGpueGJYX2lvMmpWLVVTbkdnRW56Q2F3MVFCcnJtSl92MzJHT0M3WGxwZ2RrUkRvWDVYY0UweC0xOGpxd1ZKcHF6U1p4Q0pxdUlTY1ppa2RLektIN1gxT3FLcnFOVEVoVDBHNzF0TzVBdG92VlptSnhDWUFqUHRKbk9YZFd2cTZTeVJiYWdqQTB3anNNelQ1clB1S3lUSGlpWnc?oc=5",
+      "date": "2026-04-29",
+      "category": "Redes Sociais",
+      "summary": "Agências devem considerar o Multiview do YouTube para otimizar estratégias de conteúdo e publicidade, visando maior engajamento.",
+      "key_insights": [
+        "Novas oportunidades para formatos de conteúdo interativos e simultâneos.",
+        "Impacta a atenção do usuário e a eficácia de mensagens em múltiplos fluxos."
+      ],
+      "actionable_points": [
+        "Avaliar a criação de conteúdo otimizado para consumo simultâneo em Multiview."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "2898afb7626b9b1303c96afc78c1cdd2",
+      "title": "Harvard study documents the rise in divisive posts on X",
+      "title_pt": "Estudo de Harvard aponta aumento de publicações divisivas no X",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQWlZMTU5RzdWOUpVbE5vZXIybUxjVkhfSU00SWk1YldTa3NEUFpFQ0ltNW9KMlZlMlpmOU5pUTdPQ0V6YnNYVEZVenNGblhRUkhKTURDdlpCdDVfS29KeTdqQi03RUJaZVNtMTJEQ0hrRjVmMVBmMTRabjctS2JLMGItdFB0LXR2SjYzelRPUE9DYTJ0Vl8xeFd0dUFWYkpla3Bj?oc=5",
+      "date": "2026-04-29",
+      "category": "Redes Sociais",
+      "summary": "Agências precisam adaptar estratégias de conteúdo e monitoramento de marca devido ao aumento de posts divisivos no X.",
+      "key_insights": [
+        "Aumento de conteúdo divisivo exige maior atenção à segurança da marca e gestão de reputação.",
+        "Estratégias de engajamento no X devem focar em comunidades e moderação para evitar polarização."
+      ],
+      "actionable_points": [
+        "Implementar ferramentas avançadas de monitoramento de sentimentos e brand safety para clientes."
       ],
       "relevance_score": 8,
       "image_url": null
@@ -123,6 +195,42 @@
       ],
       "actionable_points": [
         "Desenvolver estratégias e pilotos para integrar marcas em chatbots de IA patrocinados no Snapchat."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "587598a383735ba5101a3c5964cbcd74",
+      "title": "Pinterest launches connected TV ad placement via tvScientific",
+      "title_pt": "Pinterest lança posicionamento de anúncios em TV conectada via tvScientific",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRUlCSjREMGVzd2dVTjduT01jemlUR0JSd2FTWWQzWERPNnZtTjVzUmpQRDVsZmJiS0FXSFQ0R3dBZm5WVU5ZVHVyQVo5YWR5X0dGTVczWE10S0RWTEstYzJvQjd3RE8ycWJ5dVRGZFpjMzAwMWV4a1BmU3VBZWQwRC1LTmVzamJUTjJCc05VMktBcTFMMG9FTlR4TE5PM2ZMZ1paaFlnYmdHbjQ?oc=5",
+      "date": "2026-04-28",
+      "category": "Redes Sociais",
+      "summary": "Agências devem explorar novas oportunidades de publicidade em TV conectada via Pinterest para expandir o alcance de campanhas.",
+      "key_insights": [
+        "Expansão do alcance do Pinterest para além do mobile e desktop.",
+        "Integração de social media com TV conectada abre novos formatos de anúncios."
+      ],
+      "actionable_points": [
+        "Avaliar a inclusão de anúncios em TV conectada do Pinterest em planos de mídia de clientes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "5d3307581e644780ecf9429bd6b78dc4",
+      "title": "Threads tests emoji reactions to specific words in posts",
+      "title_pt": "Threads testa reações de emoji a palavras específicas em posts",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUlNBbXZEZEw5SlRzazBZT2loNkJhc2QtdDM2OENrN1NwNm4tT0VKQWJKR3ZtaEhHcmxoMVdlVDRpaGtWY09FYmVEemg1ZU0ybDJnb3c0clphT1JwS3ZNcDRVZHh2LWo1TGJOb3hGMVNrZ2tFdlViaXVJOGZWUzg3T0p3djdkMGtyd2JRaWY0QW1KNEhzT204OUZBTVBOYl9yZ3p5aw?oc=5",
+      "date": "2026-04-28",
+      "category": "Redes Sociais",
+      "summary": "Agências devem monitorar novas formas de interação para otimizar estratégias de conteúdo e engajamento em plataformas.",
+      "key_insights": [
+        "Novas interações podem mudar a dinâmica de engajamento e análise de sentimento.",
+        "Permite segmentar reações e entender nuances do feedback do público."
+      ],
+      "actionable_points": [
+        "Avaliar o impacto da funcionalidade na criação de conteúdo e monitoramento de campanhas."
       ],
       "relevance_score": 8,
       "image_url": null
