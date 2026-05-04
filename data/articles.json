@@ -1,6 +1,60 @@
 {
-  "last_updated": "2026-05-03T10:47:21.933462+00:00",
+  "last_updated": "2026-05-04T11:43:58.691223+00:00",
   "articles": [
+    {
+      "id": "efc1d8a52896d277d9b0110a3db521eb",
+      "title": "Instagram tests option to swap out text in someone else’s Reels",
+      "title_pt": "Instagram testa opção de trocar texto em Reels de terceiros",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ2p4MmZsa2I1ZlpIX0Nob2gtWDhjYUJzajZlMXMySXViZHlOQ3FzUU1nLTZna2R5WEZDRWNsSENPZlNadE1qaXV6ZTdmeTJBUUhqOGdQWUF5YVlwRUJBSUV3V3lqZTF5bkNWQmdtXzAtU0FjVUFRSS1Rcm9vTTVrUnpxSFVUbHRRdW1SR2lXNWZ3WXhHSFhzYWpmbElQbUNFUE4xUTFnRFlVVnRT?oc=5",
+      "date": "2026-05-04",
+      "category": "Redes Sociais",
+      "summary": "Agências precisarão adaptar estratégias de conteúdo e monitoramento para lidar com a edição de texto em Reels de terceiros.",
+      "key_insights": [
+        "Potencial para cocriação e remix de conteúdo, mas também riscos de descontextualização.",
+        "Exige novas abordagens para campanhas de influência e gestão de marca em Reels."
+      ],
+      "actionable_points": [
+        "Monitorar o lançamento e impacto da funcionalidade para ajustar estratégias de conteúdo."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "d22f830fd7a74c77845072c0b801eb3e",
+      "title": "YouTube tests new music generation and moderation tools",
+      "title_pt": "YouTube testa novas ferramentas de geração de música e moderação",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ1BSaTNpd0lqTHZiQ05vQkdsTHhFN0YzUVJaMy1PcDljWmFqbkZIUEhzVjJOSmtDWGlFQ3RoeEFGT3JWdThnbm5HTHlxSWltOUdjVUMwNVhaMkNLa01vb011TWxYRVFjdTlMV0xkR3oycmVFNG5FV1EzTWtGUDhZcWpLWjV3YXoxT0F1Wms4czhWQi13cWQ0LWo5WFlSNEJDbDhr?oc=5",
+      "date": "2026-05-03",
+      "category": "IA",
+      "summary": "Agências devem se preparar para a IA generativa de música e novas regras de moderação no YouTube.",
+      "key_insights": [
+        "A IA generativa pode transformar a produção de conteúdo musical e áudio para marcas no YouTube.",
+        "Novas ferramentas de moderação exigirão revisão das estratégias de segurança de marca e conformidade."
+      ],
+      "actionable_points": [
+        "Explorar o uso da IA generativa em projetos musicais e revisar políticas de moderação de conteúdo."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "73ff62df073876d933344d93b62578fb",
+      "title": "Meta launches AI ad connectors that work with outside chatbots",
+      "title_pt": "Meta lança conectores de anúncios com IA que funcionam com chatbots externos",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVF92QzdWZm9wRkFEdllDMVJMaTgzVDZnRnNWOGQ2S1BzSTZfRDIwU0xiUHNqSTFiX2FxaWk2QldpUTZaM0hqVFEzNE1mdzFPMFlIU0JzMGEzdkhfbnpNd2NvbnczbWQ1SDlrdU9NMlV2cTBaVzVidmtSSnZ6X1FRUVFoTDJiS2FNLVFKQmNNellVWDU1V2lRTTB6ak4yN2RVcFhsMzQ1eGZ4ZHN6?oc=5",
+      "date": "2026-05-01",
+      "category": "IA",
+      "summary": "Agências podem integrar campanhas de anúncios da Meta com IA externa para automação e personalização avançadas.",
+      "key_insights": [
+        "Meta abre sua plataforma de anúncios para integração com IA externa.",
+        "Otimização de campanhas e atendimento via chatbots externos é viabilizada."
+      ],
+      "actionable_points": [
+        "Explorar e testar os novos conectores de IA da Meta para campanhas de clientes."
+      ],
+      "relevance_score": 9,
+      "image_url": null
+    },
     {
       "id": "9c2c8a7956ac0649b6c6d1f2c1490911",
       "title": "Instagram updates algorithm to benefit original creators",
