@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-05-04T11:43:58.691223+00:00",
+  "last_updated": "2026-05-05T11:13:03.802000+00:00",
   "articles": [
+    {
+      "id": "861981b676c0a8c542ee0c469ff5cdcb",
+      "title": "TikTok expands Out of Phone campaigns",
+      "title_pt": "TikTok expande campanhas para além do ambiente do celular",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVUpCY2lPSEk5MzNvSEZVRjFidV9vQVlNeW53Q2hGZVlsb1FmSXZ5Zk5TNWpDLU5DQUdvTE1iRERvNXZkcU5rVFNQVkRHemFVT21yUnRxNEMzWVc3ZmU0TGVaWmNMbFd4bVdnc0U4NV9YSlAydjdVclhoSGF0c1ZzQ1FNbTQ2UmdLRXRz?oc=5",
+      "date": "2026-05-05",
+      "category": "Redes Sociais",
+      "summary": "Agências precisam integrar as novas frentes de mídia do TikTok em estratégias multicanal para ampliar o alcance e impacto dos clientes.",
+      "key_insights": [
+        "Novas oportunidades de mídia e formatos criativos fora do aplicativo TikTok.",
+        "Indica a maturidade do TikTok como plataforma de publicidade multicanal e integrada."
+      ],
+      "actionable_points": [
+        "Mapear e testar os novos formatos de campanha do TikTok para clientes estratégicos."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
     {
       "id": "efc1d8a52896d277d9b0110a3db521eb",
       "title": "Instagram tests option to swap out text in someone else’s Reels",
@@ -15,6 +33,42 @@
       ],
       "actionable_points": [
         "Monitorar o lançamento e impacto da funcionalidade para ajustar estratégias de conteúdo."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "2babc98d06a47f4e378b554526caa66d",
+      "title": "Reddit posts strong Q1 results",
+      "title_pt": "Reddit apresenta fortes resultados no 1º trimestre",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUVEzdHhQdkNUX3Y0UmZnU1NxaXdSOWxRa0g2MDVGZm9nMDhoYWcyQTZhSElKc2ZJa0ZVV3BYRV8yeXFGNm1IVERkcFRxN1U2bS1VR1M5eWpfSktmTXVmM2RKUlpialhPSHI4LXliaWZ5OW1OVmlQX25yR1pieGpTSVNB?oc=5",
+      "date": "2026-05-03",
+      "category": "Redes Sociais",
+      "summary": "Os fortes resultados do Reddit indicam sua crescente relevância como plataforma para estratégias de marketing digital e engajamento de comunidades.",
+      "key_insights": [
+        "Crescimento do Reddit sinaliza maior engajamento e potencial de alcance para marcas.",
+        "Oportunidade de explorar comunidades nichadas e publicidade segmentada na plataforma."
+      ],
+      "actionable_points": [
+        "Avaliar o potencial do Reddit para campanhas de clientes, focando em comunidades e nichos específicos."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "3762c769a18ab3dc5337fd9db94ace52",
+      "title": "Meta acquires humanoid robot developer Assured Robot Intelligence",
+      "title_pt": "Meta adquire desenvolvedora de robôs humanoides Assured Robot Intelligence",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcFZtU0FuX1BidHNWOVQ0d1dPdkJ5VlQyNnd2X3poYnZPSE13ZFpRajl0c2dEYWlvQUFnM2Q0VWJEUVZKWlctTm9uZmN2UlFsa1hUNjJDMV9nS3RtVzZ3a2lCaWh6UUhmRzljWWVBQUc3eWVfNnEzRjQtOXlSUTJMMGdJczRKdEtmSWZDM1l5Z1M1V3JWMXJ1RGROM1pjSTFnVWhYUU9tZnJkYzRkNXVJVg?oc=5",
+      "date": "2026-05-03",
+      "category": "IA",
+      "summary": "A aquisição da Meta em robótica avançada sinaliza futuras interfaces e experiências de marca que agências precisarão integrar em suas estratégias.",
+      "key_insights": [
+        "Meta expande sua visão para além do digital, focando em interação física/digital via robótica.",
+        "Prepara o terreno para novas interfaces e experiências de marca imersivas no futuro."
+      ],
+      "actionable_points": [
+        "Começar a explorar como IA e robótica podem criar experiências de marca inovadoras."
       ],
       "relevance_score": 8,
       "image_url": null
@@ -3395,24 +3449,6 @@
         "Avaliar e integrar dublagem automática em estratégias de conteúdo para clientes com alcance internacional."
       ],
       "relevance_score": 8
-    },
-    {
-      "id": "67dc393f8c9dde9d2b05bada5c466b8c",
-      "title": "Downloads of TikTok Alternatives Slow in the US",
-      "title_pt": "Downloads de Alternativas ao TikTok Diminuem nos EUA",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR1M1SXY0R2xaQXZmdk16VW8xbG5jTkRFZmZsR29VaFN3NnhIMjZrdkpoUzZMTVJDR2VEUmNxajMxVkRxSlpoQnY3dG5TQVJKc3ZmYV83TXpXei0wbU1ETElFcVZDX01aNE1HUnc2eV9Pa0p4aFlXSVFUREQ1dzRQYkN4TnZTMDlkT282R3ExS0lKWXotLVc1NA?oc=5",
-      "date": "2026-02-03",
-      "category": "Redes Sociais",
-      "summary": "Agências devem reavaliar a diversificação de plataformas, focando na consolidação do TikTok e na estagnação de alternativas.",
-      "key_insights": [
-        "TikTok mantém forte posição no mercado, apesar de tentativas de concorrência.",
-        "Usuários demonstram lealdade ou falta de interesse em novas redes sociais."
-      ],
-      "actionable_points": [
-        "Intensificar estratégias e investimentos em conteúdo para o TikTok."
-      ],
-      "relevance_score": 8,
-      "image_url": null
     }
   ]
 }
