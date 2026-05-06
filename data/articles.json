@@ -1,6 +1,96 @@
 {
-  "last_updated": "2026-05-05T11:13:03.802000+00:00",
+  "last_updated": "2026-05-06T11:45:17.212208+00:00",
   "articles": [
+    {
+      "id": "beb6dc6ffc2691705cb84c10dfff5e4c",
+      "title": "Meta implements more protocols to detect underage users",
+      "title_pt": "Meta adota mais protocolos para detectar usuários menores de idade",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZC1adFprOHRvY0MydnVMa2dLREg0RTdYU1k5WV9kY2lVV2V4ZS1UTFNlM21HUHZEWkNJaVdyYkplbmYwS2RNNGZQYXdMS0ZBNnk0NkNzMW50TmlHTURLeVljRUE1YUtQQ1BCa00xUDFlZkVhSDczemU3Q2dqTzkxN1cwbEszc0VsVWNOS19vWmZsRTRvZktBV0MyR2d4OUhqRmhV?oc=5",
+      "date": "2026-05-05",
+      "category": "Redes Sociais",
+      "summary": "Agências devem revisar estratégias de segmentação e conteúdo para garantir conformidade e proteção de menores.",
+      "key_insights": [
+        "Impacto na segmentação de público e alcance de campanhas para menores.",
+        "Necessidade de revisão de estratégias de conteúdo e publicidade para conformidade."
+      ],
+      "actionable_points": [
+        "Auditar campanhas atuais e futuras para adequação etária e conformidade com novas regras."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "49c3aabd905da1a6704e4c8b77dca1f8",
+      "title": "Instagram adds AI Creator labels",
+      "title_pt": "Instagram adiciona rótulos de IA para criadores",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVS1xbUprOVNvRzVURm94LVV4dU45SnRDbjJ5SWNmekFIbFd2T3N4Vk1yWURIS1NoRjlTQmhnMjRhNTMtbVM4QnNYUUpNREk1aHhLTzllVkxfMDl1N3F4VWZIWWZyRnd6Tm5xblF6aXNxM1pDaWhfbXlSVGZtNkN3WmxySzI?oc=5",
+      "date": "2026-05-05",
+      "category": "IA",
+      "summary": "Agências devem adaptar estratégias de conteúdo para a transparência exigida por rótulos de IA em plataformas sociais.",
+      "key_insights": [
+        "Aumenta a necessidade de transparência e autenticidade no conteúdo gerado por IA.",
+        "Exige novas diretrizes para uso de IA na criação de conteúdo de marca e influenciadores."
+      ],
+      "actionable_points": [
+        "Atualizar políticas internas sobre o uso e divulgação de conteúdo gerado por IA."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "0df224c266e5d9441c6090f2d4ec3370",
+      "title": "Reddit releases new small business marketing guide",
+      "title_pt": "Reddit lança novo guia de marketing para pequenas empresas",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNd1NJOFZLbmd1Z0F4MkZKTWs4UUZIS3piNDU0RUtWZDVkakl2dU9iUy1DbG5TMkRiVk1RZUpiZ1FwWEEyNXFwRDNucllQaHdMUFExQldMdDBqOEd5dEVwNWU1WGloZHlSb0NEUDR6N1ROVDJHVGtERlRiUllzald2allNWFhoVGJmenQtTGNKLWxBQlRnUkVVVDUxTDA?oc=5",
+      "date": "2026-05-05",
+      "category": "Redes Sociais",
+      "summary": "Agências devem explorar este guia para otimizar estratégias de marketing de pequenas empresas no Reddit, um canal frequentemente subutilizado.",
+      "key_insights": [
+        "Reddit oferece um canal único para alcançar nichos específicos e comunidades engajadas.",
+        "O guia da plataforma pode revelar táticas eficazes para publicidade e engajamento de SMBs."
+      ],
+      "actionable_points": [
+        "Revisar o guia para integrar o Reddit em planos de marketing de clientes SMB."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "f4274fc0b9fcf366be7f9dbdf83b938c",
+      "title": "Threads expands trending topic summaries to more regions",
+      "title_pt": "Threads expande resumos de tópicos em alta para mais regiões",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV3RxRS0wUjZLc1RFTGxnVXlRWlg0aTMzV3B1a2p0S1lpaGZ0QkVOcU1DRnJURU5yQXZVM3U3YWl6M19FY2xqTkxiNVhuX0tOMU5GR0I1TzBEdUhEWXBqa09vT0hqOFdVUVBqMWhOY2U2Si12TmFHZVlmallFaHotQU42NnI3UWE2M3BDTTdBcU9yZ0lRRnE5YnJSeWw2Mnl1M25Scg?oc=5",
+      "date": "2026-05-05",
+      "category": "Redes Sociais",
+      "summary": "A expansão dos resumos de tópicos em alta no Threads permite às agências identificar tendências e oportunidades de conteúdo em tempo real para seus clientes.",
+      "key_insights": [
+        "Facilita a identificação de tendências e conversas relevantes para estratégias de conteúdo ágeis.",
+        "Oferece novas oportunidades para monitoramento de marca e engajamento contextualizado com o público."
+      ],
+      "actionable_points": [
+        "Integre o monitoramento de tópicos em alta do Threads nas rotinas de social listening da agência."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "e217f2ca67cc2f71a65b56daf9767bb1",
+      "title": "Meta threatens to withdraw its apps from New Mexico",
+      "title_pt": "Meta ameaça retirar seus aplicativos do Novo México",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMUxNTWhhVHplYkhGLVRrX041NTBVcmd0REpRTkFPb1lOOXJZTVZwdHp1SmJzOFRYbVREVFBqdXBqU2FBSUJoT21xbEFpUWpRUERPN2JkYWFIQm5lNy1WNHRCTGR3WEJpcnIyRTRtLWlfZlNhTnBuMkxSRXhWczZyMVJaY3FhMDA3VGdaaUlvX0EtR3pXaFlhZUxrVVp6QQ?oc=5",
+      "date": "2026-05-05",
+      "category": "Estratégia",
+      "summary": "A potencial retirada da Meta de um mercado regional exige que agências monitorem riscos regulatórios e adaptem estratégias de alcance de audiência.",
+      "key_insights": [
+        "Agências devem mapear riscos regulatórios estaduais que afetam a presença de plataformas.",
+        "Necessidade de diversificar canais de comunicação para mitigar dependência de uma única plataforma."
+      ],
+      "actionable_points": [
+        "Desenvolver planos de contingência para campanhas em caso de restrições de plataformas."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
     {
       "id": "861981b676c0a8c542ee0c469ff5cdcb",
       "title": "TikTok expands Out of Phone campaigns",
@@ -33,6 +123,24 @@
       ],
       "actionable_points": [
         "Monitorar o lançamento e impacto da funcionalidade para ajustar estratégias de conteúdo."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "e3a454b4f1543145569985ca72bb1ed0",
+      "title": "YouTube experiments with new music generation and moderation tools",
+      "title_pt": "YouTube experimenta novas ferramentas de geração de música e moderação",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSGJrZ1N5Q2VlRzQxdHEydGpYVmxZZTZDQUY4Ujg5TW1jbDhtYUhQMHMzZGY5QmFMR3hCdkt6MnRpeVUyUEtwUE12bFlJOHJaOVktSndPYldKMXFMcGlWc0lnd05iQ0t1T0QxazdBWHMzWjVNYXk3TU1OU3VYVXhMYzBaVkktOGdyMzBkUGVzMXdVMms1OVBicXVuYnc2M2tUV1BHMWprNm1wNUowMFEyOEJ3?oc=5",
+      "date": "2026-05-03",
+      "category": "IA",
+      "summary": "Agências devem monitorar o impacto dessas ferramentas na criação de conteúdo, moderação e estratégias de marca no YouTube.",
+      "key_insights": [
+        "IA generativa para música abre novas oportunidades criativas e de monetização.",
+        "Ferramentas de moderação aprimoradas impactam segurança de marca e estratégia de conteúdo."
+      ],
+      "actionable_points": [
+        "Avaliar o uso de IA para criação musical em campanhas e estratégias de conteúdo."
       ],
       "relevance_score": 8,
       "image_url": null
@@ -3430,23 +3538,6 @@
       "actionable_points": [
         "Educar clientes sobre os riscos e as novas diretrizes do LinkedIn, enfatizando a importância do engajamento genuíno e ético.",
         "Auditar e otimizar as estratégias de conteúdo e distribuição no LinkedIn para garantir que promovam interações autênticas e de alto valor, alinhadas às políticas da plataforma."
-      ],
-      "relevance_score": 8
-    },
-    {
-      "id": "3a746599612e8638c06c3b4f751496b7",
-      "title": "YouTube Expands Auto-Dubbing to All Creators",
-      "title_pt": "YouTube Expande Dublagem Automática para Todos os Criadores",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOay1WcjhCY2twcjJCenFnclpvMkNOV3M1WGpnM2lxRmFJOG5VcUtKbkY1RG1mTl9LNWd2Y0c4ZTczc2tEOWhkZWQ0WjZXMXNjS1pvRXBYQlROYTBER0pBZHBvN3dBa1J3c05MRm8xMEFDUFA2UlVacm9GbUt6czRoZXMzbXdja2FDMDBXSFpveWtJOWtr?oc=5",
-      "date": "2026-02-04",
-      "category": "IA",
-      "summary": "Agências podem agora expandir o alcance de conteúdo no YouTube para audiências globais, otimizando a produção multilingual com IA.",
-      "key_insights": [
-        "Otimiza a localização de conteúdo, ampliando o alcance global de campanhas.",
-        "Reduz custos e tempo na adaptação de vídeos para diferentes idiomas."
-      ],
-      "actionable_points": [
-        "Avaliar e integrar dublagem automática em estratégias de conteúdo para clientes com alcance internacional."
       ],
       "relevance_score": 8
     }
