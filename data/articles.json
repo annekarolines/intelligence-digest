@@ -1,6 +1,78 @@
 {
-  "last_updated": "2026-05-06T11:45:17.212208+00:00",
+  "last_updated": "2026-05-07T11:44:11.837658+00:00",
   "articles": [
+    {
+      "id": "cde7d6f1fbf4270128e23edd68971d9c",
+      "title": "Meta is preparing to launch AI agents to undertake tasks for users",
+      "title_pt": "Meta se prepara para lançar agentes de IA para auxiliar usuários",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRFdHZDV4VTVZRUhsWTJFY0tIczJaVmI0b2ZyTFJZazRHaDlkWFhIay1HTFZRdW1adEpGUEdUSUpDcTh3dlJnMTdfZ1RqQkJZZ1JVU1ltNzNrbm5yZjE1aDN4WjlpNTk0VWlMMGtWXzN5MlByakVjdDZEMWVZaXpTamlBOXRLbjI4S2dLVHNhN2tmQnlNRGlMZS03dUp0R3pHaVBOcklNTnd5dTRxNXhKdWJR?oc=5",
+      "date": "2026-05-06",
+      "category": "IA",
+      "summary": "Agências precisam entender como agentes de IA da Meta transformarão a interação do usuário e a automação de tarefas.",
+      "key_insights": [
+        "Agentes de IA mudarão a forma como usuários interagem com conteúdo e marcas na Meta.",
+        "Novas oportunidades para automação de marketing e atendimento ao cliente via IA."
+      ],
+      "actionable_points": [
+        "Começar a testar e planejar a integração de agentes de IA em campanhas de clientes."
+      ],
+      "relevance_score": 9,
+      "image_url": null
+    },
+    {
+      "id": "bc6e0bcd0aa4771c52490c29a1161bbf",
+      "title": "Threads adds direct messaging access on desktop",
+      "title_pt": "Threads adiciona acesso a mensagens diretas no desktop",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLWRDOVZkcEM1UHk4OEt5Z0pYRjU2ellzZjFETWh0ZTNDMlA0NTNQbHFZdnRDWEhfc1ZiX29scEZnM0VySXNaWTBmWGNhVEpHc1VVV1MxYXlmWGRxVnZLc0kxUXVtR2wzcXp1Q0owSW91ODI3ZHhKR1piVDFBZEtwYUZlZGhYR1RpRC14eGpzT05nNk8yc2hSRQ?oc=5",
+      "date": "2026-05-06",
+      "category": "Redes Sociais",
+      "summary": "Agências podem otimizar a gestão de comunidades e atendimento ao cliente no Threads com o acesso a DMs via desktop.",
+      "key_insights": [
+        "Melhora a eficiência na gestão de interações e SAC para marcas no Threads.",
+        "Abre novas possibilidades para campanhas de engajamento e relacionamento direto."
+      ],
+      "actionable_points": [
+        "Integrar o Threads nas estratégias de atendimento e engajamento de clientes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "f928353971e401d150882dece699422f",
+      "title": "TikTok launches international ad platform campaign",
+      "title_pt": "TikTok lança campanha internacional para sua plataforma de anúncios",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPamtoc3pqemR0Z0NtbmxWOGF2VWV1cDYyNExabWNXQXZiWlQ1TWNfS2IxSlcwVXZkbldjb3F2X2JMMTVRbWwwZWozQUZmbTlKSVhKOHNaODZTdTVaNTFyMkNqRTh1OEZqTWFaQm1lX2w5cGp5cVprMjd0cTRwVGpQQjdtZkFBME1EWWxzcTg0dXBHRlM0d2U3T2JwbTA?oc=5",
+      "date": "2026-05-06",
+      "category": "Redes Sociais",
+      "summary": "Agências devem estar atentas às novas funcionalidades e alcance da plataforma de anúncios do TikTok para otimizar campanhas globais.",
+      "key_insights": [
+        "Expansão global do TikTok Ads abre novos mercados e públicos para clientes.",
+        "Necessidade de adaptar estratégias criativas e de segmentação para audiências internacionais."
+      ],
+      "actionable_points": [
+        "Avaliar o potencial da plataforma de anúncios do TikTok para campanhas de clientes com foco internacional."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "a4ed4b2d8d2fa67ee21d851d352c3bf6",
+      "title": "Pinterest posts solid growth for the first quarter of 2026",
+      "title_pt": "Pinterest registra crescimento sólido no primeiro trimestre de 2026",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaU14X0x4azBfTXJGdmV2SFhyWDhualFfbXpZQ0VEdzJzR21FQ1kxMHA0RU9kaFRKaW90RzV0UEZPdTFYQndFWElRZ0RKTHJiNkV3Z1VuaS1Sa0hPYVhKaU5QLXVnQmhaXzlwZWx3STIyT1JsWkZHUFhNQUVGckZ6eWdXWFlfdmRWVllKd2owbFFWY1ExRWE2NC1sUzNjWF9ZQ2tMdU1PUQ?oc=5",
+      "date": "2026-05-05",
+      "category": "Redes Sociais",
+      "summary": "O crescimento do Pinterest reforça sua relevância como canal estratégico para agências explorarem nichos visuais e e-commerce.",
+      "key_insights": [
+        "Pinterest mantém-se relevante para estratégias de conteúdo visual e descoberta de produtos.",
+        "O crescimento indica oportunidades para marcas com foco em lifestyle, inspiração e vendas diretas."
+      ],
+      "actionable_points": [
+        "Revisar e propor estratégias de conteúdo e mídia paga no Pinterest para clientes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
     {
       "id": "beb6dc6ffc2691705cb84c10dfff5e4c",
       "title": "Meta implements more protocols to detect underage users",
@@ -195,6 +267,24 @@
       ],
       "actionable_points": [
         "Explorar o uso da IA generativa em projetos musicais e revisar políticas de moderação de conteúdo."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "e07c17e7032285fc3eac1cc96b6c24a1",
+      "title": "LinkedIn revenue rose 12% in the first quarter",
+      "title_pt": "Receita do LinkedIn cresceu 12% no primeiro trimestre",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcXYxaWNZN2FDRXZXVWFyaG9JUzZsbGZXUlNkcklVRjVoTWE3MG4xLXktT3Vadl9wbGZzNkd1blN3STlHWXNZMzVzTVJTdjZPbjVGdUVyZFo0YUczSS1EZldKdFR1N1QwZ0lKa1FjcjgwQmZ6UXFOYVFNaWEtTE42U0JrSXlXN0pFTTBjRUR2RnJUaGVTN2c?oc=5",
+      "date": "2026-05-01",
+      "category": "Redes Sociais",
+      "summary": "O crescimento da receita do LinkedIn indica a vitalidade da plataforma, reforçando sua importância para estratégias de marketing B2B e recrutamento.",
+      "key_insights": [
+        "LinkedIn mantém relevância e poder de monetização, essencial para estratégias B2B.",
+        "Crescimento da plataforma sugere oportunidades em publicidade e conteúdo patrocinado."
+      ],
+      "actionable_points": [
+        "Reavaliar e otimizar investimentos em campanhas B2B e employer branding no LinkedIn."
       ],
       "relevance_score": 8,
       "image_url": null
