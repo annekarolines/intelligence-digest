@@ -1,6 +1,60 @@
 {
-  "last_updated": "2026-05-07T11:44:11.837658+00:00",
+  "last_updated": "2026-05-08T11:05:39.607357+00:00",
   "articles": [
+    {
+      "id": "3021cafb105858fe5cd6d5f19eb13977",
+      "title": "Meta adds more insight tools to Edits to enhance video projects",
+      "title_pt": "Meta adiciona mais ferramentas de insights ao Edits para aprimorar projetos de vídeo",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNHBTSG1oWGwzZ2Z6Mm5ONGRDQUxpLWhiN0hUT0N5VmZ0OXdaR3hmZ0g5bDlYWTNYRE1CLXYyVkZwRW0xYnNJRmhLMkJVbDA4WjhKemlQU2tBSkZZR1BfVW1mUlRzZXd3VGpPTzMyZDkxc25QNUJuSU4tS3lKY0hJZ2hGTDZ6b25qYmhRdUpRTDU2dkJZVDlwNmN5Z3RZcDREMS1iY09YRHBWaWZqMlE?oc=5",
+      "date": "2026-05-06",
+      "category": "Redes Sociais",
+      "summary": "Agências podem usar novas ferramentas de Meta para otimizar a performance de vídeos e estratégias de conteúdo.",
+      "key_insights": [
+        "Melhoria na análise de performance de vídeos diretamente na plataforma Meta.",
+        "Otimização de estratégias de conteúdo em vídeo baseada em dados mais ricos."
+      ],
+      "actionable_points": [
+        "Treinar equipes para usar as novas ferramentas de insights de vídeo da Meta."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "2f50b0e04b382abb63c3febea285d7e6",
+      "title": "LinkedIn launches Ad Agency Certification to showcase LinkedIn Ads knowledge",
+      "title_pt": "LinkedIn lança Certificação para Agências de Publicidade para demonstrar conhecimento em LinkedIn Ads",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONDBYZXB0T2JLdmstb0hjVzRxQm1rSTMzeHY0bFFaTks2TmZTVmV6V3ltVUZKeTczcXBLY0RfVDRnVzBQSUwzc003RjhLMmN5aktPVU5rUnkwVHlRdVJnMWZiakhuYjhFdkhMZDNjbWc0SkU5elhTNHFjSF84WEJUNnVZVkVuS3BVSU1jRVdvUF9EYjJoZ0c2cHBLWnUyc0NkRVpOeTcwM29DLXkxcXFtMzBqNU1hME1fLXZ6cmNB?oc=5",
+      "date": "2026-05-06",
+      "category": "Estratégia",
+      "summary": "Esta certificação oferece às agências uma chance de validar expertise e ganhar vantagem competitiva no mercado B2B.",
+      "key_insights": [
+        "Valida a expertise da agência em publicidade B2B no LinkedIn.",
+        "Diferenciação no mercado e atração de clientes que buscam especialistas na plataforma."
+      ],
+      "actionable_points": [
+        "Incentivar equipes a obter a certificação para fortalecer a oferta de serviços."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "97be02fc8cc8e3e833846d10db967388",
+      "title": "Threads adds playable music stickers in-stream",
+      "title_pt": "Threads adiciona figurinhas de música reproduzíveis no feed",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMmIzMU9QcTNXUVNMMFRzRTVxczgtc0lXaTRxWVFtQkE3Y1F3QlBIekY2QXY5MVczcDZWS2JIZ1BCY0stVVpBLUs5dlRfN29OTWp0OXVzUE1JNDIyLUp5RkY1b0JCbDVLdkd2QUk0ZWhaUlplSnNBdk16SWM3RDNEOE1fSWNzVXZWZ2gyWTc0Q0lIZ1RkV19J?oc=5",
+      "date": "2026-05-06",
+      "category": "Redes Sociais",
+      "summary": "Agências devem explorar novas ferramentas criativas como figurinhas de música para engajar audiências no Threads.",
+      "key_insights": [
+        "Novo formato criativo para conteúdo no Threads, ampliando as possibilidades de expressão.",
+        "Potencial para aumentar o engajamento do usuário e a diferenciação de marca na plataforma."
+      ],
+      "actionable_points": [
+        "Testar o uso de figurinhas de música em campanhas no Threads para avaliar o impacto."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
     {
       "id": "cde7d6f1fbf4270128e23edd68971d9c",
       "title": "Meta is preparing to launch AI agents to undertake tasks for users",
