@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-09T10:51:22.954992+00:00",
+  "last_updated": "2026-05-10T10:56:14.915894+00:00",
   "articles": [
     {
       "id": "7341b1134569aa4cbf19a2136a9b1a10",
@@ -51,6 +51,24 @@
       ],
       "actionable_points": [
         "Capacitar equipes no uso das novas ferramentas de IA da Meta para PMEs."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "6bbff4cf0e62099b5d69fc49c4cf8981",
+      "title": "Reddit shares key trends for in-app financial services research",
+      "title_pt": "Reddit compartilha tendências chave para pesquisa de serviços financeiros no aplicativo",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY3pGUHVKLXRlWElmeFUwelNsNzN5ek1BUWN5M19UWUNmLW1OQlNHSEJxMWNISkQzOUhqdXU2LUpNcHJ3Q0RtY2c5cWhZay0tRHhsU0xmb2NEcGRYRmdhZ0R0c09SbTlPSWlxTlpXNXc0Rzc0RmJydUFxNmxPTldXVTRBM2tmUjluUzFwRGxVcmg0Q0tCVXZnODQ4S0w4d0JXc2MwRzJLU3lfNnRNNlE?oc=5",
+      "date": "2026-05-06",
+      "category": "Comportamento",
+      "summary": "Este tema destaca como consumidores usam plataformas sociais para decisões financeiras, impactando estratégias de conteúdo e mídia para agências.",
+      "key_insights": [
+        "Reddit é um canal crucial para entender o comportamento do consumidor financeiro.",
+        "Conteúdo autêntico e discussões em comunidades influenciam decisões de compra."
+      ],
+      "actionable_points": [
+        "Desenvolver estratégias de escuta social e engajamento em comunidades financeiras do Reddit."
       ],
       "relevance_score": 8,
       "image_url": null
