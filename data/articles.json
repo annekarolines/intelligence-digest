@@ -1,6 +1,114 @@
 {
-  "last_updated": "2026-05-10T10:56:14.915894+00:00",
+  "last_updated": "2026-05-11T12:36:28.333527+00:00",
   "articles": [
+    {
+      "id": "3d1af16e37738e5840c6a50d862be327",
+      "title": "Is Meta really dying?",
+      "title_pt": "A Meta está realmente morrendo?",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CSUtlN3FOODhjLVNJa3JjYjlXSGxGeFB5WGpDWTVlV2pSa25mYktMV2NEb1l1UTc3cElIVkY0ZFRESU5hUDNRQ0ZrcnZfd2h3VVU4cTFqdC1CRlRoTTFCaF9aTGwzUHZUdDRWbUhaVGRLVlNY?oc=5",
+      "date": "2026-05-11",
+      "category": "Redes Sociais",
+      "summary": "A análise da vitalidade da Meta é crucial para agências planejarem investimentos e estratégias de mídia social a longo prazo.",
+      "key_insights": [
+        "A performance da Meta influencia diretamente o ROI de campanhas e a alocação de budget dos clientes.",
+        "Avaliar a longevidade da Meta permite agências diversificarem estratégias e mitigar riscos para clientes."
+      ],
+      "actionable_points": [
+        "Monitore métricas de engajamento e performance de anúncios da Meta para ajustar estratégias."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "5d0455b8950694e2dfafac2fc865ba44",
+      "title": "Pinterest updates ad relevance",
+      "title_pt": "Pinterest atualiza a relevância de anúncios",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSU5XWENRekxjZllqR2tTZFlNVWViY195MzNqbUs1QThuTHZrU01DYi1OazRKa0FDZWlkUmRmaVd1Sk95bmlaek9tZjdUcFRoM19iZk92bFNYZ3ItT0dGdC1kOXEtczVEdUZSVmw0WkVURlNhVFBlbm1SMTdadHN2WU1R?oc=5",
+      "date": "2026-05-11",
+      "category": "Redes Sociais",
+      "summary": "Agências devem revisar e otimizar suas estratégias de anúncios no Pinterest para aproveitar a melhoria na relevância e performance.",
+      "key_insights": [
+        "Algoritmos de relevância impactam diretamente o ROI das campanhas de clientes.",
+        "Otimização contínua de criativos e segmentação é crucial para o sucesso no Pinterest."
+      ],
+      "actionable_points": [
+        "Auditar e ajustar campanhas ativas no Pinterest focando em relevância e performance."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "e664892dafc9532e5b964b8d276adb4a",
+      "title": "LinkedIn uses AI to improve feed relevance",
+      "title_pt": "LinkedIn aprimora relevância do feed com IA",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLW9QVDdGbExEZnVaR2hRd2pFZzZjRFJyOXoxVGFFeVI0NW8wTHQtTjUyc2d1bzVWLUJtbVZWRGlBZVAwbnAzUkZvUUYtOFFpaGxma3IzTEQ4WTFPOE5wcXo2Yk1QZUwweE54NmNhUS1mckxkb2ZocnZCZ00zN2FyRGdVZ3ZoZTNKc3F3MU5EN0Fidw?oc=5",
+      "date": "2026-05-11",
+      "category": "IA",
+      "summary": "Agências devem otimizar conteúdo para algoritmos de IA do LinkedIn, visando maior engajamento e visibilidade.",
+      "key_insights": [
+        "Algoritmos de IA no LinkedIn exigem adaptação contínua da estratégia de conteúdo.",
+        "A personalização do feed por IA impacta diretamente o alcance orgânico e o desempenho de anúncios."
+      ],
+      "actionable_points": [
+        "Revisar e adaptar estratégias de conteúdo para o LinkedIn, focando em relevância e engajamento."
+      ],
+      "relevance_score": 9,
+      "image_url": null
+    },
+    {
+      "id": "663cd4da313249b2de4543ac6667200c",
+      "title": "Instagram eyes long-form content on CTV",
+      "title_pt": "Instagram mira conteúdo de formato longo em TVs conectadas",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNHRfTjNCajM3b0l0T2NlanQ5Wm9scW5yTnBCUi1UWmxWNEd2d1k3RUZCQ0dUd3A0dUVFcGFsNHMwSl8zV0NvN2lMNHB0T0lpcTQ3R210UmdkMTJzNGYyNWNGOWNVUlhJZE56NEtUVXM3N2dYZVhOTWdGTmxJT2xFODhaZ05GbUNuX0kxSkFB?oc=5",
+      "date": "2026-05-11",
+      "category": "Redes Sociais",
+      "summary": "Agências devem preparar estratégias de conteúdo para o Instagram em TVs conectadas, explorando novas oportunidades de formato longo.",
+      "key_insights": [
+        "Expansão do Instagram para CTV altera consumo de conteúdo e exige novas abordagens criativas.",
+        "Novas oportunidades para storytelling imersivo e formatos de anúncio mais longos em ambiente premium."
+      ],
+      "actionable_points": [
+        "Desenvolver pilotos de conteúdo de formato longo para clientes, testando engajamento em CTV."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "25d8e0fdcd915580b04d6248670b7487",
+      "title": "LinkedIn partners with Amazon Ads",
+      "title_pt": "LinkedIn firma parceria com Amazon Ads",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQT1dpeGJWMWMtWUtGdUFYdUlVMWsyYXBJaTNQdl9oTWVvM1VEZ3pqOGM2TkhMb3ByOG5fRk43aEdXLXVWVHdUY1hELU1MbEQ0aWQ4U3Z2VnozQVdOcG5BVXkyeTBQUU80eC0yblFUUWJNNy1xdGtnLUJPNXBpRW5ZNDdrNEFfZw?oc=5",
+      "date": "2026-05-08",
+      "category": "Estratégia",
+      "summary": "Esta parceria abre novas oportunidades de segmentação e publicidade, combinando dados profissionais do LinkedIn com o ecossistema de e-commerce da Amazon.",
+      "key_insights": [
+        "Acesso a dados de audiência mais ricos para campanhas B2B e B2C.",
+        "Potencial para novas estratégias de publicidade e retargeting no funil de vendas."
+      ],
+      "actionable_points": [
+        "Avaliar novas opções de segmentação e formatos de anúncios para clientes B2B e B2C."
+      ],
+      "relevance_score": 9,
+      "image_url": null
+    },
+    {
+      "id": "578432474466eafbc687ee7c23b6c417",
+      "title": "TikTok users are motivated by affiliate links",
+      "title_pt": "Usuários do TikTok são motivados por links de afiliados",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM0FzLWxvaTBnVXhkdFdVamxVcy1QQVp5dUZILTRfVWt3NmJ0NkxiMW1qOU9tUW9LYUhmSUZnZm1uUGMxYUt6NHJUQS1OZDZoUktvZkpXdHNKOS1ueFBCR3p1YVYtR1l4ajRaOFZGS1NQQzJNQUpDcUowZGs2Q2ZSdlNqSHJ1V3M3cDlQeUl0eEQtYkZxQ3c?oc=5",
+      "date": "2026-05-08",
+      "category": "Comportamento",
+      "summary": "Agências devem explorar o marketing de afiliados no TikTok para engajar audiências e gerar conversões.",
+      "key_insights": [
+        "Marketing de afiliados é um motor de engajamento e conversão no TikTok.",
+        "Compreender a motivação comercial dos usuários impulsiona estratégias de conteúdo."
+      ],
+      "actionable_points": [
+        "Desenvolver estratégias de conteúdo com links de afiliados para clientes no TikTok."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
     {
       "id": "7341b1134569aa4cbf19a2136a9b1a10",
       "title": "Threads adds new posting options and animated mini stickers",
