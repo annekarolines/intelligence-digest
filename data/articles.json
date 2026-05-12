@@ -1,6 +1,78 @@
 {
-  "last_updated": "2026-05-11T12:36:28.333527+00:00",
+  "last_updated": "2026-05-12T11:48:12.534705+00:00",
   "articles": [
+    {
+      "id": "e549534341cb3de1e25d27a7a9fe1be0",
+      "title": "YouTube publishes brand growth playbook",
+      "title_pt": "YouTube publica manual de crescimento de marca",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeXRlQzg2dVF6N041YnF6b29rWmxuT3pqNnkteWhRWjJNZ2N1WklPQW1ENzdxdWZTajdQOWo1a2trREZLeFlpUUV2eW5PVkJreS1oZE9fTWFMWUJDT0RKTnNJTDdSbHA1UDRRVmZDaVFPaXFBbkhtLUt1Wm52cS1XX0xacjgtTnoxQm9GcWNB?oc=5",
+      "date": "2026-05-12",
+      "category": "Estratégia",
+      "summary": "Este manual oferece diretrizes essenciais para agências otimizarem estratégias de marca e conteúdo no YouTube, impulsionando o crescimento de clientes.",
+      "key_insights": [
+        "Acesso direto às melhores práticas do YouTube para maximizar o alcance e engajamento da marca.",
+        "Compreender as métricas e funcionalidades que o YouTube prioriza para o sucesso de marcas."
+      ],
+      "actionable_points": [
+        "Estudar o playbook para integrar suas estratégias nas campanhas de vídeo dos clientes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "04b7e666b4d70a6702a602fb2e8cc0a5",
+      "title": "Instagram tests captions on each post within carousels",
+      "title_pt": "Instagram testa legendas individuais em posts de carrossel",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNenFNZkJ5d05jaGVsOEt0Tm4tbktBZVNIVXRDbDJIWWc5WEV2ZHBPSDRGZnNrdXB5RnRIN1FKNERTR0Vlc1E3NG56Rms0U2lOX1ZKVlhidnNXc0t6cGxzVGhvbTM0dkdpNFpWOW94dEtoTEQ4OGRHZEJUaUlaVkxveXh0UnZneUZESUljc0R1OU1OemNiWWpUb2Q4X0ZLUTB5c2c?oc=5",
+      "date": "2026-05-11",
+      "category": "Redes Sociais",
+      "summary": "A mudança permite maior profundidade narrativa e exige novas estratégias de conteúdo para carrosséis.",
+      "key_insights": [
+        "Potencializa storytelling e informações detalhadas em carrosséis.",
+        "Exige adaptação na criação de conteúdo para aproveitar cada slide."
+      ],
+      "actionable_points": [
+        "Desenvolver formatos de conteúdo que explorem legendas individuais em carrosséis."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "dba037c5725f4495e7675e625201b4b8",
+      "title": "TikTok launches ad-free offering in U.K.",
+      "title_pt": "TikTok lança opção sem anúncios no Reino Unido",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORXJhcUJtZlYxR04zNkhOcjRNZTZwdjVoYTItNzZCZ3AzSkF4X2FCWGRjTVk0T3l5Q0UxZldpRVNGeS1rMHZHOF9ZRVVrZWxGdFAwNTFWUHBkM0xQVnBvem9vZDFpWnhVRjNibzVwZkFhcDF5Q0ZtalFxRTRQbGlYOURfY2VQdGlpblhwUg?oc=5",
+      "date": "2026-05-11",
+      "category": "Redes Sociais",
+      "summary": "A oferta sem anúncios do TikTok sinaliza mudanças na monetização e experiência do usuário, impactando diretamente as estratégias de mídia das agências.",
+      "key_insights": [
+        "Modelos de monetização de plataformas sociais estão evoluindo, exigindo adaptação das estratégias de mídia.",
+        "A experiência do usuário sem anúncios pode se tornar um diferencial competitivo, afetando o engajamento e a atenção."
+      ],
+      "actionable_points": [
+        "Avaliar o impacto em campanhas futuras e explorar novas formas de engajamento orgânico e pago."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "56dc0c7ccfa6b3a1305deb9cfc3da7b8",
+      "title": "Meta outlines the features of its AI glasses range",
+      "title_pt": "Meta detalha os recursos de sua linha de óculos com IA",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcjREdHNMMWdMdWY2dEppVG5YN3R3Y3FiZnhpX0JpQU02clNLMzlpSjh0U3cyS3JGT2ZPdnUwV1M5ZmQ1TU56Nml6Vjh6dF9OZjFrWWdyclFHdTFBMERqNWNOdV85LU1VVDNOS3U2bG1BbEh6cXdsa0dkb3MxNTFkWmloQzNXd1dTeUpNSDRsN0tCbFM0SHlVN3V6X0c?oc=5",
+      "date": "2026-05-11",
+      "category": "IA",
+      "summary": "Agências precisam monitorar óculos de IA da Meta como nova plataforma para criação de conteúdo e interação de marca.",
+      "key_insights": [
+        "Potencial para novos formatos de conteúdo imersivo e interativo.",
+        "Implicações na privacidade e coleta de dados do consumidor."
+      ],
+      "actionable_points": [
+        "Começar a explorar protótipos de campanhas para realidade aumentada e IA vestível."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
     {
       "id": "3d1af16e37738e5840c6a50d862be327",
       "title": "Is Meta really dying?",
