@@ -1,6 +1,96 @@
 {
-  "last_updated": "2026-05-13T11:57:09.692899+00:00",
+  "last_updated": "2026-05-14T11:46:37.404175+00:00",
   "articles": [
+    {
+      "id": "b5d1a5f860239749a9687136f95e8186",
+      "title": "Grok downloads fall nearly 60%",
+      "title_pt": "Downloads do Grok caem quase 60%",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRl9pdXVRY0U4Rm15RFhFNkctSy14QXhacG5rbFplWC1MSHdiUFNMZnpPTDlKenVJWEpfLU9lMHhCbmZQTUNwLXFtWGdnRlFuMzVseVBacEEySlhCXzhuT1ExMVFWaXBiUWt0aUlrWDhRTlAtMnlncHNlT0VXOXdUVA?oc=5",
+      "date": "2026-05-13",
+      "category": "IA",
+      "summary": "A queda do Grok sinaliza a necessidade de agências avaliarem criticamente a adoção e o valor real de novas ferramentas de IA.",
+      "key_insights": [
+        "Adoção de IA é volátil; o hype não garante sucesso de mercado.",
+        "Agências devem focar na utilidade e valor real de ferramentas de IA, não apenas na novidade."
+      ],
+      "actionable_points": [
+        "Implemente um processo de validação de novas IAs antes da integração em estratégias de clientes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "016fc284b86aeef66ef20c5155ae7734",
+      "title": "Major ad tool announcements from TikTok World 2026",
+      "title_pt": "Principais anúncios de ferramentas de publicidade no TikTok World 2026",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaXJOSjBuMnNvYnIwaC0wWWh4WmhLd1VNa3RzNjhBOW12UzlKcGo5SHQwVUsyTXhqeXFUdzZTbVpYNHZHd0pERy1qUmFHR21femxEdGU2aWphajdGYmhua0hpVVBXWXFMQnhjNGVJR0pfNlF6R1RlQTNmc2tGYTk3djVQT3gtZjA3TjZnMTBxbGpKY3hkSU1HR1pnaWo?oc=5",
+      "date": "2026-05-13",
+      "category": "Redes Sociais",
+      "summary": "Agências devem estar atentas às novas ferramentas do TikTok para otimizar campanhas e manter a competitividade no cenário de mídia paga.",
+      "key_insights": [
+        "Novas ferramentas impactam diretamente estratégias de mídia paga e criativos no TikTok.",
+        "Adoção rápida de inovações do TikTok é crucial para agências se destacarem."
+      ],
+      "actionable_points": [
+        "Capacitar equipes sobre as novas funcionalidades do TikTok Ads para aplicação imediata."
+      ],
+      "relevance_score": 9,
+      "image_url": null
+    },
+    {
+      "id": "c12f2ba80a309153b8037aa08f551fc6",
+      "title": "LinkedIn will enable consultants to book business direct from their profile",
+      "title_pt": "LinkedIn permitirá que consultores agendem negócios diretamente de seus perfis",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPelBYYWV4dFN3MjcwaGc0WWtsSDV2Wm44dXQ2aEY4OWFlQ284S1JPajkwSkE1LWxXNlV6aTI2d08ySHV6am1WWFBaQnNHc09HcUI3bG12VFBnNXpEZklrX3poTFY1dmliM2UwQlk4eTc4Q0xYQXFValY4cU1VSTdBYnVQWWhvWk9ZT3dsZEswUEk1bUdPSE1Ca1U4Szg1WG9zYzJoT0xSQ3R5akVTSGR0d0dDeFZOWV9BcDdfYWp3?oc=5",
+      "date": "2026-05-13",
+      "category": "Redes Sociais",
+      "summary": "Agências devem considerar como esta funcionalidade impacta a prospecção e oferta de serviços de seus clientes consultores.",
+      "key_insights": [
+        "Otimização da jornada do cliente: do perfil à contratação direta.",
+        "Potencial para novas estratégias de monetização e prospecção em plataformas sociais."
+      ],
+      "actionable_points": [
+        "Desenvolver estratégias para clientes consultores aproveitarem a reserva direta no LinkedIn."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "20d365efc16907066fcfd79ed1636065",
+      "title": "TikTok launches counterfeit goods detection initiative",
+      "title_pt": "TikTok lança iniciativa de detecção de produtos falsificados",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMUV2dml5TjlVNDcwU3hwRUxIaFJRZFFabkZfVE5Gb0o2T0k1d3p2OVRQZVkwZHFlazRrbFoxbFBDMGV5WURZbjlCbURZWkRkd0ljNUFha0wyWVY1emgySzA2c2hRQUZBQmZUQ3FGXzVYQngxV0Z3am5oUmR1VjkzSUlWemptSTRuZ0hOZk9URlVPOFVFdl90aUNiUEdmWGtKMEE?oc=5",
+      "date": "2026-05-13",
+      "category": "Redes Sociais",
+      "summary": "Agências devem orientar clientes sobre a segurança da marca no TikTok, garantindo autenticidade e protegendo a reputação em campanhas.",
+      "key_insights": [
+        "Aumento da segurança da marca e proteção da reputação para clientes no TikTok.",
+        "Melhora na integridade do ambiente de publicidade, beneficiando anunciantes legítimos."
+      ],
+      "actionable_points": [
+        "Orientar clientes sobre novas políticas de autenticidade do TikTok e revisar estratégias de marca."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "f58606537f2dcf789223cde10d9117b9",
+      "title": "TikTok expands TikTok Go in the US",
+      "title_pt": "TikTok expande o TikTok Go nos EUA",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWXZHYU1YVVl0VWpoTXNUdVdURXhzekdtXzRMbXBoUlN6Q0ZqeTFKakttMlVoeE9Ha1F0UTRBaWRXb0Jrb3k1aFpTNHJtdmhxUzlCWjlHbmI2Sm1wNHR3S2hKRVdxbjNycHI0cFFjbUg1YlRFSWc1N1NEQkpxajRIZ1d4TEQ3RGc?oc=5",
+      "date": "2026-05-12",
+      "category": "Redes Sociais",
+      "summary": "A expansão do TikTok Go nos EUA indica novas oportunidades de alcance e formatos para campanhas de agências.",
+      "key_insights": [
+        "Explorar novos formatos e públicos-alvo que o TikTok Go pode atrair.",
+        "Avaliar o impacto na estratégia de conteúdo e mídia para clientes no TikTok."
+      ],
+      "actionable_points": [
+        "Pesquisar funcionalidades do TikTok Go e testar campanhas piloto para clientes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
     {
       "id": "e549534341cb3de1e25d27a7a9fe1be0",
       "title": "YouTube publishes brand growth playbook",
