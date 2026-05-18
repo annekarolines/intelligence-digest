@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-05-17T10:59:09.413081+00:00",
+  "last_updated": "2026-05-18T13:39:02.177107+00:00",
   "articles": [
+    {
+      "id": "dc899dca5488ad80569f53d2cd4d52f1",
+      "title": "Social media drives consumer discover, per Meta",
+      "title_pt": "Mídias sociais impulsionam a descoberta do consumidor, segundo a Meta",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOX0xQWWJLWEhidy1XbXl0NzMtZ0hXYmYwc3ZYT0VJUlNuaTFfVVhaMF92dTlFOXVpR2hNSGw1RjhtNkJfUnA0b0lGRjN2RFZPRHlhQmxvQ1h1enVIbkt2dEFVblBmWjNXYS1QdGszSzZiM1RRNms3YmlSbWtRbWlFOG5NU19aUmc0X3FwVHFjc2xqc0R4SHdn?oc=5",
+      "date": "2026-05-17",
+      "category": "Redes Sociais",
+      "summary": "Agências devem otimizar estratégias de conteúdo e mídia paga nas redes sociais para capturar a atenção do consumidor em sua jornada de descoberta.",
+      "key_insights": [
+        "O papel das redes sociais na jornada de compra inicial é crucial.",
+        "Meta reforça a importância de sua plataforma para a descoberta de produtos e marcas."
+      ],
+      "actionable_points": [
+        "Desenvolver campanhas que priorizem a fase de descoberta do cliente nas plataformas da Meta."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "7eab05655825d6d1711d803a579c49db",
+      "title": "YouTube expands likeness detection to all users over 18",
+      "title_pt": "YouTube expande detecção de semelhança para todos os usuários maiores de 18 anos",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV2Z4SGpEUnBpUXFoSTBod08yNTM0QURjM0d3LTctb240M1pzRXZaQTEwYUxhNWEtX0NQSDRXNGdnd2tmTzFaV1prSjRxMjRwaUx1dHJRM19EU3ZILURpTTFYdzRNTGgyOVVUa2xpa2p5a1dVakxNSEdYX3laVEViM1ZtRzh2OThCclRJSEtGbHQ5UmxDVjFpNlRjZUF6ZkoyUzI0?oc=5",
+      "date": "2026-05-17",
+      "category": "Redes Sociais",
+      "summary": "Agências precisam adaptar estratégias de conteúdo e gestão de imagem no YouTube devido à expansão da detecção de semelhança.",
+      "key_insights": [
+        "Impacta a criação de conteúdo, exigindo atenção à representação e uso de imagens em vídeos.",
+        "Aumenta a necessidade de gerenciar consentimentos e direitos de imagem para evitar problemas legais."
+      ],
+      "actionable_points": [
+        "Atualizar guidelines para criadores e equipes sobre o uso de IA e imagens no YouTube."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
     {
       "id": "bc273fe5675c513b0a205b1116db8cb9",
       "title": "Meta reveals latest round of Edits improvements",
@@ -213,6 +249,24 @@
       ],
       "actionable_points": [
         "Estudar o playbook para integrar suas estratégias nas campanhas de vídeo dos clientes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "53a01c6dc7cbb14f3c93a4b0cfc557ad",
+      "title": "YouTube is testing clear screen viewing for Shorts",
+      "title_pt": "YouTube está testando visualização em tela limpa para Shorts",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMEt2eXdWaTNnLWlaVXJ3WkJmTC1hSksyNmcwZGU0NXFDaXYtbW1XeTI1RTBRZzU3d1BCei0wN1ZBM3U1VU5jeG9iVURTbTF3XzdMTjNvUG1Da3NsNFpKRm9vRGN3QkNiU3N1V3IxR3lnNWpuaDNINVVORUFxRU5YcDJ2amdUVkkybFBlM01MSVRRRmhuMXI2RHRCRGE?oc=5",
+      "date": "2026-05-11",
+      "category": "Redes Sociais",
+      "summary": "Agências devem focar na qualidade e impacto visual dos Shorts, pois a tela limpa amplifica a experiência do conteúdo.",
+      "key_insights": [
+        "Foco total no conteúdo: menos elementos visuais externos aumentam a imersão do usuário.",
+        "Qualidade visual e narrativa dos Shorts se tornam ainda mais cruciais para reter a atenção."
+      ],
+      "actionable_points": [
+        "Otimizar a produção de Shorts para storytelling direto e impacto visual imediato."
       ],
       "relevance_score": 8,
       "image_url": null
@@ -4149,25 +4203,6 @@
       ],
       "actionable_points": [
         "Revisar e adaptar fluxos de atendimento e campanhas que dependiam do Messenger web."
-      ],
-      "relevance_score": 8
-    },
-    {
-      "id": "636dbd7fa8a226f5b41f45c129b44b3e",
-      "title": "LinkedIn Outlines Measures To Combat Engagement Pods",
-      "title_pt": "LinkedIn Detalha Medidas Para Combater Pods de Engajamento",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSmJjYV9LMnl4TXJnU3hWODBGaW02ME5CeUR5TTR1d2h3Uko3dDloSnpuaHlDVzI5UThNdzZhMGhHSXF3M0ZwN1JWM0dkVU1oSjlBQUtTWDFrbEw3OHdhZFRiMjJnekJISnB2em1OaUJZWnJoYmJFb29UaWdhbGpUZWtYam1LNzBtMjI2RTNRY1l6amp4RHBneE5QSzFWelJCOU1TNk9n?oc=5",
-      "date": "2026-02-16",
-      "category": "Redes Sociais",
-      "summary": "A iniciativa do LinkedIn para combater pods de engajamento sinaliza uma priorização da autenticidade e do engajamento orgânico na plataforma. Para agências, isso significa a necessidade de reavaliar estratégias de conteúdo e promoção, focando em valor real e construção de comunidades genuínas. É crucial para garantir a credibilidade dos resultados e a sustentabilidade das campanhas dos clientes.",
-      "key_insights": [
-        "Aumento da prioridade do engajamento orgânico e autêntico pelo LinkedIn, impactando o alcance de conteúdo.",
-        "Risco de penalidades e redução de visibilidade para perfis e páginas que utilizam ou se beneficiam de pods de engajamento.",
-        "Necessidade de reavaliar e ajustar estratégias de conteúdo para focar em valor, relevância e construção de comunidade genuína."
-      ],
-      "actionable_points": [
-        "Educar clientes sobre os riscos e as novas diretrizes do LinkedIn, enfatizando a importância do engajamento genuíno e ético.",
-        "Auditar e otimizar as estratégias de conteúdo e distribuição no LinkedIn para garantir que promovam interações autênticas e de alto valor, alinhadas às políticas da plataforma."
       ],
       "relevance_score": 8
     }
