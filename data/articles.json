@@ -1,6 +1,78 @@
 {
-  "last_updated": "2026-05-18T13:39:02.177107+00:00",
+  "last_updated": "2026-05-19T12:35:42.036105+00:00",
   "articles": [
+    {
+      "id": "9cc11012f0e8a3b7a2f19d85f5dccac3",
+      "title": "Meta adds new creator publishing tools",
+      "title_pt": "Meta adiciona novas ferramentas de publicação para criadores",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZzRsRF9xYzRhcmZ0QlRRUUtjMnkzczVETjRTX21TckdEZ0lUZWxwRUJTZlB1V1FGRXd6amtNeXI5M0V1UjZYWjhIcnlYam9GQVc5N1luaEpoQkFfMkw0cWxFcTNFVG5QVWF1bmR1a1EtdVlvZDByWG5YQVB4bXUzYmFiWGtjQ2dKTHR0WA?oc=5",
+      "date": "2026-05-18",
+      "category": "Redes Sociais",
+      "summary": "Agências devem explorar estas ferramentas para otimizar estratégias de conteúdo e monetização para seus clientes criadores.",
+      "key_insights": [
+        "Novas ferramentas exigem adaptação das estratégias de conteúdo e formatos.",
+        "Potencializa parcerias com criadores e estratégias de monetização para marcas."
+      ],
+      "actionable_points": [
+        "Capacitar equipes para dominar as novas funcionalidades e aplicá-las em campanhas."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "dcc9c5f3fe5ac2067c7d3993c4a41b63",
+      "title": "Meta expands advanced ad placement controls to Threads",
+      "title_pt": "Meta amplia controles avançados de posicionamento de anúncios no Threads",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcGJYVkQwU0c0clFTSjc5OGpSeFotYUpVT3NKTGs1akdXM1pGUWZGQzM0TV9QWVNPUng5eHpvR0Fvb1NHNG1MRzdoUG5pTGRHRHpPT1BoOEhyaXU3OFA5NEM4QThnVHhnTHBwQ00wR2lpZHJkMFdpMWtnOTNmWm5XdlJrZDRxQVVjLXU3UndKeE44eDc3Y3psd2lIRUF2MmhoZWc?oc=5",
+      "date": "2026-05-18",
+      "category": "Redes Sociais",
+      "summary": "Agências devem explorar os novos controles de anúncios do Threads para otimizar campanhas e performance dos clientes.",
+      "key_insights": [
+        "Threads se consolida como plataforma de anúncios, exigindo atenção estratégica.",
+        "Novos controles permitem maior precisão na segmentação e otimização de campanhas."
+      ],
+      "actionable_points": [
+        "Capacitar equipes para testar e aplicar os novos controles de anúncios no Threads."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "4f7986630383280aa76af8670ddc7ff7",
+      "title": "Social media drives consumer discovery, per Meta",
+      "title_pt": "Mídias sociais impulsionam a descoberta do consumidor, segundo a Meta",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbVZyY25Ha1U4Y2xLVUhoVG9NUGtCSVFoallKV0lqSnU3a0t3RDhlTjJneE1iYmJtdExsWmxoeE1vcUF1VE5YVE5JZjFoVkljTHRWMnp0bEtpMVR0ekFJZ08zd3otZTVZdkhkdTdOeEc4a2pwLUpLVTNlbUFYaFdKWE1jT0kzV192Zk1Obkg4a0tXc3FrSU1zNA?oc=5",
+      "date": "2026-05-17",
+      "category": "Redes Sociais",
+      "summary": "Agências devem priorizar as redes sociais como canal primário para a descoberta de marcas e produtos pelos consumidores de seus clientes.",
+      "key_insights": [
+        "Redes sociais são o principal ponto de contato para novos consumidores encontrarem marcas.",
+        "A presença estratégica e otimizada nas plataformas é crucial para o topo do funil de vendas."
+      ],
+      "actionable_points": [
+        "Desenvolver estratégias de conteúdo e mídia focadas na visibilidade e descoberta em plataformas Meta."
+      ],
+      "relevance_score": 9,
+      "image_url": null
+    },
+    {
+      "id": "cdde6b5bf0ebbfc028f07381de49f24a",
+      "title": "YouTube adds chapters and title cards for CTV viewers",
+      "title_pt": "YouTube adiciona capítulos e cartões de título para espectadores de CTV",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLXA3TU1KcTBHMnhCOFlTcUFVcVdsVDNaQWwyN2NjOFdyTTVBUkdabnNRd3h3b3NHenZVaGY3RTE2VE5lQ2RpTXp3bDB4MC1UaEx4ckw0Ym5oR1NQT3JLdTRfYVhLVjJEdW9uSno0eTFfemMta0lTME55Z1ZlQzBBdjRJNG82dmJ1ak9NRV9GcXQzc3lFV0FoUGJLNWxwcGxl?oc=5",
+      "date": "2026-05-17",
+      "category": "Redes Sociais",
+      "summary": "Agências devem adaptar estratégias de conteúdo para YouTube em CTV, aproveitando novos recursos de navegação e engajamento.",
+      "key_insights": [
+        "CTV é um canal crescente para consumo de vídeo, exigindo formatos adaptados.",
+        "Capítulos e cartões melhoram a experiência do usuário e a retenção em vídeos longos."
+      ],
+      "actionable_points": [
+        "Revisar a produção de conteúdo para YouTube, incorporando capítulos e títulos para CTV."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
     {
       "id": "dc899dca5488ad80569f53d2cd4d52f1",
       "title": "Social media drives consumer discover, per Meta",
