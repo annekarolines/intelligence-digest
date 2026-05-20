@@ -1,6 +1,78 @@
 {
-  "last_updated": "2026-05-19T12:35:42.036105+00:00",
+  "last_updated": "2026-05-20T12:16:49.803916+00:00",
   "articles": [
+    {
+      "id": "4a576e0f76f4ba121537e83490f9114a",
+      "title": "Meta reassigns workers to AI projects, cuts 8K staff",
+      "title_pt": "Meta realoca funcionários para projetos de IA e corta 8 mil vagas",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQXBkT21vWHZ3NXVMaDkzT2RGSTVlS3d6NDNreWhWdC1nbHFWdmQzQWZzekJZbVhmMW9XLTZEODhVemtiSk9JZGxGaWlKcWJBV3BkY2F0dURoLTAwbnQyUWcwVGw2UnRjUEpYbURrM1hFVjM4UU1SVFp4dWtzU1RNNkFNa2ljWk1zeWt5OXVJU2IwMFJGc0cyYmVhbENwUQ?oc=5",
+      "date": "2026-05-19",
+      "category": "IA",
+      "summary": "Agências devem se preparar para a crescente integração de IA nas plataformas da Meta, impactando estratégias de conteúdo e publicidade.",
+      "key_insights": [
+        "Meta prioriza IA, indicando o futuro das plataformas e ferramentas de marketing digital.",
+        "A IA será central nas funcionalidades e algoritmos das redes sociais da Meta, exigindo adaptação estratégica."
+      ],
+      "actionable_points": [
+        "Investir na capacitação de equipes em IA aplicada a marketing e publicidade para plataformas Meta."
+      ],
+      "relevance_score": 10,
+      "image_url": null
+    },
+    {
+      "id": "508992d4a86dff67de78e86221900f12",
+      "title": "Google announces AI-powered advances at I/O 2026",
+      "title_pt": "Google anuncia avanços impulsionados por IA no I/O 2026",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbWlLam83QnFMQ2FkdTlsUE9qZEZVa0N0WXFnbkxyaHFRWTdIdUd2cnY5cHlpSXV2LW8zaFcyc2l3Zzd0U041dTRfSGl1VzZ4blB5elJtNW5VTzZKU2IwODAxN3VQX2VMb2hFWDgxb3VneEhyeENRN2s2OXN5NFNrbXhHcTVEWFhXWU1wenBseEVnUkVNaG9QVg?oc=5",
+      "date": "2026-05-19",
+      "category": "IA",
+      "summary": "Os avanços de IA do Google no I/O 2026 moldarão as ferramentas de marketing e publicidade digital.",
+      "key_insights": [
+        "Impacto direto na busca, anúncios e ferramentas de produtividade do Google.",
+        "Exige adaptação rápida das agências em estratégias e criação de conteúdo."
+      ],
+      "actionable_points": [
+        "Capacitar equipes para explorar e integrar novas ferramentas de IA do Google em campanhas."
+      ],
+      "relevance_score": 9,
+      "image_url": null
+    },
+    {
+      "id": "fc2808c7d38a300539f238043cad82bd",
+      "title": "X announces creator-driven ad partnership",
+      "title_pt": "X anuncia parceria de anúncios impulsionada por criadores",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNU2JiLVpUc25rV0JjdkctSTBBejVwaGpTQ1ZmajBEOG1HdUc0X0ZuVm5rT01ORm9YcEczQ1hnQXkyUGc5U01VYUpEeVZTaU5XLXBUcmpxMHc3MlRRQnBKVjBId2V2ZExQWjE3N0pZNlh3MUZ3cTM2QnQwY2swMnljNmhKbjBSbUlLWjJIMXJLYS0?oc=5",
+      "date": "2026-05-18",
+      "category": "Redes Sociais",
+      "summary": "Agências devem integrar criadores nas estratégias de anúncios para maximizar o alcance e engajamento no X.",
+      "key_insights": [
+        "Monetização via criadores é chave para plataformas e marcas.",
+        "Parcerias com criadores amplificam autenticidade e performance de campanhas."
+      ],
+      "actionable_points": [
+        "Desenvolver programas de parceria com criadores para clientes no X."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "aa8914019c98a56b06057e0e04e342b7",
+      "title": "Pinterest wants brands to start thinking about Christmas",
+      "title_pt": "Pinterest incentiva marcas a planejar o Natal",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWGxxbUJGWTZfWDBIWjRYM1ZGb1dkM2VpakxtRHpjMWVaa2JIa0hQcWFxWUN5ZXNoNWx3MndGNkt3NFhvQmxCZEw5TlVrcXJ0clZuaFlvc3JYY01VMlcyRWZSN1k2YmNLOFNKc3MwTml1d3ptZFpoZ3d6VDZnM3AyQk1pX1hESkNlNGM1WWVJRmVpUUVad1N5LUVtdXhnSFoxZzZPUA?oc=5",
+      "date": "2026-05-18",
+      "category": "Redes Sociais",
+      "summary": "Agências devem antecipar o planejamento de campanhas de fim de ano para clientes, alinhando-se às diretrizes do Pinterest.",
+      "key_insights": [
+        "Pinterest está ditando o ritmo do planejamento sazonal para marcas.",
+        "O consumo de conteúdo natalino e busca por ideias começa meses antes."
+      ],
+      "actionable_points": [
+        "Inicie o planejamento de campanhas de Natal para clientes no segundo trimestre."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
     {
       "id": "9cc11012f0e8a3b7a2f19d85f5dccac3",
       "title": "Meta adds new creator publishing tools",
@@ -4240,41 +4312,6 @@
       ],
       "actionable_points": [
         "Desenvolver estratégias de conteúdo integradas para Threads e Instagram."
-      ],
-      "relevance_score": 8
-    },
-    {
-      "id": "0dbc485d10847230a09f4f7e5d52ef2e",
-      "title": "Reddit Shares Insight Into Rising World Cup Discussion",
-      "title_pt": "Reddit Compartilha Insights Sobre o Crescimento da Discussão da Copa do Mundo",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVERPcThWUzQycHluTDdQUGpiOW5lRDJUenBaenZ3Uml0anFqWVJFRHZQQkg0TXNBZlEzNkRlTFZuSHVaMVlIanA1VXVUMnI3NUF3V3lnY2psT2pRd2szbXRodjJqcU0tNDhwQUsxNTUwNU1JS2xtVFdsTU5WNG5TT2pBZlJOUjljMEdZQk40cVhucEU2X25aOEY4R3lTakY0T2c?oc=5",
-      "date": "2026-02-18",
-      "category": "Redes Sociais",
-      "summary": "Agências devem monitorar plataformas como o Reddit para captar tendências e sentimentos do consumidor em eventos globais.",
-      "key_insights": [
-        "Reddit é um hub para discussões autênticas e nichadas sobre eventos de grande escala.",
-        "O engajamento em eventos como a Copa revela oportunidades de conteúdo e segmentação de audiência."
-      ],
-      "actionable_points": [
-        "Incluir Reddit na estratégia de escuta social para campanhas de eventos e nichos específicos."
-      ],
-      "relevance_score": 8,
-      "image_url": null
-    },
-    {
-      "id": "7207df40a87722668058b2440681a622",
-      "title": "Meta Is Shutting Down Its Messenger Website",
-      "title_pt": "Meta Encerra o Site do Messenger",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcGlwLWVFRWlUUXdadG9jVnFiQWdfZnJSdGZvRkM4WHBta1dZWEtEYUFScU5KRjI1UUdNSU56Wml5dWMzWVBaWE1kaEJ3LURDV1JfdDNZRlpWb2RzVW11dmFCMXlkTXVZN3dScUxGaFFzUjF4SWU3bmFGR0lwZ0NoaUMxY2JZMEZvdWd4cFBVRW4?oc=5",
-      "date": "2026-02-18",
-      "category": "Redes Sociais",
-      "summary": "Agências devem ajustar estratégias de comunicação e atendimento ao cliente, considerando a centralização do Messenger em aplicativos móveis.",
-      "key_insights": [
-        "Meta prioriza experiência mobile, exigindo que agências otimizem interações via app.",
-        "Redirecionamento de tráfego e comunicação para o aplicativo principal do Messenger."
-      ],
-      "actionable_points": [
-        "Revisar e adaptar fluxos de atendimento e campanhas que dependiam do Messenger web."
       ],
       "relevance_score": 8
     }
