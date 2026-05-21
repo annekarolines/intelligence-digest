@@ -1,6 +1,60 @@
 {
-  "last_updated": "2026-05-20T12:16:49.803916+00:00",
+  "last_updated": "2026-05-21T12:40:13.300717+00:00",
   "articles": [
+    {
+      "id": "39dacfee7bf04ba8eda8b52d7dd253d5",
+      "title": "YouTube adds new AI remix feature to Shorts",
+      "title_pt": "YouTube incorpora novo recurso de remix com IA nos Shorts",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSXBDZUpfVWE5cHVFLUpHd19LZWxSdnhEaHpfNEJqODU2OUtlbFVtUzVpWk1rZldPLThvT1phdUV5OXQxWjBzQTJkT3pkUE54VnZvWnRRYV96Tk9ObTlKM09jczBKWEFDd0lDX3NubVE5NDFvcW1xajZPLUNBdmh6ekJ0SVJWTU5ZQjhaMW9vQTY3Q1k?oc=5",
+      "date": "2026-05-21",
+      "category": "IA",
+      "summary": "Agências devem explorar novas ferramentas de IA para otimizar a criação de conteúdo e engajamento nos Shorts do YouTube.",
+      "key_insights": [
+        "IA redefine a criação de conteúdo em plataformas de vídeo curto.",
+        "Novas oportunidades criativas para campanhas em Shorts."
+      ],
+      "actionable_points": [
+        "Capacitar equipes criativas no uso de IA para produção de Shorts."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "43c82868cd96f8da1cb79ac06bb91fae",
+      "title": "X implements new posting restrictions on nonpaying users",
+      "title_pt": "X implementa novas restrições de postagem para usuários não pagantes",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN3NKcmY0NkFab2haRWU3LWowV2N6QzZhb1duRUVJSUN4c2xQQ0IzZnRSQi1JQzRma1VsdUdERmFqdzFVYU9qZVNQV2VRaklnV3kwOWJaRHJZekQxQkJFUVV2dFZsZG1KZ1pvcnEzMmRXMzlKdFRQSHRBZHFrWEl1N2pXNUIwUTU5a0xlMGtYcmRRRlhONTh0NW5CTnU5SzBZdkZDbA?oc=5",
+      "date": "2026-05-19",
+      "category": "Redes Sociais",
+      "summary": "Agências devem reavaliar estratégias de conteúdo e engajamento no X, considerando o impacto nas contas não pagantes.",
+      "key_insights": [
+        "Redução do alcance orgânico para usuários não pagantes no X.",
+        "Incentivo à monetização e uso de mídia paga na plataforma."
+      ],
+      "actionable_points": [
+        "Avaliar impacto nas campanhas atuais e ajustar estratégias de conteúdo para X."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "393802dbe6863f77306b0176b430d3a8",
+      "title": "X launches display of active followers to contextualize performance data",
+      "title_pt": "X lança exibição de seguidores ativos para contextualizar dados de performance",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbC1fdk5VU0R6S19TS2hwbFNwQmowYUlsWTcxWDZhNkFNVUpFUGwyaGp1U1BBcG9xYmtpM2J0SlJpWG9YblE2a1NuczV2MGc3czBUUU1QcUFLWDRqVDY4eTZFTEdJYkpZaXBVaUwzbHNaUjM4a2VlVTlwSGxmTUd5YkNZTENXcW4zWE1QLWNXc05QbmgzUTVCLTlvMnFVbEJhRThNYlNrMHdHVHRqNU9Udk9vV1podkZ6bHc?oc=5",
+      "date": "2026-05-19",
+      "category": "Redes Sociais",
+      "summary": "Agências poderão analisar melhor o engajamento real e a performance de campanhas no X com base em dados de seguidores ativos.",
+      "key_insights": [
+        "Qualidade da audiência no X será mais transparente.",
+        "Otimização de campanhas no X com dados de engajamento real."
+      ],
+      "actionable_points": [
+        "Integrar dados de seguidores ativos na análise e relatórios de performance do X."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
     {
       "id": "4a576e0f76f4ba121537e83490f9114a",
       "title": "Meta reassigns workers to AI projects, cuts 8K staff",
@@ -35,6 +89,24 @@
         "Capacitar equipes para explorar e integrar novas ferramentas de IA do Google em campanhas."
       ],
       "relevance_score": 9,
+      "image_url": null
+    },
+    {
+      "id": "c1dd14cdbef50ada5cd8cdc612391ee9",
+      "title": "LinkedIn adds AI-powered job outreach",
+      "title_pt": "LinkedIn adiciona recurso de prospecção de vagas impulsionado por IA",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOclFPcFZKcWlsUE92WUdrLTlKUXVjNVMtelpTdHAwWTZyS3hTSWlOTzZPbEh3Y3BvZUFUOXdpcVdBWFVaN0Q4SEk0RzdUTG9mTTFnWXRRdHJvX1NvQUtCODA5S3BGVzFDWmJ5aG94VUhkRTBUbHZfRTA2eVE5TUFjUTFvSEhKUWJOU2RF?oc=5",
+      "date": "2026-05-18",
+      "category": "IA",
+      "summary": "A integração de IA no LinkedIn otimiza a prospecção de talentos e o employer branding para agências.",
+      "key_insights": [
+        "Otimiza a busca e contato com talentos, reduzindo tempo e custo de recrutamento.",
+        "Altera estratégias de employer branding, exigindo conteúdo mais personalizado e relevante."
+      ],
+      "actionable_points": [
+        "Avaliar o uso da IA do LinkedIn para otimizar campanhas de recrutamento e employer branding de clientes."
+      ],
+      "relevance_score": 8,
       "image_url": null
     },
     {
