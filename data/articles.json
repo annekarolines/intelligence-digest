@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-05-21T12:40:13.300717+00:00",
+  "last_updated": "2026-05-22T12:13:26.187718+00:00",
   "articles": [
+    {
+      "id": "a1d8ab57da59daa51cb7db475015e24f",
+      "title": "X tells App Store users it’s “better than Threads”",
+      "title_pt": "X diz aos usuários da App Store que é 'melhor que o Threads'",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWi1sci05dHllc0Q3QVhEQlg3X3RPcWxoWjJxQ3BLSW9PemE0M05ramVnVkJRMUFRYVBoQ0VSZ2I1bVJnR0dlcWJLMVA0SE9ybV9vVmJDN201cFBjMF9QeV8tWHplN0JVeDVfampJN1Q1SWkwMmxXYm1fQ0YzOFlPdlZEczVCSzU0YVFfQ2Fid0lEZmZqVWJNZg?oc=5",
+      "date": "2026-05-21",
+      "category": "Redes Sociais",
+      "summary": "Indica a intensa competição entre plataformas sociais por usuários, exigindo que agências monitorem posicionamento e diferenciação.",
+      "key_insights": [
+        "Plataformas buscam diferenciação e liderança no mercado de atenção digital.",
+        "A rivalidade entre X e Threads impacta estratégias de conteúdo e investimento em mídia."
+      ],
+      "actionable_points": [
+        "Agências devem analisar o posicionamento de cada plataforma para otimizar campanhas e alocação de budget."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
     {
       "id": "39dacfee7bf04ba8eda8b52d7dd253d5",
       "title": "YouTube adds new AI remix feature to Shorts",
