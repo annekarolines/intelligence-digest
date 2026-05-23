@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-05-22T12:13:26.187718+00:00",
+  "last_updated": "2026-05-23T11:05:05.745372+00:00",
   "articles": [
+    {
+      "id": "0f79a6385d2482bb79a4c5993e07e95b",
+      "title": "Report looks at how LinkedIn is dominating B2B queries in AI chatbots",
+      "title_pt": "Relatório analisa como o LinkedIn está dominando consultas B2B em chatbots de IA",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc04wUm5jR0JiR0Y1ZC1ScERzSFpEQTh5LUJQV01SMTdpR0NDNVlyWm9EY19ZdTZPUUVnT2hKR0hrZG0yeGdRamd4OTFKcjVrWHB0Y3FiYUx2MGhXZFNfUnZwUkZBX09WaUg3STVmWXdlSUMyWFpYTHZZYjBaeEtFbmltajZkdjRJMExXTGM3LURDM1ZoQnoxSFh6SDlQUFNXWUFYQkRCMHJqWDhuNWpYUnNPVktVdw?oc=5",
+      "date": "2026-05-22",
+      "category": "IA",
+      "summary": "Agências devem otimizar a presença B2B no LinkedIn, pois seu conteúdo é crucial para respostas de IA em chatbots.",
+      "key_insights": [
+        "Conteúdo B2B do LinkedIn é fonte primária para respostas de IA em chatbots.",
+        "Chatbots de IA se consolidam como canais essenciais de informação B2B."
+      ],
+      "actionable_points": [
+        "Otimizar conteúdo B2B no LinkedIn para ser detectável e relevante por chatbots de IA."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "3d27267de765aa167273604fd36d4cbc",
+      "title": "LinkedIn wants to limit the reach of AI-generated content",
+      "title_pt": "LinkedIn quer limitar o alcance de conteúdo gerado por IA",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYnM0ajF6czR0S1Y5aW91M3BMb3RHcjA4aE5IaVhyRXNsRktRZHBJWEFLLWRrVjdEbDRqdVVKZVFvV1ZTaGpvLTJHc25aQzgtVXZrQ2RIWko1V3VPbFZaZl82X3ZoMFlITFpLaTVIMlVQM0RpU0s3QWREcFJ3dGVJMVRDemNFQU11Nl9LeDNab2FDZGcxY1VjY3A5Y1ItSkEtakhSbGp3?oc=5",
+      "date": "2026-05-21",
+      "category": "Redes Sociais",
+      "summary": "Agências devem revisar suas estratégias de conteúdo para LinkedIn, priorizando a autenticidade humana em detrimento de conteúdo gerado por IA para manter o alcance.",
+      "key_insights": [
+        "Plataformas buscam autenticidade; IA exige uso estratégico e ético para evitar penalidades.",
+        "Conteúdo gerado por IA pode ter alcance penalizado, impactando diretamente estratégias de visibilidade."
+      ],
+      "actionable_points": [
+        "Revisar diretrizes de IA para criação de conteúdo em LinkedIn, focando em valor e autenticidade humana."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
     {
       "id": "a1d8ab57da59daa51cb7db475015e24f",
       "title": "X tells App Store users it’s “better than Threads”",
