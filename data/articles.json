@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T11:05:05.745372+00:00",
+  "last_updated": "2026-05-24T11:09:37.835635+00:00",
   "articles": [
     {
       "id": "0f79a6385d2482bb79a4c5993e07e95b",
@@ -15,6 +15,42 @@
       ],
       "actionable_points": [
         "Otimizar conteúdo B2B no LinkedIn para ser detectável e relevante por chatbots de IA."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "bc86f59f932aec432b2b54db7470ff33",
+      "title": "Google unveils AI-powered ad updates at I/O 2026",
+      "title_pt": "Google apresenta novidades em anúncios com IA no I/O 2026",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMEZGdE90NENHNUpueEtackEwbzlKN3NSNWZEa0lEdl8yY1RQMFpRRkZmWUpzNUpkbEVzU0JBaXdxSXNtMXlSbmI3WVpPR21LaXZabHZqNU1JUkZ5NGd0bTlUcThDdkZ6Qldjd0hObDl1cDNPRmdGMW9SZWxnODJ1d3FnRjg0YU9BclQwOUJQTzJqaEljN0I3YQ?oc=5",
+      "date": "2026-05-21",
+      "category": "IA",
+      "summary": "Agências precisarão dominar as novas ferramentas de IA do Google para otimizar campanhas e resultados de clientes.",
+      "key_insights": [
+        "Avanços da IA do Google redefinem estratégias de mídia paga e performance.",
+        "Agências devem capacitar equipes para explorar o potencial máximo dessas ferramentas."
+      ],
+      "actionable_points": [
+        "Invista em treinamento e testes das novas funcionalidades de IA para anúncios do Google."
+      ],
+      "relevance_score": 9,
+      "image_url": null
+    },
+    {
+      "id": "9efa517b221e34ad001b5a0e13b02dad",
+      "title": "TikTok highlights value of app for SMBs",
+      "title_pt": "TikTok destaca o valor do aplicativo para PMEs",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeUpFTXFQeE03QTZaUEVBWFRSZl84bU5ybVVMTmdRS0NEREozR1lPajBSZHpaRnBMYWxwd1ctVmlZRHBQMHZwSi0xYk9oR1YzTEVUdEhXQ083cTZqbjZrMTdmQ1ZkM3FLVEtVeWpHdHZFb0hWdG9LdkFDTXlnUWg3SVBYMi1xQy1SWUJlYTZR?oc=5",
+      "date": "2026-05-21",
+      "category": "Redes Sociais",
+      "summary": "Agências precisam entender e capitalizar o valor do TikTok para PMEs, oferecendo estratégias eficazes.",
+      "key_insights": [
+        "TikTok é um canal essencial para PMEs alcançarem novos públicos e gerarem vendas.",
+        "Agências podem desenvolver expertise em estratégias de conteúdo e performance para PMEs no TikTok."
+      ],
+      "actionable_points": [
+        "Desenvolver pacotes de serviços no TikTok focados em PMEs, com foco em resultados rápidos."
       ],
       "relevance_score": 8,
       "image_url": null
@@ -4406,40 +4442,6 @@
       ],
       "relevance_score": 8,
       "image_url": null
-    },
-    {
-      "id": "ad1bf2d0b4e953845d0559d80e67e356",
-      "title": "X appeals $140M penalty from the EU Commission",
-      "title_pt": "X recorre de multa de US$ 140 milhões da Comissão Europeia",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ0s0SU9NSUZUSmN6U0djQWlCRUV4a1A3OG8xNnl4LWpHWTB2WnFiOVhRM0hYaHpLZjBSMGpQdl8tWjd3T3BDeFNtSjlvalR3c2dYLURqRWhLUUJtOWpZUkkzNnl1OERBeXhPLWp2NXF3Q3IteGczMnBIWVdFZjRjcWwxQ0hOY1M3RE1XWmNadUNjVk56WmhjQW9kRS13SnhZdzN3VjFNUTJqdw?oc=5",
-      "date": "2026-02-22",
-      "category": "Redes Sociais",
-      "summary": "Agências devem monitorar o impacto de multas e regulamentações nas plataformas sociais, pois afetam a estabilidade e as estratégias de comunicação.",
-      "key_insights": [
-        "Regulamentação europeia impacta diretamente a operação e reputação de plataformas sociais.",
-        "Instabilidade regulatória pode afetar a confiança e o investimento em publicidade na plataforma X."
-      ],
-      "actionable_points": [
-        "Avaliar riscos de compliance e reputação ao planejar campanhas em plataformas sob escrutínio regulatório."
-      ],
-      "relevance_score": 8
-    },
-    {
-      "id": "219b17d49dce19c14d01312bfce16098",
-      "title": "Threads now offers simplified sharing to Instagram",
-      "title_pt": "Threads agora oferece compartilhamento simplificado para o Instagram",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSVl3TlhWVkM5YnhFMjd2RWRlV2FkMG9HLXlpbGJIVlBpUGJuU1Faek1TNlQxOVh6dDVDc0p1SWZGZEE0TG9NemVtZTdfR2dCdUlraklYS2RtUmoxVEdfdkw0QUF2OVZWWTlMS0FnTXctS2c5eUUyZmhIZGF2RkwxcW96eGtZb3lSelhQeklFM2FweG0yMm0zVTZHSEs?oc=5",
-      "date": "2026-02-22",
-      "category": "Redes Sociais",
-      "summary": "Agências podem otimizar a distribuição de conteúdo e a presença de marca ao integrar melhor Threads e Instagram.",
-      "key_insights": [
-        "Facilita a estratégia de conteúdo cross-platform entre as duas redes.",
-        "Potencializa o alcance e engajamento ao simplificar a republicação de posts."
-      ],
-      "actionable_points": [
-        "Desenvolver estratégias de conteúdo integradas para Threads e Instagram."
-      ],
-      "relevance_score": 8
     }
   ]
 }
