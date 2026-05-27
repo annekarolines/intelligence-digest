@@ -1,6 +1,150 @@
 {
-  "last_updated": "2026-05-25T12:56:33.067224+00:00",
+  "last_updated": "2026-05-27T12:49:44.877925+00:00",
   "articles": [
+    {
+      "id": "53c3e8af9969fcb6b136680256598c83",
+      "title": "Instagram tests interests display on user profiles",
+      "title_pt": "Instagram testa exibição de interesses em perfis de usuários",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa2d0T0ZRYU5NXzVDNGZDYmF5UndUeHQtM1BTb29HWU9zRTktajdPaDFjQ0pyT0NtSElSM0xfQnprdS0wMTltVXBmOGhSTlpkeXJpWWpMN1FxWWk3UWY4TWFSMnBhS2JwcVFtNThSNFhuY256MHdCWXdiT0tvdm1tLUxGMGx0NmNNNVY0am9ZVG9qOHlvdTlFVGJEUmw?oc=5",
+      "date": "2026-05-27",
+      "category": "Redes Sociais",
+      "summary": "Agências podem explorar novos dados de interesse para segmentação e personalização de campanhas no Instagram.",
+      "key_insights": [
+        "Permite segmentação de público mais precisa baseada em interesses declarados.",
+        "Oferece novas oportunidades para personalização de conteúdo e anúncios direcionados."
+      ],
+      "actionable_points": [
+        "Monitorar o lançamento para adaptar estratégias de conteúdo e segmentação de anúncios."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "bf8314c6449c8f79d43df8f8c5e2156a",
+      "title": "Instagram engagement rates provide insight into reach",
+      "title_pt": "Taxas de engajamento do Instagram oferecem insights sobre o alcance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWXljXzE3SmxJNklLR2szWXB2bEJqUkQ2YjlaVFpsNDFFQ1VIcmNMSUpFd0hVbmhVazh4V2NZLW9kQ2drTUNhVWZEaXd0T2lGcjl2OUQ1Z0sweTZFOVhFaFNWbzN3V0psOXJ3bDREX21fLTNvQXNFM2pOVHVfQjRYVDRkWlVMck1hazItbUZENC01RU8tLWVTSVE2YzVseVQy?oc=5",
+      "date": "2026-05-27",
+      "category": "Dados & Métricas",
+      "summary": "Agências devem monitorar taxas de engajamento do Instagram para otimizar estratégias de conteúdo e alcance de clientes.",
+      "key_insights": [
+        "Engajamento é métrica crucial para avaliar a qualidade e ressonância do conteúdo.",
+        "Baixo engajamento pode indicar problemas de segmentação ou relevância da mensagem."
+      ],
+      "actionable_points": [
+        "Implementar dashboards para monitorar engajamento e alcance do Instagram em tempo real."
+      ],
+      "relevance_score": 9,
+      "image_url": null
+    },
+    {
+      "id": "58662eea18bb365290154220b021a292",
+      "title": "X looks to improve incentives for original creators",
+      "title_pt": "X busca aprimorar os incentivos para criadores originais",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNGZEaHFuVktRYXJTVkhUNndxQzl2WmVjMEZlSjNoZjZvaThCNVV2TlRTRTMzMFdmUFFHckRkQ3RwUElxbk00Mzl2TUUxNGIyRTBjNVhmZGR4SFVXZmU5Q3p6czhvelV4Y2pVZW9haGtBc2ZTc0VPZF8yY0t6WEd1M0E0NFE1X0hOOFByS0RmZFNqdDZuLXc4YlQ3dGhIZw?oc=5",
+      "date": "2026-05-25",
+      "category": "Redes Sociais",
+      "summary": "Agências devem monitorar as mudanças de incentivo do X para otimizar estratégias de conteúdo e influência.",
+      "key_insights": [
+        "Incentivos melhorados podem atrair e reter criadores de conteúdo de alta qualidade no X.",
+        "Novos modelos de monetização influenciam a estratégia de conteúdo e o ROI de campanhas."
+      ],
+      "actionable_points": [
+        "Avaliar novos programas de incentivo do X para integrar criadores relevantes em campanhas."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "4d395daa02e9a34dbc590b9388d480bf",
+      "title": "YouTube updates unique reach calculation, adds music for still image posts",
+      "title_pt": "YouTube atualiza cálculo de alcance único e adiciona música para posts de imagem estática",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRTQzN0lVaXVwNk1sbjZhRUVfanNZTTNuWWl4U1JKaEs0TTBqSlVaQUMxblJ5WndxSHZpdmRyMkxhNWx1WGViSmZLOWRGSEQwLTJCODZ0M002emI5TV9NeUdnY3lnTGpvT0x5ck40cU5YeTJ6X21oeU9HN1FCQWtXSVh2WTdxV2Y5YzB4VnY2MkQyOXg2WHJsLWw2UFppM242Y082UDQwbG5VSVJFa0lWdXMxTE9DZnVPc3BR?oc=5",
+      "date": "2026-05-25",
+      "category": "Redes Sociais",
+      "summary": "Agências devem ajustar estratégias de mensuração e explorar novas funcionalidades de conteúdo no YouTube para otimizar campanhas.",
+      "key_insights": [
+        "Novo cálculo de alcance único exige revisão de KPIs e benchmarks para campanhas no YouTube.",
+        "Funcionalidade de música em posts de imagem estática abre novas oportunidades criativas e de engajamento."
+      ],
+      "actionable_points": [
+        "Avaliar impacto do novo cálculo de alcance nas métricas atuais e testar posts com música."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "9afcbe2288f35f062e2a4927529a0fb1",
+      "title": "TikTok announces expanded partnership with Universal Music Group",
+      "title_pt": "TikTok anuncia parceria expandida com Universal Music Group",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNVZmNlFhT1IwTU5RS3VtZC1CaTBseExYdWhTQzlwSjdDdy1oclhPY2kyLTZld3BKVExQWWltSU9qQm05VElpamJrTTlaXy1YdXJOVWQ1OEhxOEhNRU90TkhRRTlBMFRnSlhQdFQ2MkJGMkxlZkR5UlN0VXVqdkVNTVhQWmk3QzFRNVJDeGFKb0Y3VmNMU2FQMGhXd0VSb2l2UThKc3V6dFowR3ZjWi13?oc=5",
+      "date": "2026-05-25",
+      "category": "Redes Sociais",
+      "summary": "Agências devem explorar o acesso expandido a músicas licenciadas para criar conteúdo mais engajador e diversificado no TikTok.",
+      "key_insights": [
+        "Maior biblioteca musical para campanhas, elevando a qualidade e a viralidade do conteúdo.",
+        "Oportunidade para marcas se associarem a tendências musicais e artistas populares."
+      ],
+      "actionable_points": [
+        "Revisar estratégias de conteúdo no TikTok para integrar o novo catálogo musical e explorar parcerias com artistas."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "ec82dcefd32471f305c6a26b7a60de81",
+      "title": "LinkedIn shares video creation tips based on platform trends",
+      "title_pt": "LinkedIn compartilha dicas de criação de vídeo com base nas tendências da plataforma",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb0k0X1NERjd1Sl9vMWNLWkhWaGVHNGxXbWVFMVR1ZVJIOEJjN2J1blUxeGlxb25WUENPWk5sMnJCcHpxVnhHOElTTkV4NlRWU3ZWQ1dwRUdtNkczeTlSdEZ1cVNmVXhCNGFOVVByN0NtV0lBdTVHQ000WmJobXIyNktySU4yNjZ3SG0xMVhPVWRiMV9RT3VfRGppaE1CZm5IWTU3X3JMNDVsZw?oc=5",
+      "date": "2026-05-25",
+      "category": "Redes Sociais",
+      "summary": "Agências devem otimizar estratégias de vídeo para LinkedIn, alinhando-se às tendências da plataforma para engajamento eficaz.",
+      "key_insights": [
+        "Vídeo no LinkedIn é vital para estratégias B2B e posicionamento de liderança de pensamento.",
+        "Aderir às tendências da plataforma garante maior alcance e relevância para o conteúdo."
+      ],
+      "actionable_points": [
+        "Revisar as dicas do LinkedIn e integrar as melhores práticas na produção de vídeo para clientes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "575f89e6ce04fe2444eae9aed41ef681",
+      "title": "Meta launches new group-focused Forum app",
+      "title_pt": "Meta lança novo aplicativo Forum focado em grupos",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOS1dVdHZTMFZhT050ZkcyY0N4RmV3U1VHWlJrTk1qS3dIcTRUUjhDMTBXbFoydU40eW5nZ0FhN29ySE00NV9mcDUxaVNWSXhmSHRjS0xZbFhwY3VYZU5rSUpuaDFIVEFseDBBS0FVU01hOG0tcU1ZM0JBT2ZfUFlDSnd6UDFJV0p6OXJiM0FEdDU?oc=5",
+      "date": "2026-05-25",
+      "category": "Redes Sociais",
+      "summary": "Agências devem explorar o novo app da Meta para engajamento de comunidades e estratégias de conteúdo direcionado.",
+      "key_insights": [
+        "Novas oportunidades para construção de comunidades e engajamento segmentado.",
+        "Pode indicar uma mudança na estratégia de grupos da Meta, exigindo adaptação."
+      ],
+      "actionable_points": [
+        "Avaliar o app Forum para identificar oportunidades de conteúdo e interação com clientes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "89be0deae146073f27d55b5d7db22c4a",
+      "title": "SpaceX filing provides insight into X, Grok and xAI",
+      "title_pt": "Documento da SpaceX oferece insights sobre X, Grok e xAI",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNmg4QlBQTzMtRk1oV3BlVkl2TVhGZGpmRC1VQnFSenJGNkJWa1ZMOHBaamlBYl9KZXpxOTFsVy1VQ0RUSEE4NWsxX1JSNVgxR2ctYWp2aTBTbGw1akRCMkViUENFZmktRWYtU2FvdDZYX01UenJkWVNFWW5SUElfcWpzbGZUeHd1V3FWaTlPNzFSMnc5bWNOSk5wZE0?oc=5",
+      "date": "2026-05-22",
+      "category": "IA",
+      "summary": "Este tema revela a interconexão crescente entre IA e plataformas sociais, crucial para estratégias de conteúdo e engajamento das agências.",
+      "key_insights": [
+        "A fusão de IA (Grok, xAI) e redes sociais (X) molda o futuro da comunicação digital.",
+        "Compreender a estratégia por trás de xAI/Grok é vital para antecipar tendências de mercado."
+      ],
+      "actionable_points": [
+        "Monitorar de perto as funcionalidades de IA em plataformas como X para novas oportunidades de campanha."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
     {
       "id": "0f79a6385d2482bb79a4c5993e07e95b",
       "title": "Report looks at how LinkedIn is dominating B2B queries in AI chatbots",
