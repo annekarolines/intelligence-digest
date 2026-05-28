@@ -1,6 +1,60 @@
 {
-  "last_updated": "2026-05-27T12:49:44.877925+00:00",
+  "last_updated": "2026-05-28T13:41:40.352302+00:00",
   "articles": [
+    {
+      "id": "3da6747b158a13cb7e91d54850bb866d",
+      "title": "Meta introduces new subscription add-ons and AI packages",
+      "title_pt": "Meta lança novos complementos de assinatura e pacotes de IA",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZnlVRkRzQkhHdWY4aUxaRHRaSDAxbHJUaENic2dyRjJDSGVpcnRPeU5DWjQ1OHdvUzVqNkI1OHRYRUhMZ2pJSF9uU09wc0R5aUFlYlJiR1hkNmFTcVg3RHFCQWZvWDVwVXh4WVVCMUM5YWkwa19NTzhXTmpDR3E1dDVTb29GbG5EVTNaaUd0TGVNajJFdnZPTEdzWGZUWHpkSmFtZg?oc=5",
+      "date": "2026-05-27",
+      "category": "IA",
+      "summary": "Agências devem explorar os novos pacotes de IA e modelos de assinatura da Meta para otimizar estratégias e monetização de clientes.",
+      "key_insights": [
+        "Novas ferramentas de IA da Meta impactarão criação de conteúdo e segmentação de audiência.",
+        "Modelos de assinatura exigirão reavaliação de estratégias de alcance orgânico e pago."
+      ],
+      "actionable_points": [
+        "Avaliar os novos pacotes de IA da Meta para integrar em campanhas e otimizar resultados de clientes."
+      ],
+      "relevance_score": 9,
+      "image_url": null
+    },
+    {
+      "id": "dd2343ad5f2ca5a5dd56e667ac662cd1",
+      "title": "Google integrates Demand Gen and Display Network",
+      "title_pt": "Google integra Demand Gen e Rede de Display",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV09HYk8xTE53bmg2YmZxRG9uWXNZRUtxdDhSSm9KUDVIbE9ZUXotZU9YUlRZa3R2dFNPcHJubW9wZm5mWW5HODNpZndwZ2pTYlltckQ4YURLLUlIX2tPc2g5aXh2bEU3YS1Gc3g0U0RWTUhHMDF3dW81bTFfa25YUlFnNE5fQ19ka1ZSM19DVi04TTlpVHpjcEh3?oc=5",
+      "date": "2026-05-27",
+      "category": "Estratégia",
+      "summary": "A integração otimiza a gestão de campanhas e a performance em todo o ecossistema de anúncios do Google, exigindo adaptação estratégica das agências.",
+      "key_insights": [
+        "Simplifica a gestão de campanhas, unificando estratégias de aquisição e display.",
+        "Permite otimização mais inteligente e alcance expandido com dados integrados."
+      ],
+      "actionable_points": [
+        "Capacitar equipes para explorar as novas funcionalidades e otimizar campanhas integradas."
+      ],
+      "relevance_score": 9,
+      "image_url": null
+    },
+    {
+      "id": "5a3847a8340e2d404b03a809da453809",
+      "title": "LinkedIn offers guidance on B2B product launches",
+      "title_pt": "LinkedIn oferece orientações para lançamentos de produtos B2B",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX185cjhjUHNVTW0yT2NmREpxY0o0cU1kVHhyMHNlY1lyajR2N09fV0lybDFCMG00TGxjVjFOQzA3M2RnelZqTFp6S2pzV1g5WFlOVVBJdEZzcWs0MUJwdTl4cThrUGpXNC12eXJRVzJzU3lsRUpzbWE3WFI0Y3RGLURpUnZkNkc4ME5iaHQtbFM4UGZQNHJwbmhn?oc=5",
+      "date": "2026-05-27",
+      "category": "Redes Sociais",
+      "summary": "Agências podem alavancar as orientações do LinkedIn para otimizar estratégias de lançamento de produtos B2B para seus clientes.",
+      "key_insights": [
+        "Otimizar lançamentos B2B no LinkedIn melhora o alcance e engajamento com decisores.",
+        "Agências devem integrar as diretrizes da plataforma em planos de marketing de clientes B2B."
+      ],
+      "actionable_points": [
+        "Estudar as diretrizes do LinkedIn para criar playbooks de lançamento B2B para clientes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
     {
       "id": "53c3e8af9969fcb6b136680256598c83",
       "title": "Instagram tests interests display on user profiles",
