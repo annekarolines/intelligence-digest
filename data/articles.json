@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-05-28T13:41:40.352302+00:00",
+  "last_updated": "2026-05-29T12:43:17.221015+00:00",
   "articles": [
+    {
+      "id": "e9690949b1a1311f697af9e11df9bd9f",
+      "title": "YouTube introduces more prominent AI labels",
+      "title_pt": "YouTube implementa rótulos de IA mais visíveis",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMndpODc4UEkwbnBEdWlJZDltOWFGZkNlMGhLX1pUNmw4WDVrZ09FVmNUNTlGN0tQNl8yZUI0b1NiYWkxSnRVWjlRYW9wREVLZzJLTTFSUmY2YXowaFY4TDFYMmozeGxZdUktdWRkTHZkQnpTcmgtZVRRU1RQY0RVNVhyRHk3RWhOeWdBZE9CVDNpSkE?oc=5",
+      "date": "2026-05-27",
+      "category": "IA",
+      "summary": "Agências devem priorizar a transparência no uso de IA em conteúdos para YouTube, adaptando estratégias de produção.",
+      "key_insights": [
+        "Aumento da demanda por transparência no uso de IA em vídeos.",
+        "Rótulos impactam percepção de autenticidade e confiança da audiência."
+      ],
+      "actionable_points": [
+        "Revisar diretrizes internas para criação de conteúdo com IA e comunicação transparente."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "2b5d4abdacbc53cbb9e650a7c5ad62a9",
+      "title": "YouTube adds conversational custom feed generation",
+      "title_pt": "YouTube adiciona geração de feed personalizado conversacional",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQVhYaDAyQWJqUjIwXzhuZnMxSDMwUllDTi15N3JKb0tEVUhGc1V0bkU4emZ6azFlRnR1M1N5Rk9teV9rRXJrS0dYdTFhNXJnSnctcy1zTmNjN2xUcWxJRF9iZGJ2akpPWnZxa05pQmpLdFozYV92VUQ2alhiclgyc0lGUnMwMEpJaWJMU1pKNGszRW9MTDFqTWNVQ0M?oc=5",
+      "date": "2026-05-27",
+      "category": "IA",
+      "summary": "Agências devem adaptar estratégias de conteúdo para aproveitar a personalização avançada de feeds via IA no YouTube.",
+      "key_insights": [
+        "A IA conversacional do YouTube redefine a personalização de conteúdo e a descoberta pelo usuário.",
+        "Novas oportunidades para segmentação precisa e engajamento orgânico em campanhas de vídeo."
+      ],
+      "actionable_points": [
+        "Desenvolver testes A/B para formatos de conteúdo otimizados para feeds personalizados por IA."
+      ],
+      "relevance_score": 9,
+      "image_url": null
+    },
     {
       "id": "3da6747b158a13cb7e91d54850bb866d",
       "title": "Meta introduces new subscription add-ons and AI packages",
