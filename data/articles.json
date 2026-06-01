@@ -1,6 +1,96 @@
 {
-  "last_updated": "2026-05-31T11:29:17.703142+00:00",
+  "last_updated": "2026-06-01T15:50:56.151011+00:00",
   "articles": [
+    {
+      "id": "540ce081f69feee4b6bf6147a7259ca0",
+      "title": "Instagram introduces teleprompter tool",
+      "title_pt": "Instagram lança ferramenta de teleprompter",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcUI4R3AwQ1BWMEJXZTZOb2pwTWZuS1A5V18zRnZrZzBwRHYtQnhTb1hrWWZZS3dnRnlKcTh1WTJCandoUXN3THYyNjViNkZkckNGSm40ZGJOOW8xNUo0R3BwcmdBU0hZNk5US0U2MjVyQmt5RmI5blpNbFNWOHBKZHR2ZE9DaXVKMlBCRQ?oc=5",
+      "date": "2026-05-31",
+      "category": "Redes Sociais",
+      "summary": "Agências podem otimizar a criação de conteúdo em vídeo no Instagram, melhorando a qualidade e agilidade.",
+      "key_insights": [
+        "Melhora a qualidade e fluidez de vídeos, especialmente para influenciadores e marcas.",
+        "Facilita a produção de vídeos mais profissionais e roteirizados diretamente na plataforma."
+      ],
+      "actionable_points": [
+        "Integrar o teleprompter na estratégia de criação de Reels e Stories para clientes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "0092e5e75538c2b380941b37aa4690c2",
+      "title": "Meta plans to introduce a wearable AI pendant",
+      "title_pt": "Meta planeja lançar um pingente de IA vestível",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVXhNSGtTWkQ0bzRmVGdNUHdjWHRtSDlKN3FnU2Q3dXhXRlZQYjNYdWVBcVRxU3Qwc09ES0JBY2YyajlBQ1hBd0ZVMGJhemZ3NWdCZ1Y0bXk5Zkd2VHRlYTB4QnZMdUlaMTNYZVloR3JMWGtMYXc2bk5LZXFNMGhNN3kzSUphZGo0clNxb0EzaDhTQVBPbnc?oc=5",
+      "date": "2026-05-31",
+      "category": "IA",
+      "summary": "Agências devem monitorar este novo formato de interação com IA, que pode redefinir o engajamento digital e a coleta de dados.",
+      "key_insights": [
+        "Potencial para novas interfaces de usuário e formatos de conteúdo.",
+        "Implicações significativas para coleta de dados, privacidade e personalização."
+      ],
+      "actionable_points": [
+        "Começar a explorar as implicações para estratégias de conteúdo e publicidade."
+      ],
+      "relevance_score": 9,
+      "image_url": null
+    },
+    {
+      "id": "2b7b339f48a24a6efce8c225d7f86077",
+      "title": "Reddit expands Shopify integration access globally",
+      "title_pt": "Reddit expande acesso à integração com Shopify globalmente",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbzVDSVQ1azlhZFBJdlAyTXplYzUyVGVUVFN4Qnpma1B4R2JwNDFUSHBkR0thN19YSXg4MU1HcGhCeW1kY0dDa3NvZ3JPZHhpdFl0c2xOcGRWNTdWS05jY0xCWWltbWwwUzhxRFR1ZDJWWHpKZ3d6NkxQclJnR2FpWFZkSUt6ckZHWjhSeXd1cVo4Y1lJR2lzYWZLaXc?oc=5",
+      "date": "2026-05-28",
+      "category": "Redes Sociais",
+      "summary": "Agências podem explorar novas oportunidades de e-commerce e publicidade direta no Reddit para clientes.",
+      "key_insights": [
+        "Reddit se consolida como canal de vendas diretas, não apenas comunidade.",
+        "A integração global abre mercados internacionais para marcas com presença no Shopify."
+      ],
+      "actionable_points": [
+        "Avaliar a criação de lojas Shopify integradas ao Reddit para clientes de e-commerce."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "9da0db3d73b22ca646b7a6b9b525f6c1",
+      "title": "Meta outlines enhanced security measures ahead of FIFA World Cup 2026",
+      "title_pt": "Meta anuncia medidas de segurança reforçadas para a Copa do Mundo FIFA 2026",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa3RVb2Z6ekp4bnNkeGU4NVRtRzBYV1paYUNOZ3RQdm5ud1E2SS1mdThKWl94Yzg5UUR6alBtQ0I5dkNqMEFHTlc0UkhCTEZBZFF5ZElzb2VjNWVhSUU1M3JFLTRYNkV1b0k5S0xPa1NOeHludzZzSkFDNTBxeXFiMFJqd0o2Sk9tNVVSd0ZBelp5alpxcVI1TzFhTk01NW5RYmpGbmEwaFhSYmg4UTdtUkFKak4zZw?oc=5",
+      "date": "2026-05-28",
+      "category": "Redes Sociais",
+      "summary": "Agências devem considerar a segurança da marca e do usuário ao planejar campanhas em plataformas Meta durante grandes eventos.",
+      "key_insights": [
+        "Segurança da plataforma Meta impacta diretamente a confiança do usuário e a reputação da marca.",
+        "Eventos globais como a Copa exigem estratégias de moderação e proteção de conteúdo robustas."
+      ],
+      "actionable_points": [
+        "Revisar políticas de brand safety e monitoramento de conteúdo para campanhas em grandes eventos."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "49b803fb958b57a6cc192ecf7865b688",
+      "title": "Snapchat underlines its value as a sports engagement platform",
+      "title_pt": "Snapchat destaca seu valor como plataforma de engajamento esportivo",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWEVzLWhvWURJT3ROUGhOX3Z4R1c5NFZyaFNCXzNtLXp2ck4xU2xmQjRRVXhWanpFLURDeGlPTnp6RElSU0cxRmNMSmxIMkVLbjBmOFBydkxKMWZWOEZDUkxZaWltcWh6eTg0QmhwWUF2VDRLaEMwdDdUVmtPaEdaU1NvRVFQT3NseDZfMGpBR2tPUC13UEZoaVVReXJNNS1nSkV0TVV6UmVwSWc?oc=5",
+      "date": "2026-05-28",
+      "category": "Redes Sociais",
+      "summary": "Agências devem considerar o Snapchat como um canal estratégico para marcas esportivas e de entretenimento, explorando seu potencial de engajamento com audiências jovens.",
+      "key_insights": [
+        "Snapchat mantém relevância para nichos específicos, como o público jovem e entusiastas de esportes.",
+        "O engajamento via conteúdo efêmero e AR no Snapchat oferece oportunidades únicas para campanhas interativas."
+      ],
+      "actionable_points": [
+        "Avaliar a inclusão do Snapchat em estratégias de clientes com foco em esportes e entretenimento."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
     {
       "id": "5c136c7f2c0bb502c8756190ea9252c5",
       "title": "Meta and X make deals to monetize AI projects",
@@ -4712,24 +4802,6 @@
         "Capacitar equipes para usar as novas ferramentas de criação da Meta imediatamente."
       ],
       "relevance_score": 8
-    },
-    {
-      "id": "89537831110a2a59b02e56c217b31689",
-      "title": "More teen social media bans are coming, but will they work?",
-      "title_pt": "Mais proibições de redes sociais para adolescentes estão a caminho, mas serão eficazes?",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORFdXNHZMS2h1MmhQeXVkVV9lS25oYjE5UnV1UEJZQzVtcEl1Y2RIT3ZuTWwtbkd6YllmeHJDcnJRYngxR3lpcmFTSUVfV1o1Tll1RGdaSnJMZ1VNZHp3T3dyUkdZdXlMdVFDZEhXSUoyWktEbXQ4RHdLXzJFRHZabUhxTEg3R1R0amV3NWtDbTZkS2o2ODRKdnNSYnl2RzJiaVJpM1lR?oc=5",
-      "date": "2026-03-02",
-      "category": "Redes Sociais",
-      "summary": "Agências devem monitorar o impacto dessas proibições na segmentação de audiência e estratégias de conteúdo para jovens.",
-      "key_insights": [
-        "Potencial redução do alcance em plataformas tradicionais para o público jovem.",
-        "Necessidade de explorar novas plataformas ou estratégias de engajamento para adolescentes."
-      ],
-      "actionable_points": [
-        "Revisar estratégias de mídia social para campanhas direcionadas a adolescentes, considerando alternativas."
-      ],
-      "relevance_score": 8,
-      "image_url": null
     }
   ]
 }
