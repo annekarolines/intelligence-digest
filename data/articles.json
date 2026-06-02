@@ -1,6 +1,60 @@
 {
-  "last_updated": "2026-06-01T15:50:56.151011+00:00",
+  "last_updated": "2026-06-02T13:54:14.900223+00:00",
   "articles": [
+    {
+      "id": "d7a9cc6bab5164bb793794c08dcd590a",
+      "title": "Hackers got Meta AI to give them Instagram account access",
+      "title_pt": "Hackers obtiveram acesso a contas do Instagram via IA da Meta",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOUtobU5tYU5BY3luNHg2UGMxYkRRNDhXOTN3WlB3TFd0cFo4QjRLWm9DUUhIWW5reEM3Mm9nR1RRWFJzVi1RT3M2MUhtczhJTGVwRU1ZQk5sWHllTnRnR2xXVGdGTldOWWxydHpyaUJUcUtyTzdjQlFLRmNlbnlqRy1BMmxDSllKSUVkVDJKcV9IWEd5NjMyMjV3RDNkZ1BTeEJIMFFB?oc=5",
+      "date": "2026-06-02",
+      "category": "IA",
+      "summary": "Agências precisam redobrar a atenção à segurança de dados de clientes devido a vulnerabilidades em IAs de plataformas.",
+      "key_insights": [
+        "Falhas de segurança em IAs de plataformas expõem dados e acessos de clientes.",
+        "A reputação da agência e a confiança do cliente são diretamente impactadas por tais incidentes."
+      ],
+      "actionable_points": [
+        "Revisar protocolos de segurança e autenticação para todas as contas de clientes gerenciadas."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "5dcec09ef697fe1782668335a99fb0e7",
+      "title": "YouTube updates AI for Ask Studio and CTV",
+      "title_pt": "YouTube atualiza IA para Ask Studio e CTV",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQalB5YnAtSkRZM2RMYzhQQXJJVERyU2ptZ01mMUwtNkExTmtOdXJ3V0VzZ09FSVJlSmx0QmljeTJRWklHNXFLaXJkZkZKeEl4Y3ZnN0ZXb3F4YzRxZG5EVjhEYklMQU9seTE2bEJ2WTRaNG80YnJ4dVp1c2dlcmlfdDlZR1E1VjNfWG9hSE1wYVQ?oc=5",
+      "date": "2026-05-31",
+      "category": "IA",
+      "summary": "Agências devem explorar as novas funcionalidades de IA do YouTube para otimizar estratégias de conteúdo e publicidade.",
+      "key_insights": [
+        "A IA no YouTube pode transformar a criação de conteúdo e a interação do usuário.",
+        "O foco em CTV indica novas oportunidades para publicidade em TV conectada."
+      ],
+      "actionable_points": [
+        "Capacitar equipes para usar as novas ferramentas de IA do YouTube em campanhas."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "b879f6cfdd790a9745d1001a504a4afd",
+      "title": "Are social platforms going to charge all users for access?",
+      "title_pt": "Plataformas sociais cobrarão acesso de todos os usuários?",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdlVQUmdTY2V3RTNsOE9zVVBhc0FrdFhEN25Mbk5ZM3dRajVsZ3dNSjBRLUpXRUNlTlAxVkRVQkpmSl95VThzZUJkS0p4THdGS2Rvc1hMVy1zVGtrZ0dMYnUyR0hyZUpzQnNGMnZ0bGFkaHdLZFJjY1Y0UV9tV3dzYTJ5ckp6b1dXUF84WGNrUnRSLXRWcFZxMEpic2tXZWR3Y05DOHB3?oc=5",
+      "date": "2026-05-31",
+      "category": "Redes Sociais",
+      "summary": "A potencial cobrança por acesso em redes sociais impactará diretamente o alcance, engajamento e estratégias de mídia das agências.",
+      "key_insights": [
+        "Redução drástica do alcance orgânico e engajamento, exigindo novas abordagens de conteúdo.",
+        "Revisão de orçamentos e foco em mídias pagas ou plataformas alternativas."
+      ],
+      "actionable_points": [
+        "Desenvolver planos de contingência para orçamentos de mídia e estratégias de conteúdo."
+      ],
+      "relevance_score": 10,
+      "image_url": null
+    },
     {
       "id": "540ce081f69feee4b6bf6147a7259ca0",
       "title": "Instagram introduces teleprompter tool",
@@ -4783,23 +4837,6 @@
       ],
       "actionable_points": [
         "Explorar a criação de conteúdo exclusivo para assinantes de X, testando formatos e engajamento."
-      ],
-      "relevance_score": 8
-    },
-    {
-      "id": "3da298c25d8434b8aa93ef8a325155da",
-      "title": "Meta updates Edits app with more creation tools",
-      "title_pt": "Meta atualiza aplicativo Edits com mais ferramentas de criação",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOEp0RDEwTGZKa1N1eW96VmI1bW1DWVNZZmVMd3ZQdHN2WVJ0UWhqcHhHbGpQeHdvN043T3Jkazc2TnFFVHBfalpEamZrMWJ3bTJvZVFlRFo3b21ZWHFlanV2RFNKRXJFSjVFYnNRcHJsU1JFenVUUzAxNDUwRGFYemo3UVREWmZUTThFbUdRQVlCaTBLZVZvbQ?oc=5",
-      "date": "2026-03-03",
-      "category": "Redes Sociais",
-      "summary": "Agências devem explorar novas ferramentas de criação da Meta para otimizar a produção de conteúdo e engajamento.",
-      "key_insights": [
-        "Novas ferramentas ampliam a capacidade criativa e a eficiência na produção de conteúdo.",
-        "Dominar recursos atualizados da plataforma é vital para a relevância e competitividade da agência."
-      ],
-      "actionable_points": [
-        "Capacitar equipes para usar as novas ferramentas de criação da Meta imediatamente."
       ],
       "relevance_score": 8
     }
