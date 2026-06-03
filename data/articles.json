@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-06-02T13:54:14.900223+00:00",
+  "last_updated": "2026-06-03T14:22:47.753068+00:00",
   "articles": [
+    {
+      "id": "dbc29f8ccb8de6642fb6cb068a8b8798",
+      "title": "Google shares guidance on visual AI generation",
+      "title_pt": "Google compartilha orientações sobre geração de IA visual",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPenZoU3paZ0s1S2ZKUm8wZG5TMHVhYjFEanlxZ2JCTGlIR1BwTUdBbjdUZEEyd0F0WVRWRF9yTzRrU3dHY05HV0NxeWhIb01fMU1FWEticWZVY2Z6LXQ4YVBhOHFxRThpNDNTdHlLM0VPbWVaNWZTOVlRci1jdzFvZnItSWYzaHQzd0JXalhVanlaMGJFNDRr?oc=5",
+      "date": "2026-06-02",
+      "category": "IA",
+      "summary": "Agências precisam entender as diretrizes do Google para usar IA visual de forma ética e eficaz na criação de conteúdo e campanhas.",
+      "key_insights": [
+        "Diretrizes do Google moldarão padrões da indústria para uso ético e técnico de IA visual.",
+        "Agências devem garantir conformidade e transparência em conteúdos visuais gerados por IA."
+      ],
+      "actionable_points": [
+        "Revisar e integrar as orientações do Google nos processos de criação de conteúdo visual com IA."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "36220947c6f646174c1276fb3075dcc2",
+      "title": "LinkedIn chatbot optimization tips offer guidance on content planning",
+      "title_pt": "Dicas de otimização de chatbots do LinkedIn oferecem orientação para planejamento de conteúdo",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZlBiS2RkMWUwTTZDR2Y3WDZueDBCY1RJYTBlblZoRWk0XzJ0U2EwWTZVRXZsUmV5WlhfTzlObHZBMEw2R2M0Qlg4NTFQZm9EY0psMnBIbW1zSldrbDZSZTRSTk5uSVkzekZKZXM0M3MxQmdVMElXOGtZRFQ4U2Rqc0MtRmJpY1d1VGNTclgtZXVMcE5aajRDZ25VOXQySE51UmZMUEdTUzhBY2dpV1BDOEZybFo5Zw?oc=5",
+      "date": "2026-06-02",
+      "category": "IA",
+      "summary": "Agências devem otimizar o uso de chatbots no LinkedIn para aprimorar o planejamento e a distribuição de conteúdo de seus clientes.",
+      "key_insights": [
+        "A IA (chatbots) integra-se cada vez mais à estratégia de conteúdo em redes sociais.",
+        "Otimizar chatbots no LinkedIn melhora o engajamento e o alcance profissional das marcas."
+      ],
+      "actionable_points": [
+        "Desenvolver estratégias de conteúdo para clientes utilizando chatbots otimizados no LinkedIn."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
     {
       "id": "d7a9cc6bab5164bb793794c08dcd590a",
       "title": "Hackers got Meta AI to give them Instagram account access",
