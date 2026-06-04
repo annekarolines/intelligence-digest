@@ -1,6 +1,96 @@
 {
-  "last_updated": "2026-06-03T14:22:47.753068+00:00",
+  "last_updated": "2026-06-04T12:39:22.964128+00:00",
   "articles": [
+    {
+      "id": "de0f2e8719b0d8e9322bb5e55f51ba8d",
+      "title": "Meta offers new AI messaging options for businesses",
+      "title_pt": "Meta oferece novas opções de mensagens com IA para empresas",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb2hqMHluY3hWMzNOeVlWbFp0SXV3Q09NQ0tjd0VzaFBEWWZwMThaNW9IQ1dnTXdpbU5tOEdJNXpLY1hXUlE5SFZqbkdoM0JOMGdvOF96R1lCeWVOa3dtZkFtNDZvdWtPcFpXMXh1RnF0TC1MSXJMRlFLRVgzNGh1TjhUeUNHbDhRckk3bG5QazJnNDVhQWxwY2tWMER6dw?oc=5",
+      "date": "2026-06-04",
+      "category": "IA",
+      "summary": "Agências podem explorar novas ferramentas de IA da Meta para otimizar a comunicação e o engajamento de clientes.",
+      "key_insights": [
+        "Otimização da comunicação cliente-agência via IA nas plataformas Meta.",
+        "Expansão das capacidades de automação e personalização em campanhas."
+      ],
+      "actionable_points": [
+        "Avaliar e integrar as novas ferramentas de IA da Meta nas estratégias de comunicação de clientes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "9e67a9d7ba6008bc1197f0ce4d416362",
+      "title": "TikTok launches separate event-based app",
+      "title_pt": "TikTok lança aplicativo separado focado em eventos",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSm1fTkVuQnBRT1ExeGpaLUVEcl9MMHdOMHgzS0RZeDhidEFSUG1oYTBjWm1pYlFsOU9EdmwxSndEejVyNllJWVdEUHYwUUlKVHJ1am9icFFCYmZjT3FLaVpjRWFFT1NDR1hoZGFqR2hoN0pBQXFvcXhzQ2RPbmNpenlvblZzbklhVV8yVG1LWQ?oc=5",
+      "date": "2026-06-04",
+      "category": "Redes Sociais",
+      "summary": "Agências devem explorar novas oportunidades de engajamento e monetização em eventos com a nova plataforma do TikTok.",
+      "key_insights": [
+        "Expansão do ecossistema TikTok para nichos de eventos e experiências.",
+        "Potencial para campanhas de live marketing e ativações de marca imersivas."
+      ],
+      "actionable_points": [
+        "Analisar o potencial da nova app para estratégias de eventos e influenciadores de clientes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "e3f0993246fc1a433dc53966f2de1d6c",
+      "title": "Reddit launches video replies",
+      "title_pt": "Reddit lança respostas em vídeo",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMktWOHB4TWpseVZnR2oyM2pueTZQZVp4T1pVaV9XZ3ppbWdoYlpEeUhpQVJrSEREU1NKNlkzUGpOSW1lUnRCUHp6WWdHMm92R04wY3E1azFMeUVCdnhiTHlVVGFOSnFSTHFQVlRsd1RhdXk3TXNOcnRMTTFxcktNNA?oc=5",
+      "date": "2026-06-03",
+      "category": "Redes Sociais",
+      "summary": "Agências devem explorar o novo formato de vídeo do Reddit para engajamento e estratégias de conteúdo de clientes.",
+      "key_insights": [
+        "Abre novas portas para storytelling visual e interação autêntica no Reddit.",
+        "Permite estratégias de conteúdo mais dinâmicas e humanizadas para clientes."
+      ],
+      "actionable_points": [
+        "Avaliar o potencial das respostas em vídeo para campanhas de clientes no Reddit."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "8b25eb74d4164f622a0abc26dbdf8e64",
+      "title": "Meta tests connected Series Reels option for video creators",
+      "title_pt": "Meta testa opção de Reels em série conectada para criadores de vídeo",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUk50d2lFODVQdDltSFY3ZzkwTXBtYmJmRnY0VllDcW96VVBQTVlwVjZObi10VWVrSXQ0NTE5NWpGbFdFZnJQRUtiWDU3UHdIUG1yNUlTQUd2U3NwWmRSdlRWdHdzYzI5OHBwcVRkVzU3WmkxZXJKUjRHYVh1ODMwSjA4bE5DN0lEbW1XUXRvbElldmdFQmxNNDUzR0pjam9oZHpsclNwdjE?oc=5",
+      "date": "2026-06-03",
+      "category": "Redes Sociais",
+      "summary": "Agências devem monitorar novas funcionalidades de conteúdo para otimizar estratégias de vídeo e monetização para clientes.",
+      "key_insights": [
+        "Nova funcionalidade de conteúdo em vídeo para Reels (Instagram/Facebook).",
+        "Abre portas para narrativas mais longas e modelos de monetização para criadores."
+      ],
+      "actionable_points": [
+        "Avaliar a aplicação de Reels em série para campanhas de storytelling e engajamento de clientes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "4d2db0a3869a2968ccca3641abe1c885",
+      "title": "X introduces video reaction feature for iOS",
+      "title_pt": "X apresenta recurso de reação em vídeo para iOS",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSEt3d2FsdzBrY2pUdVNOSlFQYjlCWUZqejYyRVNmQzI0MXhLSGlieVJLVS05S1kzYWY5YVdsb1FCdW9Qa3VkbUZ5Tndsek9pc2d1bndiQmdrb0oxUFlmQ1RFTjZsUVlPd1BzMXlJUnRBSU5HWHpPSHZtdlpHOWJTUXk3VkdRaVh6UG9GQnB6T1BObGM?oc=5",
+      "date": "2026-06-03",
+      "category": "Redes Sociais",
+      "summary": "Agências devem explorar novas formas de engajamento e criação de conteúdo com o recurso de reação em vídeo do X.",
+      "key_insights": [
+        "Potencial para campanhas interativas e conteúdo gerado pelo usuário (UGC).",
+        "Aumento da autenticidade e engajamento direto nas interações em vídeo."
+      ],
+      "actionable_points": [
+        "Testar o recurso para integrar reações em vídeo nas estratégias de conteúdo dos clientes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
     {
       "id": "dbc29f8ccb8de6642fb6cb068a8b8798",
       "title": "Google shares guidance on visual AI generation",
