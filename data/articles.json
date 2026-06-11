@@ -1,6 +1,312 @@
 {
-  "last_updated": "2026-06-10T12:52:46.030068+00:00",
+  "last_updated": "2026-06-11T13:56:49.521602+00:00",
   "articles": [
+    {
+      "id": "48505d3add4778333210fb5617264b1d",
+      "title": "Instagram extends Your Algorithm to the main feed",
+      "title_pt": "Instagram estende 'Seu Algoritmo' para o feed principal",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbEdwcDl4TVNRZ2hBN2ZwdGN6Umx5TU1ZWjZraHF3WWdiaFBVSUJENUQ4YWVCOG56dHhXanlnRm1sdk0yTC1FYXM4ekJXMGY0MFlfd1hMUWU0ckdadTZvQmtkV190YnY4Sm9sMFEyWHpfLVd5bjNCNnFIRXhxWFpPN2NFaUJhQXY3QUZmUnR5ZUtzNnhMUU5teHJFVQ?oc=5",
+      "date": "2026-06-10",
+      "category": "Redes Sociais",
+      "summary": "Agências precisarão adaptar estratégias de conteúdo para um feed principal com maior controle do usuário sobre o algoritmo.",
+      "key_insights": [
+        "Maior controle do usuário sobre o feed exige conteúdo mais relevante e engajador.",
+        "O alcance orgânico pode ser impactado, demandando novas táticas de distribuição."
+      ],
+      "actionable_points": [
+        "Revisar estratégias de conteúdo orgânico para Instagram, focando em valor e interação direta."
+      ],
+      "relevance_score": 9,
+      "image_url": null
+    },
+    {
+      "id": "3dbb11d3de6c9b161ceb233c8afd0576",
+      "title": "LinkedIn launches its own Creator Marketplace",
+      "title_pt": "LinkedIn lança seu Mercado de Criadores",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSGJzc1A5ZzZSNFBzRW9aMHE1SFVqMldtZFZYQlpSeG1WcUx2dE9pcXhXejNjOXJTREpvZkpSN0NXdFJmTEc4eE1zTmFtVHBxeFpjY1kyZXBwZlJGYWhUeEdDSzdpZEk0SUpTVXpySnpYMzZ4c0RscERYRTYybXFLUmJJNmJFZlAzbTVmXzN1b25PVzhmVFE?oc=5",
+      "date": "2026-06-10",
+      "category": "Redes Sociais",
+      "summary": "Agências devem explorar o Mercado de Criadores do LinkedIn para conectar marcas a influenciadores B2B, ampliando estratégias de conteúdo e alcance profissional.",
+      "key_insights": [
+        "Nova via para marketing de influência B2B, conectando marcas a especialistas.",
+        "Otimiza a distribuição de conteúdo e a estratégia de liderança de pensamento."
+      ],
+      "actionable_points": [
+        "Capacitar equipes para identificar e engajar criadores B2B no LinkedIn para clientes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "b68b4ae6980ba9073ea039d1daa625e9",
+      "title": "TikTok shares performance data on FMCG campaigns",
+      "title_pt": "TikTok compartilha dados de performance em campanhas de bens de consumo",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdnl0N093S1ZjSDhsc0hOY0tjUmhJcUNhbjlsWThTeGdlbVF2MzRSNURPV2ZaWkJzTkxPamhoRDg0RWJ4WjFraFB0ZmE4ejZ0bnBYZDNJRWFCdkJYXy14VVVaNW9iYUlYUGFLX2NoclU3N1dSR1FKMlRpSE9wWWc3ZWpFT04yN1F0REtlaUJXZW42ODdiWVA0UTVn?oc=5",
+      "date": "2026-06-10",
+      "category": "Dados & Métricas",
+      "summary": "Agências podem usar esses dados para otimizar estratégias de marketing de bens de consumo no TikTok e justificar investimentos.",
+      "key_insights": [
+        "Validação da eficácia do TikTok para marcas de bens de consumo (FMCG).",
+        "Otimização de ROI em campanhas sociais com base em dados reais da plataforma."
+      ],
+      "actionable_points": [
+        "Analisar dados do TikTok para refinar estratégias de clientes FMCG e relatórios de resultados."
+      ],
+      "relevance_score": 9,
+      "image_url": null
+    },
+    {
+      "id": "c6296427b004dbfeb908cbb5133d8083",
+      "title": "Meta will use off-site activity to customize feed and AI responses",
+      "title_pt": "Meta usará atividade fora da plataforma para personalizar feed e respostas de IA",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMTBMdU4wOTk3MFdPVjFSXzNkSmo3UklzS2NGUHNDeDBVMjhpdGZiMjdZSU9NOFhoZ0hvMWpCT1dTUi1aZGdaVjl5SXcydGVTTjd5RWlSZEhtd1huWERkWVJYMmhyTWxMUmtTZlNFcTNBUzNvb1dPMm5FOUhDdUJiNGpHWFhmVlV2YUdaUnN3MldhOVFXWTdRb19fQ2ZVUU5ybVp3QUdpdC01dU5BREduckt3?oc=5",
+      "date": "2026-06-10",
+      "category": "IA",
+      "summary": "Agências devem adaptar estratégias de conteúdo e segmentação, pois a Meta personalizará feeds e respostas de IA com base em dados de navegação externa.",
+      "key_insights": [
+        "A personalização avançada exige conteúdo mais contextual e relevante para cada usuário.",
+        "A coleta de dados off-site intensifica a necessidade de transparência e conformidade com privacidade."
+      ],
+      "actionable_points": [
+        "Revisar estratégias de segmentação e criativos para alinhar com a personalização baseada em dados externos."
+      ],
+      "relevance_score": 9,
+      "image_url": null
+    },
+    {
+      "id": "b61230512878a721202ca028ffa02d4d",
+      "title": "Meta’s lax community standards have led to increased harassment",
+      "title_pt": "Padrões de comunidade frouxos da Meta resultam em mais assédio",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeGpEQ0NxanBpdWJVSkFiUDE4cWFLYTRQcGpNYlkyRTZNZktNVVBnZmRQRjY3NWswZ3p2WWpKV1hoM0MxN3NQNlhCMThrX1pLc2phMFVCWGkwZUVNSE9Nd1pYRGUtWkl1WTlRU0hZMnMzSjlvSDhsUUtJcGZ2X0lac2lQQ0NnSUt3RGJxRXk4Q0R2c1lwdG90eUlpdjFuZkVnZVJhNWdWMHZsMFNS?oc=5",
+      "date": "2026-06-10",
+      "category": "Redes Sociais",
+      "summary": "Agências devem monitorar riscos de reputação e segurança de marca em plataformas Meta devido à moderação inadequada.",
+      "key_insights": [
+        "Marcas enfrentam maior risco de associação com conteúdo tóxico e ambientes inseguros.",
+        "A percepção de segurança do usuário nas plataformas Meta pode impactar o engajamento."
+      ],
+      "actionable_points": [
+        "Revisar e fortalecer estratégias de brand safety e moderação de comentários para clientes."
+      ],
+      "relevance_score": 9,
+      "image_url": null
+    },
+    {
+      "id": "2afd1364fa419655396d64f09e3da5c2",
+      "title": "Meta launches pop-ups in Best Buy stores",
+      "title_pt": "Meta lança lojas pop-up nas unidades da Best Buy",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcUZlOF85ZjdZWHg5UnM1Z2dWeDcyOG5BN1ljRzlmSFBHMFNlTHFtZEpfMGNzal82T3g1bmFjWEZrbXJJWmNHNGZuSTFCWnpHR3VXQWozck5yUExGZjF5cjVFekgyMEtaMjN6VmFkaHJvQjNkLXhPWU1tdTlsUS1ZQzZYcmdsRmJsVFNvZTRWUQ?oc=5",
+      "date": "2026-06-10",
+      "category": "Estratégia",
+      "summary": "Este movimento da Meta sinaliza uma crescente integração entre o varejo físico e as experiências digitais, impactando a estratégia de presença de marca para agências.",
+      "key_insights": [
+        "Meta busca expandir seu alcance e engajamento através de pontos de contato físicos com o consumidor.",
+        "Indica uma tendência de convergência entre canais online e offline para grandes plataformas de tecnologia."
+      ],
+      "actionable_points": [
+        "Agências devem considerar estratégias de marketing que integrem experiências digitais e físicas."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "9ad781d1e6d3e6013b4b46c72e5dc5fa",
+      "title": "30% of Millennial diners - Social Media Today",
+      "title_pt": "30% dos Millennials que frequentam restaurantes",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPOWxiSEtkeHFSblZKV3JJczZUWTVaQTRSbXVfaGFnLU8wamtUeUk3V29zUXUyLW1uSnVzV005anF6UHFsdXV6U0VZUDFJMVctSXZjeURsYkxKU2o5ZTlybTk5cDJQaGZBekNKNm9fVlEtd1lTeDBMQkdFU2MxWnZSZFhhZmxIcmRUXzI3NUVnQmp0c3JXMHRjeEZ6OGtSdWhOSWZsVjRYT1pmb1UydDVaWnhFZmlURktibk96bFFpLTNmVW5OUGdWNm1zS0pvc09nb1g1em5kbkhvT3lONjY0MmdUR21yZ3daZDEzNmlXWVNpNWlKWGhJT0dUUDk5UGtvQzNmaHR3?oc=5",
+      "date": "2026-06-10",
+      "category": "Comportamento",
+      "summary": "Agências precisam analisar dados de comportamento de nicho para otimizar estratégias de segmentação e conteúdo para clientes.",
+      "key_insights": [
+        "Entender hábitos de consumo de nicho é vital para campanhas de marketing direcionadas.",
+        "Millennials representam um segmento-chave com poder de compra no setor de alimentação."
+      ],
+      "actionable_points": [
+        "Investigar dados específicos sobre o comportamento de consumo de Millennials para clientes do setor."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "eb054d3810309b26f32841f9bd3c814c",
+      "title": "Instagram releases profile grid rearranging",
+      "title_pt": "Instagram lança recurso de reorganização do grid do perfil",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTFhuNzMwbnc5WXdVcV9iTmxMY0tvZll0RVltTHJYYVFpUnVWVVFTX0h3SmMzcU1DMkVMRlB3RHZXZTFzMzJjbmQ4U2l1VHRRNE03TG85U254Q0RjVUNFSmxRaUtkcWxZaVdXME81YkRUSGJxVE1sQzBWVDF6cEY0QjRlVWpGVzJqRXNoSGRPTzNhRzQ?oc=5",
+      "date": "2026-06-08",
+      "category": "Redes Sociais",
+      "summary": "Agências podem otimizar a narrativa visual de seus clientes no Instagram, destacando conteúdo estratégico no perfil.",
+      "key_insights": [
+        "Maior controle sobre a primeira impressão visual do perfil.",
+        "Permite adaptar o grid a campanhas e objetivos específicos."
+      ],
+      "actionable_points": [
+        "Revisar e otimizar grids de perfis de clientes para campanhas ativas."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "2a39a3b2c69f57eb7f5c82504d79092b",
+      "title": "Instagram expands Reels post-view ads to all advertisers",
+      "title_pt": "Instagram expande anúncios pós-visualização de Reels para todos os anunciantes",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON3NkcDhiNkRFZ2VLWl9LUFhwZlVpMHBMT1VlZ2pNaUtYek5lTEdvNWttOHRIajJ2OUM5SHRlajlkVHVhYUstTUE4eEk3bjdiQW9RU1F4Q3BqQ3NZc3A3bnVBMkVfY1BraVpBcFFNWkxtaXc0U2hfbUV0aXBISmFYRjlHcHdmUDhibExZZDZsaVFObmNsLU15dHJFSWt6Y2dqbWZEVQ?oc=5",
+      "date": "2026-06-08",
+      "category": "Redes Sociais",
+      "summary": "Agências devem explorar novas oportunidades de monetização e alcance em Reels com a expansão dos formatos de anúncio.",
+      "key_insights": [
+        "Maior inventário de anúncios em Reels aumenta o potencial de alcance e segmentação.",
+        "Necessidade de adaptar criativos para o formato vertical e engajador dos Reels."
+      ],
+      "actionable_points": [
+        "Testar e otimizar campanhas de anúncios pós-visualização em Reels para clientes."
+      ],
+      "relevance_score": 9,
+      "image_url": null
+    },
+    {
+      "id": "2ec6c09132e362f01047ee3f413858fe",
+      "title": "Instagram hack impacted more than 20K users",
+      "title_pt": "Hack no Instagram afetou mais de 20 mil usuários",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOc1AtcVI1d1RHYlg2c1A3RmRpMjBlSld1SzVWMzAzZXh0anFMZFV3bmdqUlFpQnRhNWlscHZQZlpobzZ2XzltcDZLb05jcnhObkhVRS1ITHFwWkxOSmtxYk1KSEVjQTVFcTNZZjBrMWFobWxiMDhKT3V1ek5rcWRGQWk0Z2YwX3JVZDNrNEgwOGNFZlU?oc=5",
+      "date": "2026-06-08",
+      "category": "Redes Sociais",
+      "summary": "Agências devem reforçar a segurança de contas de clientes e monitorar riscos de reputação em plataformas sociais.",
+      "key_insights": [
+        "A segurança de dados é crucial para a confiança e credibilidade do cliente.",
+        "Incidentes de segurança exigem planos de resposta a crises e comunicação transparente."
+      ],
+      "actionable_points": [
+        "Implementar 2FA e auditorias de segurança regulares nas contas de clientes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "358b5f37359fd6693b7c70847425a859",
+      "title": "TikTok announces 2026 Community Fest plans",
+      "title_pt": "TikTok anuncia planos para o Community Fest 2026",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPS0xOT25vdFRhOEx1NlVEQW02d3IwYkVaNC03QWp0NUJqdVRxeHJkbXV1aEVMQTNuNU1BZWRob2JieGNwM1VfWDN4NENld3p4WkV0VWZfaTlPdWpjX003WWhGMVBxMHhLR2NWNGZQMlVLWW1pQVVZQjE5bmNfOHUtRFNEd1k0VV9xS2RHVUNKdVQ5QQ?oc=5",
+      "date": "2026-06-08",
+      "category": "Redes Sociais",
+      "summary": "O anúncio do Community Fest do TikTok indica tendências futuras da plataforma e oportunidades de engajamento para marcas e criadores.",
+      "key_insights": [
+        "Foco do TikTok em comunidade e criadores sinaliza direções de conteúdo e engajamento.",
+        "Eventos como este podem preceder novas funcionalidades ou estratégias de monetização da plataforma."
+      ],
+      "actionable_points": [
+        "Acompanhar o evento para identificar novas funcionalidades e oportunidades para clientes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "06bb359493ebe7708a618c9c65a8e4fb",
+      "title": "Instagram outlines add-on subscription offerings",
+      "title_pt": "Instagram detalha ofertas de assinatura complementares",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV3JQQTVFQ0lCZ0Ixc3lud2s4SGsyd1Z0T2s0VnZwNy1iQjg1UHYxSG01YjF2MHVqNXcxS052ZmxtRHkzeG1yaVRrSGV2UHhTNUpvT2pWazJWbkJYQkpGelR5RmJXVGFUcG03SEFqWlJRNHV5MFlRalJUam9lZEt6X0ZsYVhlbmQ5cXZOODQzQ1g2UVBGQko0dGV3?oc=5",
+      "date": "2026-06-07",
+      "category": "Redes Sociais",
+      "summary": "Agências devem explorar novas oportunidades de monetização e engajamento para clientes através das assinaturas do Instagram.",
+      "key_insights": [
+        "Novas fontes de receita para criadores e marcas via conteúdo exclusivo.",
+        "Necessidade de adaptar estratégias de conteúdo para modelos de assinatura."
+      ],
+      "actionable_points": [
+        "Avaliar como as assinaturas podem beneficiar clientes e criar novos pacotes de serviços."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "fab26fa46b743434268008a58dbe505e",
+      "title": "LinkedIn adds more post performance insights",
+      "title_pt": "LinkedIn adiciona mais insights de desempenho de publicações",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOF8xYmxTaU0wTGNUZnVTNnl6OHNZTzBTa2hfcTgxM1p3SGFrVHUwa2REa3JnWEFPMThqREZJME9YWWdtQVlGenNkTWVlWVZsSURGUkhUTlZ3RnItVjdMSjFCcHR3WDF3N0daTDJBcEF0aWctZTRZdkpCZzFTc0lrcnNfNm1vRi1NS2staXhwdXJTVGlt?oc=5",
+      "date": "2026-06-07",
+      "category": "Dados & Métricas",
+      "summary": "Agências podem otimizar estratégias de conteúdo e relatórios para clientes com dados mais detalhados do LinkedIn.",
+      "key_insights": [
+        "Permite otimização mais precisa de campanhas e conteúdo no LinkedIn.",
+        "Melhora a capacidade de demonstrar ROI e valor das ações de marketing digital."
+      ],
+      "actionable_points": [
+        "Integrar os novos insights do LinkedIn nos relatórios e análises de clientes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "b55bbe3b177eae4a980872af15e017cf",
+      "title": "YouTube ends product tag experiment",
+      "title_pt": "YouTube encerra experimento de marcação de produtos",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTUhHMVQyUnZPNEVXUS1hYnZhcUhvWG5DYVJUNGhRSTFWYkgyeEhjRkxCQXo4TDZZV09YMVAxa012TU1BNFJfMEd6WHpBUWNIV0NZLTNmMjF4U1ZsYmJaTEo4MEY2UWthTzlPN2d6ZmEtX3AzNGRoSE5hVENRcW5BS3FFRHM0YlJh?oc=5",
+      "date": "2026-06-07",
+      "category": "Redes Sociais",
+      "summary": "O fim do experimento de tags de produto no YouTube exige que agências revisem estratégias de monetização e e-commerce na plataforma.",
+      "key_insights": [
+        "YouTube reavalia funcionalidades de e-commerce, indicando foco em outras áreas ou formatos.",
+        "Agências devem buscar alternativas para integração de produtos e vendas diretas no YouTube."
+      ],
+      "actionable_points": [
+        "Avaliar outras ferramentas de monetização do YouTube e explorar parcerias com influenciadores."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "02e41aa4dd4ba591b76e42b49393a34d",
+      "title": "Google tests Search profiles",
+      "title_pt": "Google testa perfis na Busca",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xRVBfQmJQNlh5SE84a0xRWWJyVVBRZHRaREFSTm51YldfVkJzTV8zbTE2Nm5ydllzdVVxTEpxN1Q3cEpGUmhWMGE1dUktUFh5Y053WEo5MWl3NUpRN0dWRkdBUTd3VTRQLWFtZWNGb25aNFJxNFVDczFLRXlad3M?oc=5",
+      "date": "2026-06-05",
+      "category": "Estratégia",
+      "summary": "Agências devem preparar-se para um Google Search mais personalizado e interativo, impactando SEO e estratégias de conteúdo.",
+      "key_insights": [
+        "A personalização da busca exigirá estratégias de conteúdo mais segmentadas e relevantes ao perfil do usuário.",
+        "Pode abrir portas para conteúdo gerado pelo usuário ou interações sociais diretamente na busca."
+      ],
+      "actionable_points": [
+        "Monitore o lançamento e comece a testar estratégias de conteúdo e SEO focadas em perfis de usuário."
+      ],
+      "relevance_score": 9,
+      "image_url": null
+    },
+    {
+      "id": "7ae7a7070bdf6820fbd05b70a60f7a50",
+      "title": "Meta launches creator assistant chatbot",
+      "title_pt": "Meta lança chatbot assistente para criadores",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSkp0UG9Hd2p5OWJoajV0OUhFdXRaUHNZcm41eWVIYWxqV240NXNOaTVpVDI1WGdJYVBpSGY2eW1valZfVWs2WFdCNFhJcnBRclF3RjhmbjdjVk9CUDJSYVRHSHZpSTB2Z2dJQUtNSFRNdmJxVC1VZWpxR0xoenJLeHZDSzRsQkFKYXhPd0hR?oc=5",
+      "date": "2026-06-05",
+      "category": "IA",
+      "summary": "Agências devem monitorar como essa ferramenta otimiza a produção de conteúdo e a gestão de criadores, impactando estratégias e eficiência.",
+      "key_insights": [
+        "Ferramentas de IA se tornam essenciais para a criação de conteúdo nas plataformas sociais.",
+        "Agências precisam entender como criadores usarão o chatbot para otimizar engajamento e produção."
+      ],
+      "actionable_points": [
+        "Avaliar o impacto do chatbot na eficiência dos criadores e na estratégia de conteúdo da agência."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "f51c062c1d6c0ee2a7148f57bbd99b88",
+      "title": "Hackers continue to exploit Meta’s AI agents",
+      "title_pt": "Hackers seguem explorando os agentes de IA da Meta",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON09id1NpRkVUd0JPVldYSGI4SFEwWFR2WWJqdW1sOU0ycDRWdnFMWm02bUZvbzNQSU5Fekh4ekFkdHpBc3NsUTVKclp1ODRkcUp4S2hZZGhPc3RLalV4N2Uwd0VVWkhIY2ZCdExqNHdBN2JZNDZYRjBxM2Q5MXE4UFJlbnd0Sml3TkVTY05DVENmc0k?oc=5",
+      "date": "2026-06-04",
+      "category": "IA",
+      "summary": "Agências devem monitorar riscos de segurança em IA de plataformas para proteger dados e reputação de clientes.",
+      "key_insights": [
+        "Vulnerabilidades em IA de plataformas afetam a confiança do usuário e a segurança da marca.",
+        "A segurança cibernética se torna um pilar crítico na adoção de soluções de IA em marketing."
+      ],
+      "actionable_points": [
+        "Avaliar e mitigar riscos de segurança ao integrar IA de terceiros nas estratégias de clientes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
     {
       "id": "de0f2e8719b0d8e9322bb5e55f51ba8d",
       "title": "Meta offers new AI messaging options for businesses",
@@ -33,6 +339,42 @@
       ],
       "actionable_points": [
         "Analisar o potencial da nova app para estratégias de eventos e influenciadores de clientes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "a9da29d8934ad784a51722daea8f207c",
+      "title": "Google looks to ease publisher concerns over the impact of AI Overviews on referral traffic",
+      "title_pt": "Google busca acalmar editores sobre o impacto das Visões Gerais de IA no tráfego de referência",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQllubzFDbWpScHhKczFEd3ZWWl9VdkxkbUFaQjFMQl9rOEJsVi1Bell6UG1EV2EwRXpQOUltX3BPOXRfamZTemdUSTdRTHNQd2s1SWN5Q1dNb25SOV9OMm9lYmFzdi1vaGRodjF4YTcwZ3duU2szZHFqTXJuVF9OQ0ZLOEhIWE9ZZ1VxeURBSDZXOW85QTNuSDNMNERENG83bm9XWUdReTBtVlVhYlVNU1h1QmxIbkExVGdtcA?oc=5",
+      "date": "2026-06-03",
+      "category": "IA",
+      "summary": "Agências devem reavaliar estratégias de SEO e conteúdo frente ao impacto das Visões Gerais de IA do Google no tráfego de referência.",
+      "key_insights": [
+        "A IA do Google pode diminuir o tráfego direto para sites de clientes.",
+        "Monitorar SERPs e adaptar SEO para visibilidade em resumos de IA é crucial."
+      ],
+      "actionable_points": [
+        "Desenvolver conteúdo otimizado para respostas diretas e Visões Gerais de IA do Google."
+      ],
+      "relevance_score": 9,
+      "image_url": null
+    },
+    {
+      "id": "b7dc4548a646525cd83ddcc1a2f70535",
+      "title": "SEMRush offers AI discovery tips for brands",
+      "title_pt": "SEMRush oferece dicas de descoberta de IA para marcas",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeE1yY3dmc0duSTRIYWF4QXIycnB5Qk1JZjNXekhOWmFIWU5GYXVSdHNTV1hxbW9xdFg2QjhlWE5BSkxfc2R2OHFxUkdhM2U1UDZCQVVhN1JSM1l1dkxQWjkwVEllR0pZRWNxbEMyR0tGU1N1MWpPRWQ0XzdYVEtmUHJHYUtvUHUwQi05dFl3MGUwdDQ?oc=5",
+      "date": "2026-06-03",
+      "category": "IA",
+      "summary": "Agências podem usar as dicas da SEMRush para otimizar a aplicação de IA nas estratégias de marketing de seus clientes.",
+      "key_insights": [
+        "Plataformas consagradas como SEMRush validam a importância da IA no marketing.",
+        "Foco em descoberta de IA aponta para a busca por novas aplicações e eficiências."
+      ],
+      "actionable_points": [
+        "Analisar as dicas da SEMRush para integrar novas aplicações de IA nas campanhas."
       ],
       "relevance_score": 8,
       "image_url": null
@@ -4766,80 +5108,6 @@
         "Incorporar análise de lacunas de conteúdo do LinkedIn nos relatórios mensais de inteligência competitiva"
       ],
       "relevance_score": 8
-    },
-    {
-      "id": "8522c8bea9dd08f130b5dcf2e6533da2",
-      "title": "Facebook adds AI-powered updates to Marketplace",
-      "title_pt": "Facebook adiciona atualizações com IA ao Marketplace",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUWtabzBLMEc5Y2ZxMExXYUl1WHZrOTFtOXFyZjBTMmg5eS1lV1gza0k4d25ZSlNkeVlHNDNObDJXNlZoY1J6bHhmaEpYYkx2R21NUWp2MThFN2VZOHpaSWEwNFIyWlZBUzFIbTBjbEtTZW16VzdlczFmT0lYY25qRmxzR1V1cEo1MXQ2Q21UNUR1T2NsektjRQ?oc=5",
-      "date": "2026-03-12",
-      "category": "IA",
-      "summary": "Agências devem explorar como a IA no Marketplace do Facebook otimiza o social commerce e a segmentação de anúncios para clientes.",
-      "key_insights": [
-        "IA aprimora a experiência de compra e venda no Facebook Marketplace.",
-        "Abre novas frentes para estratégias de social commerce e performance."
-      ],
-      "actionable_points": [
-        "Avaliar o impacto da IA no funil de vendas do Marketplace para campanhas de clientes."
-      ],
-      "relevance_score": 8,
-      "image_url": null
-    },
-    {
-      "id": "6cb08b93ea029be7b5548bfd044d0fd9",
-      "title": "Snapchat to host AR exhibition at SXSW with Jonathan Yeo",
-      "title_pt": "Snapchat sediará exposição de Realidade Aumentada no SXSW com Jonathan Yeo",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdmlOcmhDN1ZUb0xlV2NyZFN2YnVSMXdvQkR1bWV2TzlZbVRQUGlad0o3R3RISWhvTVdxMmFnTlNOTTZiQlNtd1Q5OElDaU0wdGVuRHpTWng3V2I4dW1IcUg3T3NrRTB2WEEyYVU4dXBhMWtLQncyZDRKMl92d25tSVNpN0ZtalJwdHNjcGNNRy1Gci02eHB0enpTNi1IaUFNc0VBbw?oc=5",
-      "date": "2026-03-12",
-      "category": "IA",
-      "summary": "Agências devem explorar a Realidade Aumentada como ferramenta imersiva para campanhas em redes sociais, antecipando tendências de engajamento.",
-      "key_insights": [
-        "AR em redes sociais cria experiências imersivas e inovadoras para marcas.",
-        "Eventos como SXSW destacam o futuro da interação digital e marketing experiencial."
-      ],
-      "actionable_points": [
-        "Desenvolver protótipos de campanhas AR para clientes, explorando plataformas como Snapchat."
-      ],
-      "relevance_score": 8,
-      "image_url": null
-    },
-    {
-      "id": "b01c4736a137ae94fcd035b8db85fff1",
-      "title": "LinkedIn tests out AI-powered interview screening",
-      "title_pt": "LinkedIn testa triagem de entrevistas impulsionada por IA",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNalBFM0xDSWE4MDNQX3lVNW5nWnpteWtKSnlHd3IzV2xpVmNNT3BJNzUxT2VXbl9EeEFzbWlCbHpPc0Z4ajlMYTJYcUZuekdqMnhGTHRyZ0NpNmtnWHMyYWZGUjVKc2VmbjBJZ2VrRlVFZ1daVWdQeERFdGNTSnR0R1NkRlZ2bmZkdEw5eXl1VTdEOVFSeUhGSmRyOA?oc=5",
-      "date": "2026-03-12",
-      "category": "IA",
-      "summary": "A implementação de IA para triagem de entrevistas no LinkedIn sinaliza uma transformação na aquisição de talentos, impactando diretamente as estratégias de employer branding e recrutamento de agências. Além disso, demonstra a crescente integração da IA em plataformas profissionais, exigindo que as agências monitorem como seus clientes interagem com essas novas funcionalidades.",
-      "key_insights": [
-        "A triagem por IA pode padronizar e otimizar o processo de seleção inicial, exigindo que candidatos e agências adaptem suas abordagens de apresentação de perfis.",
-        "A funcionalidade reforça a importância de perfis otimizados para algoritmos, tanto para agências que buscam talentos quanto para clientes que desejam atrair profissionais.",
-        "Indica uma tendência de plataformas sociais profissionais incorporarem ferramentas de RH mais sofisticadas, impactando a estratégia de employer branding e a comunicação de valores da empresa."
-      ],
-      "actionable_points": [
-        "Avaliar e otimizar os próprios processos de recrutamento da agência, considerando a influência de ferramentas de triagem por IA na atração de talentos.",
-        "Desenvolver e oferecer consultoria a clientes sobre como otimizar perfis e estratégias de conteúdo no LinkedIn para se destacarem em processos de seleção impulsionados por IA."
-      ],
-      "relevance_score": 8
-    },
-    {
-      "id": "abc006",
-      "title": "Gen Z consumer behavior report: how they discover and buy products",
-      "title_pt": "Relatório Gen Z: como descobrem e compram produtos online",
-      "url": "https://www.socialmediatoday.com/news/gen-z-consumer-behavior-discovery-purchase/",
-      "date": "2026-03-12",
-      "category": "Comportamento",
-      "summary": "Relatório com 5.000 consumidores da Gen Z revela que 67% descobrem produtos via TikTok e Reels, enquanto 41% concluem a compra sem sair da plataforma. O social commerce tornou-se o principal funil de vendas para produtos de consumo abaixo de R$200.",
-      "key_insights": [
-        "67% da Gen Z descobre produtos via TikTok e Reels — mídia social supera buscadores para essa audiência",
-        "41% compram sem sair da plataforma — social commerce como funil completo, não apenas de awareness",
-        "Produtos abaixo de R$200 têm conversão 3x maior via social commerce do que e-commerce tradicional"
-      ],
-      "actionable_points": [
-        "Propor estratégias de social commerce integrado para clientes com produtos de menor ticket voltados a jovens",
-        "Incluir TikTok Shop e Instagram Shopping como canais de conversão nos próximos planos de mídia"
-      ],
-      "relevance_score": 9
     }
   ]
 }
