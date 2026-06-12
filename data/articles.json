@@ -1,6 +1,60 @@
 {
-  "last_updated": "2026-06-11T13:56:49.521602+00:00",
+  "last_updated": "2026-06-12T12:50:41.342328+00:00",
   "articles": [
+    {
+      "id": "ea6701ae6be85a28d7d2639ebea1a22e",
+      "title": "Meta announces World Cup features across its apps",
+      "title_pt": "Meta anuncia recursos da Copa do Mundo em seus aplicativos",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN2ZfZmhFYWhZSnE0UDZYaGtTSHd5TFJEX2c2MFY4aGRVbzFrRnViTkUzSmtBeXRIQXl1RFFLRzVTX1RROFJFWDlScWRLWVdGYnRaMzVCUjhrMWpCV3VZd2VVLXk1U0tlMEpqRWJKOFptUHZTaFd3SFlwQzJVYXNPaW9SdUVfV3pWLUp6dmRnVVVRdjJhWnRhbmpYMA?oc=5",
+      "date": "2026-06-11",
+      "category": "Redes Sociais",
+      "summary": "Agências devem explorar os novos recursos da Meta para engajar audiências durante grandes eventos esportivos.",
+      "key_insights": [
+        "Eventos globais impulsionam engajamento massivo nas plataformas Meta.",
+        "Novas funcionalidades criam oportunidades para campanhas temáticas e interativas."
+      ],
+      "actionable_points": [
+        "Mapear e integrar recursos da Copa em estratégias de conteúdo para clientes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "3c8b5362186a2110583ddd13beb3099f",
+      "title": "YouTube expands in-app messaging",
+      "title_pt": "YouTube expande mensagens no aplicativo",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdVJ4X3JaOEo4cU1DTkNOVXdWZHlnSlFuVS12Q0oxamo4OEtuTW9QYXZBUlNVeGNxREU4QkxqLUtqbmFXTk1qUTg1WFVLNUtzMWpCNVV4cFVDLWxrTjBTMlRRRE1ydTE2LV95cU5TWmV0UlVSc2dQcnJ1UWF0S0xjV0dyWTQ?oc=5",
+      "date": "2026-06-11",
+      "category": "Redes Sociais",
+      "summary": "Agências devem explorar novas funcionalidades de mensagens do YouTube para fortalecer a interação direta e a construção de comunidades para seus clientes.",
+      "key_insights": [
+        "Fortalece a construção de comunidades e a interação direta com audiências.",
+        "Cria novas oportunidades para campanhas de engajamento e suporte ao cliente."
+      ],
+      "actionable_points": [
+        "Desenvolver estratégias para uso das mensagens no YouTube em campanhas de clientes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
+    {
+      "id": "640a33386e7e10c432b2b33735bd692c",
+      "title": "Pinterest adds Amazon Storefront linking",
+      "title_pt": "Pinterest adiciona link para Lojas da Amazon",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdnVKOUZvNVNzRDNRX0xOdzRhUUdvdmt1bE1GdXBVUmNIYmFmcWFYTkE3Q3I5SXFJdXIzNWZ1X0lqUlVsZGhWcEVXYjYwY3BkTUVUZlVJUDlNczd5b0FUd2ZGWFFmVHlGcjFJNUlzU1FSSmVmTDhNWXBDX0tBbGNUSmd1bjUwY1ZFTm9sYWN2NA?oc=5",
+      "date": "2026-06-10",
+      "category": "Redes Sociais",
+      "summary": "A nova funcionalidade do Pinterest cria oportunidades diretas de social commerce para clientes de e-commerce e varejo.",
+      "key_insights": [
+        "Cria um caminho direto da inspiração à compra no Pinterest.",
+        "Fortalece o papel do Pinterest no funil de vendas e e-commerce."
+      ],
+      "actionable_points": [
+        "Avaliar a integração de Lojas Amazon de clientes nas estratégias de Pinterest."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
     {
       "id": "48505d3add4778333210fb5617264b1d",
       "title": "Instagram extends Your Algorithm to the main feed",
@@ -5070,44 +5124,6 @@
         "Atualizar relatórios de performance com nova baseline de alcance orgânico para 2026"
       ],
       "relevance_score": 9
-    },
-    {
-      "id": "6bbb562e0609afc65cafacd56be1465b",
-      "title": "LinkedIn updates its Feed algorithm",
-      "title_pt": "LinkedIn atualiza seu algoritmo do Feed",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbExNdlF0VHRKTmtQcnpTS2NmMnNiZ0kwdWFLMVo5SXFBUWVteDItdHNoWGh1VEZXY2M2emFBZ09hS3VpNkxKbFY1d0NBeTh6N1N0WW9iRnVucjQ1QlJYMWktNTlQVDZTWlZDV0N5LW9BVXhQNTJZRmJoclpOWjc2Z0ppUW1pTXpi?oc=5",
-      "date": "2026-03-13",
-      "category": "Redes Sociais",
-      "summary": "A atualização do algoritmo do LinkedIn impacta diretamente a visibilidade e o engajamento do conteúdo B2B e de branding pessoal. Agências precisam ajustar suas estratégias para garantir que as mensagens dos clientes continuem alcançando o público-alvo de forma eficaz, otimizando o alcance orgânico e o desempenho das campanhas.",
-      "key_insights": [
-        "A compreensão das novas prioridades do algoritmo é essencial para otimizar o alcance orgânico de conteúdo B2B e profissional.",
-        "Novas diretrizes podem favorecer formatos específicos de conteúdo ou tipos de interação, exigindo adaptação nas estratégias de criação.",
-        "A atualização pode alterar a dinâmica de visibilidade entre perfis pessoais e páginas de empresas, impactando estratégias de branding e liderança de pensamento."
-      ],
-      "actionable_points": [
-        "Realizar um estudo aprofundado das mudanças anunciadas pelo LinkedIn e análises de mercado para entender as novas regras de engajamento e distribuição.",
-        "Implementar testes A/B com diferentes formatos e estratégias de conteúdo para clientes no LinkedIn, monitorando métricas de alcance e engajamento para identificar as táticas mais eficazes."
-      ],
-      "relevance_score": 8
-    },
-    {
-      "id": "abc005",
-      "title": "LinkedIn introduces AI-powered content suggestions for company pages",
-      "title_pt": "LinkedIn lança sugestões de conteúdo com IA para páginas empresariais",
-      "url": "https://www.socialmediatoday.com/news/linkedin-ai-content-suggestions-company-pages/",
-      "date": "2026-03-13",
-      "category": "IA",
-      "summary": "O LinkedIn expandiu seus recursos de IA para páginas empresariais, oferecendo sugestões automáticas de conteúdo baseadas no setor, audiência e tendências de engajamento. O recurso inclui análise de lacunas de conteúdo e calendário editorial inteligente.",
-      "key_insights": [
-        "LinkedIn integra IA diretamente na gestão de páginas empresariais — facilita trabalho de agências B2B",
-        "Calendário editorial com IA pode otimizar frequência e timing de posts para maximizar alcance",
-        "Ferramenta de análise de lacunas indica temas que a concorrência não está abordando"
-      ],
-      "actionable_points": [
-        "Testar o recurso nas páginas LinkedIn dos clientes B2B imediatamente para ganhar vantagem early adopter",
-        "Incorporar análise de lacunas de conteúdo do LinkedIn nos relatórios mensais de inteligência competitiva"
-      ],
-      "relevance_score": 8
     }
   ]
 }
