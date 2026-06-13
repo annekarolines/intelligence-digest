@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-06-12T12:50:41.342328+00:00",
+  "last_updated": "2026-06-13T11:49:46.029481+00:00",
   "articles": [
+    {
+      "id": "999c5a8646384bbaf863b8c382886724",
+      "title": "Meta publishes 2026 holiday planning guide",
+      "title_pt": "Meta publica guia de planejamento para as festas de 2026",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQnp1VTZXZUtnVGRBSWlHTWZyYjlyRmVVVmNpVXhrQTF0QUVUcEJ5WFZyVDhCeE9sUVVlZkZqdUFVWEFRRVVwdTVoYmh3eEpzVlFaaW9ydzBSdGtkLWFNNzJKMC1SX2EyN0lkVklsS3JLMWVKS2M4MTliTG1FU0N4cVJLcHpBV3dUQWU0THdDUW0wQQ?oc=5",
+      "date": "2026-06-11",
+      "category": "Redes Sociais",
+      "summary": "Este guia oferece insights cruciais para agências planejarem campanhas de fim de ano com antecedência nas plataformas da Meta.",
+      "key_insights": [
+        "Antecipação estratégica é vital para maximizar o impacto das campanhas de fim de ano na Meta.",
+        "Compreender as tendências e ferramentas da Meta para o período festivo de 2026."
+      ],
+      "actionable_points": [
+        "Iniciar o planejamento das campanhas de fim de ano de 2026 com base nas diretrizes da Meta."
+      ],
+      "relevance_score": 9,
+      "image_url": null
+    },
+    {
+      "id": "0d24386c7aab52b4fe58aecb2bb6dc38",
+      "title": "LinkedIn outlines effective B2B marketing strategies",
+      "title_pt": "LinkedIn detalha estratégias eficazes de marketing B2B",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaktqSklnMFp1Mll0MDdaNzVteGs2NndxclY3TWtuNmk5aC1Ydmx2TVgzVHpmWUprMTlBUTNGM3pDZzNGWWM1VGFvempwM2VmZTZfS05qbWd4empKa1lJSzdVRkZ0TDZxQ2swSTVERUZWeU9WN096NUhwT1lfUEs4UkhDSWdPVGZXT0tHMjRhMEdTbXJKU3Q4aVpnTThvblU?oc=5",
+      "date": "2026-06-11",
+      "category": "Estratégia",
+      "summary": "Agências devem dominar as estratégias de marketing B2B do LinkedIn para otimizar campanhas e gerar resultados para clientes.",
+      "key_insights": [
+        "LinkedIn é plataforma essencial para geração de leads B2B e construção de marca.",
+        "Dominar táticas B2B específicas do LinkedIn otimiza resultados para clientes."
+      ],
+      "actionable_points": [
+        "Revisar recomendações do LinkedIn para aprimorar estratégias B2B de clientes."
+      ],
+      "relevance_score": 8,
+      "image_url": null
+    },
     {
       "id": "ea6701ae6be85a28d7d2639ebea1a22e",
       "title": "Meta announces World Cup features across its apps",
@@ -5105,25 +5141,6 @@
         "Apresentar ROI de produtividade com IA em próximas reuniões de planejamento com clientes"
       ],
       "relevance_score": 10
-    },
-    {
-      "id": "abc004",
-      "title": "TikTok's algorithm changes are driving lower organic reach for brands",
-      "title_pt": "Mudanças no algoritmo do TikTok reduzem alcance orgânico de marcas",
-      "url": "https://www.socialmediatoday.com/news/tiktok-algorithm-changes-organic-reach/",
-      "date": "2026-03-14",
-      "category": "Dados & Métricas",
-      "summary": "Novo estudo aponta queda média de 23% no alcance orgânico de conteúdo de marcas no TikTok após atualização do algoritmo em fevereiro. A mudança prioriza criadores individuais e conteúdo ultra-nichado, impactando estratégias de brand awareness de grandes anunciantes.",
-      "key_insights": [
-        "Queda de 23% no alcance orgânico de marcas confirma virada do algoritmo para criadores individuais",
-        "Conteúdo ultra-nichado e autêntico performa melhor que produção polida de marcas",
-        "Tendência reforça necessidade de estratégias com creators ao invés de conteúdo direto de marca"
-      ],
-      "actionable_points": [
-        "Revisar estratégia TikTok dos clientes priorizando parcerias com micro-criadores nichados",
-        "Atualizar relatórios de performance com nova baseline de alcance orgânico para 2026"
-      ],
-      "relevance_score": 9
     }
   ]
 }
