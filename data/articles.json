@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T11:49:46.029481+00:00",
+  "last_updated": "2026-06-14T11:50:01.578513+00:00",
   "articles": [
     {
       "id": "999c5a8646384bbaf863b8c382886724",
@@ -5122,25 +5122,6 @@
         "Considerar alternativas de atendimento como WhatsApp Business para comunicações sensíveis"
       ],
       "relevance_score": 7
-    },
-    {
-      "id": "abc003",
-      "title": "How AI is reshaping social media content strategy for brands",
-      "title_pt": "Como a IA está redefinindo a estratégia de conteúdo em redes sociais",
-      "url": "https://www.socialmediatoday.com/news/ai-reshaping-social-media-content-strategy/",
-      "date": "2026-03-15",
-      "category": "IA",
-      "summary": "Pesquisa revela que 78% das equipes de marketing já utilizam IA generativa para criação de conteúdo em redes sociais. O relatório aponta que agências que integram IA ao workflow produzem 3x mais conteúdo com o mesmo time, mas enfrentam desafios de autenticidade.",
-      "key_insights": [
-        "78% das equipes de marketing já usam IA para criação de conteúdo — adoção acelera",
-        "Ganho de produtividade de 3x no volume de conteúdo com equipes do mesmo tamanho",
-        "Autenticidade e tom de voz emergem como principais desafios de qualidade do conteúdo gerado por IA"
-      ],
-      "actionable_points": [
-        "Estruturar guidelines de tom de voz e brand voice para cada cliente como input de qualidade para IA",
-        "Apresentar ROI de produtividade com IA em próximas reuniões de planejamento com clientes"
-      ],
-      "relevance_score": 10
     }
   ]
 }
